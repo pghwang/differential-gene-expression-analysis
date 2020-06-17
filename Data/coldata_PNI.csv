@@ -1,0 +1,1065 @@
+,cancer_type,submitter_id,PNI,LVI,filename,Diagnosis.Age,Sex,Race.Category,filename_edited
+2,HNSC,"TCGA-CV-7430	",1,1,a0ba142c-00e4-4ad9-8f2d-b53457bb21c8.htseq.counts.gz,56,Male,WHITE,a0ba142c.00e4.4ad9.8f2d.b53457bb21c8.
+3,PRAD,TCGA-EJ-5518,1,1,a0c52010-3ef6-4ec9-b944-e967b36da124.htseq.counts.gz,66,Male,WHITE,a0c52010.3ef6.4ec9.b944.e967b36da124.
+5,PAAD,TCGA-HZ-A77O,1,1,a0f5f7d4-88e0-4f3b-853b-e1e4f6bca748.htseq.counts.gz,77,Female,WHITE,a0f5f7d4.88e0.4f3b.853b.e1e4f6bca748.
+6,PRAD,TCGA-ZG-A9MC,1,0,a10754e5-ff6e-4956-a654-0e17f854d7e8.htseq.counts.gz,69,Male,WHITE,a10754e5.ff6e.4956.a654.0e17f854d7e8.
+7,PAAD,TCGA-2J-AABP,0,0,a155ec07-2baf-404b-85bc-28330a8fee33.htseq.counts.gz,58,Female,WHITE,a155ec07.2baf.404b.85bc.28330a8fee33.
+11,PAAD,TCGA-IB-A7M4,0,1,a19219b1-db59-4493-83ef-e938e2ffdefd.htseq.counts.gz,81,Male,WHITE,a19219b1.db59.4493.83ef.e938e2ffdefd.
+14,PRAD,TCGA-CH-5752,1,1,a1d5d861-951e-48c6-ae6a-acbae24c214d.htseq.counts.gz,66,Male,WHITE,a1d5d861.951e.48c6.ae6a.acbae24c214d.
+16,HNSC,"TCGA-BA-6869	",0,0,a210d103-3512-496c-82bf-515a6edcd7e7.htseq.counts.gz,62,Male,WHITE,a210d103.3512.496c.82bf.515a6edcd7e7.
+17,STAD,TCGA-HU-A4H2,1,1,a2171910-1526-41fb-a57f-14e01c1afc67.htseq.counts.gz,58,Female,ASIAN,a2171910.1526.41fb.a57f.14e01c1afc67.
+21,PRAD,TCGA-CH-5788,1,1,a273ebe0-bea5-40ee-acc3-a4f69c9fb3b0.htseq.counts.gz,69,Male,WHITE,a273ebe0.bea5.40ee.acc3.a4f69c9fb3b0.
+23,PAAD,TCGA-RB-A7B8,1,0,a2a33be8-232b-44bf-a003-349017a5bc5a.htseq.counts.gz,81,Female,WHITE,a2a33be8.232b.44bf.a003.349017a5bc5a.
+24,PRAD,TCGA-EJ-5505,0,0,a2eb131b-ee21-4502-b626-ee4cd42ef1ea.htseq.counts.gz,57,Male,WHITE,a2eb131b.ee21.4502.b626.ee4cd42ef1ea.
+26,PRAD,TCGA-V1-A8WN,0,NA,a328f9b1-16f8-4b00-aebe-781ac3307109.htseq.counts.gz,47,Male,BLACK OR AFRICAN AMERICAN,a328f9b1.16f8.4b00.aebe.781ac3307109.
+27,HNSC,"TCGA-CN-6017	",0,1,a32b6a6b-c776-473d-925a-c82421b1c5f1.htseq.counts.gz,55,Male,WHITE,a32b6a6b.c776.473d.925a.c82421b1c5f1.
+29,PRAD,TCGA-G9-7510,1,0,a460b3e4-34ad-4ec0-b921-254432ffe01e.htseq.counts.gz,66,Male,WHITE,a460b3e4.34ad.4ec0.b921.254432ffe01e.
+31,HNSC,"TCGA-UF-A7JS	",1,1,a4aaba48-26ef-4400-b3a0-9d6922ef76e7.htseq.counts.gz,59,Male,WHITE,a4aaba48.26ef.4400.b3a0.9d6922ef76e7.
+34,HNSC,"TCGA-CV-6941	",1,NA,a4e355f9-b44d-43ab-ba1e-d76e0538f8fb.htseq.counts.gz,51,Male,WHITE,a4e355f9.b44d.43ab.ba1e.d76e0538f8fb.
+35,PRAD,TCGA-H9-7775,0,0,a513e301-c015-4102-9418-620e5e576ebc.htseq.counts.gz,68,Male,WHITE,a513e301.c015.4102.9418.620e5e576ebc.
+36,HNSC,"TCGA-H7-A6C4	",1,1,a56fd480-01e5-4d43-a38d-4bb89cc559b5.htseq.counts.gz,35,Female,WHITE,a56fd480.01e5.4d43.a38d.4bb89cc559b5.
+43,HNSC,"TCGA-CR-7395	",0,0,a64e7f14-8136-4db2-91a6-458104519b17.htseq.counts.gz,80,Female,WHITE,a64e7f14.8136.4db2.91a6.458104519b17.
+44,HNSC,"TCGA-CQ-7071	",0,0,a690748c-596c-423b-97a9-e02a604adf55.htseq.counts.gz,76,Female,WHITE,a690748c.596c.423b.97a9.e02a604adf55.
+46,HNSC,"TCGA-H7-8501	",1,1,a6a8e43e-5110-461e-8e16-e53ab44dd612.htseq.counts.gz,54,Male,WHITE,a6a8e43e.5110.461e.8e16.e53ab44dd612.
+47,PAAD,TCGA-L1-A7W4,1,1,a6ad90fe-ccfe-47ce-9e5a-95f5e7acf761.htseq.counts.gz,48,Female,WHITE,a6ad90fe.ccfe.47ce.9e5a.95f5e7acf761.
+48,STAD,TCGA-IN-A6RL,1,1,a6e103f3-c0e2-4673-95ed-35bf7114ba9d.htseq.counts.gz,84,Male,WHITE,a6e103f3.c0e2.4673.95ed.35bf7114ba9d.
+49,PRAD,TCGA-G9-7523,1,0,a6fd39af-570e-4dcc-a3fd-62ed42192236.htseq.counts.gz,44,Male,BLACK OR AFRICAN AMERICAN,a6fd39af.570e.4dcc.a3fd.62ed42192236.
+50,PRAD,TCGA-J4-8200,1,0,a71446c9-ac16-43a3-bf7b-3847562b4808.htseq.counts.gz,47,Male,ASIAN,a71446c9.ac16.43a3.bf7b.3847562b4808.
+51,HNSC,"TCGA-CV-A6K0	",0,0,a7208747-f725-4d83-9fb0-e8e53b497938.htseq.counts.gz,58,Male,WHITE,a7208747.f725.4d83.9fb0.e8e53b497938.
+53,ESCA,TCGA-VR-A8EW,0,0,a7563741-4e31-403c-b753-98286dc9effa.htseq.counts.gz,57,Male,ASIAN,a7563741.4e31.403c.b753.98286dc9effa.
+54,HNSC,TCGA-CN-6011,0,0,a75663da-0a7f-4dd7-9435-84a0e01cafb2.htseq.counts.gz,57,Male,WHITE,a75663da.0a7f.4dd7.9435.84a0e01cafb2.
+55,PRAD,TCGA-EJ-A65D,1,0,a76ff905-be26-421a-9804-9244ee42bd87.htseq.counts.gz,66,Male,WHITE,a76ff905.be26.421a.9804.9244ee42bd87.
+56,PRAD,TCGA-EJ-7125,1,0,a772773c-9c24-4eb0-bd27-70c8a72b2f51.htseq.counts.gz,44,Male,WHITE,a772773c.9c24.4eb0.bd27.70c8a72b2f51.
+57,PRAD,TCGA-EJ-5517,1,0,a77f1d68-2d12-46f4-aaca-68ac2cd921d8.htseq.counts.gz,55,Male,WHITE,a77f1d68.2d12.46f4.aaca.68ac2cd921d8.
+60,HNSC,"TCGA-QK-A8Z9	",1,1,a82da9c2-5488-447f-a8e4-2612e3d34cb0.htseq.counts.gz,56,Male,BLACK OR AFRICAN AMERICAN,a82da9c2.5488.447f.a8e4.2612e3d34cb0.
+61,COAD,"TCGA-NH-A8F8	",0,1,a865bc94-a60d-4927-a842-8c0d6fced029.htseq.counts.gz,79,Male,BLACK OR AFRICAN AMERICAN,a865bc94.a60d.4927.a842.8c0d6fced029.
+62,CHOL,TCGA-ZH-A8Y4,0,0,a8832eae-f36d-4ac5-b4c6-f8411a85d926.htseq.counts.gz,58,Male,WHITE,a8832eae.f36d.4ac5.b4c6.f8411a85d926.
+65,COAD,"TCGA-AZ-6608	",0,1,a8d7571b-7539-40ac-8be9-209aa54769d2.htseq.counts.gz,55,Female,WHITE,a8d7571b.7539.40ac.8be9.209aa54769d2.
+66,PRAD,TCGA-XK-AAJR,1,1,a92efe2e-fd0d-4e40-a90f-d0343b079d5d.htseq.counts.gz,61,Male,WHITE,a92efe2e.fd0d.4e40.a90f.d0343b079d5d.
+67,PRAD,TCGA-KC-A7F3,1,0,a94e8cae-cfd3-4f4a-bd6c-9cd80852128a.htseq.counts.gz,67,Male,WHITE,a94e8cae.cfd3.4f4a.bd6c.9cd80852128a.
+68,COAD,"TCGA-DC-6683	",1,NA,a95832f5-fbd1-482c-951d-8bb37fa02a4c.htseq.counts.gz,43,Male,WHITE,a95832f5.fbd1.482c.951d.8bb37fa02a4c.
+70,PRAD,TCGA-EJ-5511,1,0,a97865ce-8a94-43aa-8998-4fc336300c77.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,a97865ce.8a94.43aa.8998.4fc336300c77.
+71,PAAD,TCGA-IB-7649,1,1,a995d6ba-19c7-498f-b2d8-3f9b4b4826a1.htseq.counts.gz,73,Female,,a995d6ba.19c7.498f.b2d8.3f9b4b4826a1.
+72,HNSC,"TCGA-P3-A6T4	",1,NA,a9a869a7-cf10-4b94-9b04-d98a8d49b880.htseq.counts.gz,54,Male,WHITE,a9a869a7.cf10.4b94.9b04.d98a8d49b880.
+73,STAD,TCGA-FP-8631,1,1,a9d18d0c-c95b-41e9-8e6a-277c8654762d.htseq.counts.gz,68,Male,WHITE,a9d18d0c.c95b.41e9.8e6a.277c8654762d.
+74,PRAD,TCGA-EJ-A7NG,1,0,a9d1ff39-da59-4c95-a402-1793e6c9f5e4.htseq.counts.gz,64,Male,WHITE,a9d1ff39.da59.4c95.a402.1793e6c9f5e4.
+76,BRCA,TCGA-A2-A4RW,1,0,a9f75c82-3489-4b20-bf60-59fe5ef83f21.htseq.counts.gz,49,Female,WHITE,a9f75c82.3489.4b20.bf60.59fe5ef83f21.
+77,PAAD,TCGA-FB-AAPP,1,1,a9fbe593-42f7-4597-a61c-240408bbe203.htseq.counts.gz,71,Male,WHITE,a9fbe593.42f7.4597.a61c.240408bbe203.
+78,PRAD,TCGA-J4-A83J,1,0,aa09a5af-44cc-4f04-9ad9-d3b0a8b6aafc.htseq.counts.gz,68,Male,WHITE,aa09a5af.44cc.4f04.9ad9.d3b0a8b6aafc.
+80,COAD,"TCGA-DC-6158	",1,1,aa4a76e4-5348-479c-8beb-3e4e34e18ce9.htseq.counts.gz,70,Male,WHITE,aa4a76e4.5348.479c.8beb.3e4e34e18ce9.
+83,PAAD,TCGA-HZ-8003,1,1,aab761be-87c9-41a2-99b8-8bed9032333c.htseq.counts.gz,65,Female,WHITE,aab761be.87c9.41a2.99b8.8bed9032333c.
+84,HNSC,"TCGA-QK-A6VC	",1,0,aaf80230-460a-4f5a-8517-ae23b0ea8381.htseq.counts.gz,62,Female,BLACK OR AFRICAN AMERICAN,aaf80230.460a.4f5a.8517.ae23b0ea8381.
+87,PRAD,TCGA-KK-A7AU,1,0,aba86dd9-3af2-48b4-8051-c359fc0c33e9.htseq.counts.gz,63,Male,WHITE,aba86dd9.3af2.48b4.8051.c359fc0c33e9.
+88,HNSC,"TCGA-CQ-6224	",1,0,abb7069d-2ead-4970-80e7-178fa8b4bb88.htseq.counts.gz,52,Male,WHITE,abb7069d.2ead.4970.80e7.178fa8b4bb88.
+89,PRAD,TCGA-V1-A8WW,1,1,abbc73c6-861b-48f7-8d6f-6ee9bf18a71f.htseq.counts.gz,59,Male,WHITE,abbc73c6.861b.48f7.8d6f.6ee9bf18a71f.
+92,HNSC,"TCGA-CR-7379	",0,0,ac580c41-c1ff-4fa3-afac-fbdb30636ab2.htseq.counts.gz,78,Female,WHITE,ac580c41.c1ff.4fa3.afac.fbdb30636ab2.
+94,PRAD,TCGA-EJ-7321,1,0,acb3e352-b255-4c41-b90f-5e5ed2273b06.htseq.counts.gz,57,Male,BLACK OR AFRICAN AMERICAN,acb3e352.b255.4c41.b90f.5e5ed2273b06.
+99,COAD,"TCGA-G4-6298	",1,NA,adcc8dd9-0bb9-45eb-b44e-013c7167dd83.htseq.counts.gz,90,Male,BLACK OR AFRICAN AMERICAN,adcc8dd9.0bb9.45eb.b44e.013c7167dd83.
+100,HNSC,TCGA-CN-4723,0,0,adf6f517-d543-46f4-be85-ceeccb398723.htseq.counts.gz,67,Male,WHITE,adf6f517.d543.46f4.be85.ceeccb398723.
+101,PRAD,TCGA-HC-A8D0,1,0,ae10c40e-5a02-4f35-a43f-60ab2ccfd2c5.htseq.counts.gz,61,Male,WHITE,ae10c40e.5a02.4f35.a43f.60ab2ccfd2c5.
+105,PRAD,TCGA-EJ-A7NN,1,1,ae46bb35-cc4c-48d8-92bc-c11ff1b1096e.htseq.counts.gz,61,Male,WHITE,ae46bb35.cc4c.48d8.92bc.c11ff1b1096e.
+108,PRAD,TCGA-ZG-A9KY,1,1,ae9e2486-4cc2-4bf6-bbeb-c467833080d7.htseq.counts.gz,73,Male,WHITE,ae9e2486.4cc2.4bf6.bbeb.c467833080d7.
+110,PRAD,TCGA-HC-7079,1,0,aeb3d2e3-bc67-4ce1-b9b4-3e150621e258.htseq.counts.gz,51,Male,WHITE,aeb3d2e3.bc67.4ce1.b9b4.3e150621e258.
+111,PAAD,TCGA-HZ-8001,1,0,aec2e0c7-4792-41af-873c-3f3a53ec6d38.htseq.counts.gz,69,Male,WHITE,aec2e0c7.4792.41af.873c.3f3a53ec6d38.
+113,PAAD,TCGA-2J-AABR,1,0,aeeb2bc3-c26d-4988-b4d6-425c7b2db8ae.htseq.counts.gz,60,Female,WHITE,aeeb2bc3.c26d.4988.b4d6.425c7b2db8ae.
+115,PRAD,TCGA-YL-A8HO,1,0,af34c270-e84d-441c-8cac-919cc810359d.htseq.counts.gz,67,Male,BLACK OR AFRICAN AMERICAN,af34c270.e84d.441c.8cac.919cc810359d.
+117,PRAD,TCGA-ZG-A8QY,0,0,af5eab76-9014-4e19-ae61-b9d523693ee1.htseq.counts.gz,67,Male,WHITE,af5eab76.9014.4e19.ae61.b9d523693ee1.
+118,PRAD,TCGA-CH-5768,1,0,af6221a1-30ba-4501-914f-393a07cc6594.htseq.counts.gz,72,Male,WHITE,af6221a1.30ba.4501.914f.393a07cc6594.
+119,HNSC,"TCGA-CV-6933	",1,1,afb668fa-aa77-4b25-886a-6afc513d8376.htseq.counts.gz,53,Male,WHITE,afb668fa.aa77.4b25.886a.6afc513d8376.
+121,COAD,"TCGA-DC-4745	",0,0,afdad23b-73a0-4cc2-8fa7-692d8f0908f8.htseq.counts.gz,49,Female,WHITE,afdad23b.73a0.4cc2.8fa7.692d8f0908f8.
+128,HNSC,"TCGA-CQ-7063	",0,0,b1264982-6c82-4566-9576-444de6a05548.htseq.counts.gz,59,Female,WHITE,b1264982.6c82.4566.9576.444de6a05548.
+130,PAAD,TCGA-2L-AAQL,1,1,b14ad58e-4740-4c4f-83ff-7535efe6a055.htseq.counts.gz,82,Male,WHITE,b14ad58e.4740.4c4f.83ff.7535efe6a055.
+132,COAD,"TCGA-NH-A6GC	",0,0,b1868d9d-ef06-4353-883b-230dae23f8b6.htseq.counts.gz,66,Female,BLACK OR AFRICAN AMERICAN,b1868d9d.ef06.4353.883b.230dae23f8b6.
+134,PRAD,TCGA-J4-A83K,1,0,b201bab0-bd32-4bf0-b2f2-caa01a83365d.htseq.counts.gz,52,Male,WHITE,b201bab0.bd32.4bf0.b2f2.caa01a83365d.
+135,PAAD,TCGA-3A-A9IX,1,0,b244f324-fd8a-4d4b-b8f5-bad973c649d5.htseq.counts.gz,40,Male,WHITE,b244f324.fd8a.4d4b.b8f5.bad973c649d5.
+136,COAD,"TCGA-CK-5912	",0,0,b26f9ac5-9100-4530-8582-11ab9dbfd669.htseq.counts.gz,81,Male,WHITE,b26f9ac5.9100.4530.8582.11ab9dbfd669.
+137,STAD,TCGA-HU-8608,1,0,b287a691-9eb4-4fc5-a3e9-bfee3464e59f.htseq.counts.gz,70,Male,ASIAN,b287a691.9eb4.4fc5.a3e9.bfee3464e59f.
+139,BLCA,TCGA-DK-A3IK,1,1,b2bb6d5c-9e6e-4b0c-bcd2-737295294661.htseq.counts.gz,87,Male,WHITE,b2bb6d5c.9e6e.4b0c.bcd2.737295294661.
+140,STAD,TCGA-VQ-A92D,1,0,b2cde560-9b2f-4dd3-8251-fab30d49566b.htseq.counts.gz,67,Male,WHITE,b2cde560.9b2f.4dd3.8251.fab30d49566b.
+142,PRAD,TCGA-EJ-5506,1,1,b2d78d63-db6d-42d2-bcbe-2938cf7fbf18.htseq.counts.gz,67,Male,WHITE,b2d78d63.db6d.42d2.bcbe.2938cf7fbf18.
+143,BLCA,TCGA-DK-A2I6,1,1,b2eeaa64-92f6-46cf-a721-6b7e2c96739b.htseq.counts.gz,81,Male,WHITE,b2eeaa64.92f6.46cf.a721.6b7e2c96739b.
+144,STAD,TCGA-HU-A4GU,0,1,b3113d8e-5469-460e-a143-e51d07c64e48.htseq.counts.gz,73,Male,ASIAN,b3113d8e.5469.460e.a143.e51d07c64e48.
+145,HNSC,TCGA-QK-A6V9        ,0,0,b32a3ac0-0674-44f2-8b91-d7edd9eb754c.htseq.counts.gz,56,Male,WHITE,b32a3ac0.0674.44f2.8b91.d7edd9eb754c.
+146,PRAD,TCGA-HC-8256,0,0,b34f5634-eb8b-4287-9c54-edbcaf4a64a1.htseq.counts.gz,53,Male,BLACK OR AFRICAN AMERICAN,b34f5634.eb8b.4287.9c54.edbcaf4a64a1.
+151,STAD,TCGA-HU-A4GH,0,1,b3edef4e-d42d-4933-8c5f-51269423687f.htseq.counts.gz,75,Male,ASIAN,b3edef4e.d42d.4933.8c5f.51269423687f.
+157,PRAD,TCGA-QU-A6IN,1,0,b4339b0e-8b3f-451a-bf61-789d4cbad06b.htseq.counts.gz,61,Male,WHITE,b4339b0e.8b3f.451a.bf61.789d4cbad06b.
+158,PAAD,TCGA-3A-A9J0,1,1,b490fdcb-d7ae-4473-93a5-eb332225b81b.htseq.counts.gz,75,Male,WHITE,b490fdcb.d7ae.4473.93a5.eb332225b81b.
+159,PRAD,TCGA-HC-7820,0,0,b4a2f66b-9138-4e1a-bb21-1f120cf16e39.htseq.counts.gz,72,Male,WHITE,b4a2f66b.9138.4e1a.bb21.1f120cf16e39.
+160,HNSC,"TCGA-D6-A4ZB	",0,0,b4a4cc9a-5053-4968-a54e-be08e53ce2e1.htseq.counts.gz,61,Male,WHITE,b4a4cc9a.5053.4968.a54e.be08e53ce2e1.
+162,COAD,"TCGA-CM-6171	",0,0,b53f9a9d-b24d-410d-b3e9-f2a8bf22ca27.htseq.counts.gz,77,Female,WHITE,b53f9a9d.b24d.410d.b3e9.f2a8bf22ca27.
+163,PRAD,TCGA-HI-7171,1,0,b55df224-46ae-4601-b8fc-c0309f27baa5.htseq.counts.gz,56,Male,WHITE,b55df224.46ae.4601.b8fc.c0309f27baa5.
+168,BLCA,TCGA-DK-A3IT,1,1,b5d0f60a-163e-43ea-b478-2d85bf0c379a.htseq.counts.gz,62,Male,WHITE,b5d0f60a.163e.43ea.b478.2d85bf0c379a.
+169,PRAD,TCGA-J9-A8CK,1,0,b5ddd8f3-3a54-4c3c-8ac0-69edd7ee7b54.htseq.counts.gz,66,Male,WHITE,b5ddd8f3.3a54.4c3c.8ac0.69edd7ee7b54.
+170,PRAD,TCGA-EJ-8468,1,1,b5f2552c-efe5-4d13-b771-1826ea37ae06.htseq.counts.gz,63,Male,WHITE,b5f2552c.efe5.4d13.b771.1826ea37ae06.
+171,STAD,TCGA-3M-AB47,1,1,b6210d2c-2c94-4b86-925d-a15ee151487b.htseq.counts.gz,51,Male,WHITE,b6210d2c.2c94.4b86.925d.a15ee151487b.
+172,HNSC,"TCGA-CV-5979	",1,1,b6479904-c5ce-439c-9d56-990b921bac30.htseq.counts.gz,26,Male,WHITE,b6479904.c5ce.439c.9d56.990b921bac30.
+174,PAAD,TCGA-F2-A44H,1,0,b6aa34d6-2b02-4317-8361-79536c7cb4e6.htseq.counts.gz,65,Male,WHITE,b6aa34d6.2b02.4317.8361.79536c7cb4e6.
+176,PRAD,TCGA-CH-5754,1,1,b6b4c444-8a5f-44c6-9c25-d1556038bfe5.htseq.counts.gz,65,Male,WHITE,b6b4c444.8a5f.44c6.9c25.d1556038bfe5.
+178,HNSC,TCGA-CN-5370,1,0,b7081519-274c-4610-bd53-c4beaa0a53e6.htseq.counts.gz,78,Male,WHITE,b7081519.274c.4610.bd53.c4beaa0a53e6.
+179,PRAD,TCGA-CH-5762,1,1,b7174918-6cea-417e-8a86-f3a61ad81153.htseq.counts.gz,60,Male,WHITE,b7174918.6cea.417e.8a86.f3a61ad81153.
+183,BRCA,TCGA-A1-A0SE,0,0,b76eefac-da30-4ee4-9670-4afc45f86b4b.htseq.counts.gz,56,Female,WHITE,b76eefac.da30.4ee4.9670.4afc45f86b4b.
+185,PAAD,TCGA-HZ-A4BH,1,1,b78b6f49-3cb2-452a-a41c-6dfa90e631db.htseq.counts.gz,75,Male,WHITE,b78b6f49.3cb2.452a.a41c.6dfa90e631db.
+186,PAAD,TCGA-2J-AABI,1,0,b7971446-9682-4b03-b469-797d5efb2412.htseq.counts.gz,55,Female,WHITE,b7971446.9682.4b03.b469.797d5efb2412.
+187,LIHC,TCGA-BC-A112,0,0,b7e1f458-b426-4e4e-b4db-e0472396198b.htseq.counts.gz,80,Male,WHITE,b7e1f458.b426.4e4e.b4db.e0472396198b.
+189,HNSC,"TCGA-CV-A6K2	",0,0,b9003c49-066b-462f-941f-80e9d21f149b.htseq.counts.gz,79,Male,WHITE,b9003c49.066b.462f.941f.80e9d21f149b.
+190,PAAD,TCGA-HV-A5A3,1,1,b9038119-a0a9-4987-b9e3-02ea055a644a.htseq.counts.gz,50,Male,ASIAN,b9038119.a0a9.4987.b9e3.02ea055a644a.
+192,PRAD,TCGA-EJ-A65G,1,0,b925d6df-8e61-4c3c-84fb-242c5d2c7f38.htseq.counts.gz,57,Male,WHITE,b925d6df.8e61.4c3c.84fb.242c5d2c7f38.
+193,STAD,TCGA-HU-A4G8,0,0,b93a691d-6fee-4db4-b78b-61ebd0817d9a.htseq.counts.gz,71,Female,ASIAN,b93a691d.6fee.4db4.b78b.61ebd0817d9a.
+196,BLCA,TCGA-BT-A3PJ,0,0,b991af62-5624-4ad2-87d1-303e994a7001.htseq.counts.gz,76,Male,WHITE,b991af62.5624.4ad2.87d1.303e994a7001.
+197,PAAD,TCGA-HZ-7926,1,1,b9ab7393-4abb-41ec-9d55-a3dc846c4a93.htseq.counts.gz,57,Male,BLACK OR AFRICAN AMERICAN,b9ab7393.4abb.41ec.9d55.a3dc846c4a93.
+198,PRAD,TCGA-EJ-A7NF,1,0,b9d5ffd6-8f3e-4d52-a6dc-671654ade688.htseq.counts.gz,56,Male,WHITE,b9d5ffd6.8f3e.4d52.a6dc.671654ade688.
+199,HNSC,"TCGA-BA-4075	",1,1,b9da241a-3715-4c95-9d22-d43c7f4d7552.htseq.counts.gz,49,Male,BLACK OR AFRICAN AMERICAN,b9da241a.3715.4c95.9d22.d43c7f4d7552.
+200,HNSC,"TCGA-BA-A6D8	",1,1,ba04c0a1-8ec5-4987-9f06-dda2540fadb1.htseq.counts.gz,59,Male,BLACK OR AFRICAN AMERICAN,ba04c0a1.8ec5.4987.9f06.dda2540fadb1.
+201,COAD,"TCGA-5M-AATE	",1,1,ba11a188-132a-4a25-b2b7-f958694976e8.htseq.counts.gz,76,Male,BLACK OR AFRICAN AMERICAN,ba11a188.132a.4a25.b2b7.f958694976e8.
+203,HNSC,"TCGA-CQ-A4CB	",1,0,ba2f9afa-b419-44c1-84d5-f6bbb1cdf981.htseq.counts.gz,59,Male,,ba2f9afa.b419.44c1.84d5.f6bbb1cdf981.
+204,PRAD,TCGA-ZG-A9L2,1,NA,ba57cbaf-b52c-402b-b72a-f0df0e086369.htseq.counts.gz,70,Male,WHITE,ba57cbaf.b52c.402b.b72a.f0df0e086369.
+206,HNSC,"TCGA-CR-7367	",1,0,ba7dd3b3-a31a-40f8-a714-9148b5d03725.htseq.counts.gz,52,Male,WHITE,ba7dd3b3.a31a.40f8.a714.9148b5d03725.
+207,PRAD,TCGA-VN-A88P,1,0,baa0bd88-0a6f-40a8-829f-8673ac38437c.htseq.counts.gz,60,Male,WHITE,baa0bd88.0a6f.40a8.829f.8673ac38437c.
+208,HNSC,"TCGA-WA-A7H4	",0,0,bae4bda2-14b0-4450-b96d-1b7496bab0dd.htseq.counts.gz,69,Male,WHITE,bae4bda2.14b0.4450.b96d.1b7496bab0dd.
+209,PAAD,TCGA-IB-7887,1,1,bb15d7d0-8705-49af-89e4-fc13c01de642.htseq.counts.gz,62,Female,WHITE,bb15d7d0.8705.49af.89e4.fc13c01de642.
+212,COAD,"TCGA-G4-6628	",0,0,bb8a0f58-11e6-49dd-bdeb-0b7eb2fb05fc.htseq.counts.gz,78,Male,WHITE,bb8a0f58.11e6.49dd.bdeb.0b7eb2fb05fc.
+213,HNSC,"TCGA-UF-A7JJ	",0,1,bbd06d25-fc74-4df8-a943-10ad6fd41501.htseq.counts.gz,68,Male,,bbd06d25.fc74.4df8.a943.10ad6fd41501.
+214,COAD,"TCGA-G5-6233	",1,1,bbd48dd3-0d7c-45ee-8ce2-ff359e6d1234.htseq.counts.gz,74,Male,WHITE,bbd48dd3.0d7c.45ee.8ce2.ff359e6d1234.
+215,HNSC,TCGA-CN-6992,0,1,bc0af74a-3ec1-4392-ba31-82de4318a815.htseq.counts.gz,61,Male,WHITE,bc0af74a.3ec1.4392.ba31.82de4318a815.
+219,STAD,TCGA-FP-8099,1,0,bc9e63bf-fd1c-425a-8976-bc222413c489.htseq.counts.gz,79,Male,WHITE,bc9e63bf.fd1c.425a.8976.bc222413c489.
+221,PRAD,TCGA-VP-A87H,1,0,bcbeda64-c2db-44c3-b7f2-b1ca4387f37e.htseq.counts.gz,76,Male,WHITE,bcbeda64.c2db.44c3.b7f2.b1ca4387f37e.
+223,HNSC,"TCGA-CV-7091	",0,1,bced8edc-0de0-4d24-a076-658cc5f9e6d6.htseq.counts.gz,54,Male,WHITE,bced8edc.0de0.4d24.a076.658cc5f9e6d6.
+226,COAD,"TCGA-G4-6299	",0,1,bd2b70a7-7a80-4ede-833e-ed6365552684.htseq.counts.gz,69,Male,WHITE,bd2b70a7.7a80.4ede.833e.ed6365552684.
+227,COAD,"TCGA-AZ-4315	",0,0,bd2dfab3-88a8-4673-ba36-3daf252d0b4d.htseq.counts.gz,61,Male,WHITE,bd2dfab3.88a8.4673.ba36.3daf252d0b4d.
+233,PAAD,TCGA-HZ-A49H,1,1,bdaa2f92-f32d-4740-bfbc-e02e32228732.htseq.counts.gz,68,Female,WHITE,bdaa2f92.f32d.4740.bfbc.e02e32228732.
+234,PRAD,TCGA-XK-AAJP,1,0,bdaf566b-2c4a-4194-be7d-f8fdcee904ee.htseq.counts.gz,66,Male,,bdaf566b.2c4a.4194.be7d.f8fdcee904ee.
+236,STAD,TCGA-VQ-A8DV,0,0,be01999b-2ef2-4929-91b1-bfaa6260b6ff.htseq.counts.gz,48,Male,WHITE,be01999b.2ef2.4929.91b1.bfaa6260b6ff.
+239,PAAD,TCGA-IB-AAUW,1,1,be13c589-e2f2-4505-9f12-2de3a8c97fdf.htseq.counts.gz,63,Female,WHITE,be13c589.e2f2.4505.9f12.2de3a8c97fdf.
+240,STAD,TCGA-IN-A6RR,0,1,be28a9d0-f392-416c-be7c-1e4a5b96f68c.htseq.counts.gz,84,Male,WHITE,be28a9d0.f392.416c.be7c.1e4a5b96f68c.
+241,HNSC,"TCGA-MT-A51W	",0,0,be6b0b5b-3131-4c6c-b0f9-3d39ed2043fe.htseq.counts.gz,52,Female,WHITE,be6b0b5b.3131.4c6c.b0f9.3d39ed2043fe.
+243,STAD,TCGA-VQ-A91N,0,1,becd2d19-b92c-4305-ade3-d2c357a1047b.htseq.counts.gz,59,Female,,becd2d19.b92c.4305.ade3.d2c357a1047b.
+244,HNSC,"TCGA-QK-AA3K	",1,0,bef39330-3d03-4355-85f2-74c454d32850.htseq.counts.gz,60,Male,BLACK OR AFRICAN AMERICAN,bef39330.3d03.4355.85f2.74c454d32850.
+247,STAD,TCGA-KB-A6F7,0,0,bef94553-3989-43a6-959b-59a4d6e42175.htseq.counts.gz,54,Female,,bef94553.3989.43a6.959b.59a4d6e42175.
+249,PRAD,TCGA-VP-A87K,1,0,bf306cce-1db8-4fb8-8ea7-438df016ef8c.htseq.counts.gz,63,Male,WHITE,bf306cce.1db8.4fb8.8ea7.438df016ef8c.
+251,PRAD,TCGA-CH-5765,1,0,bf5578a1-08e6-43ee-89c9-d00a7be4de41.htseq.counts.gz,55,Male,WHITE,bf5578a1.08e6.43ee.89c9.d00a7be4de41.
+252,PRAD,TCGA-G9-6494,1,0,bf77760f-d262-412e-b826-6e7c975a2b21.htseq.counts.gz,66,Male,WHITE,bf77760f.d262.412e.b826.6e7c975a2b21.
+254,HNSC,"TCGA-CR-7401	",0,0,bfc13d26-a053-4e72-bce9-29655bb7788f.htseq.counts.gz,64,Male,WHITE,bfc13d26.a053.4e72.bce9.29655bb7788f.
+255,PRAD,TCGA-YL-A8HK,1,1,c05ce281-b3ce-4c02-a051-3fd68ad2d62d.htseq.counts.gz,59,Male,WHITE,c05ce281.b3ce.4c02.a051.3fd68ad2d62d.
+256,PRAD,TCGA-KC-A4BV,1,0,c0606a63-53f9-40d4-bdfe-f1fc74c26609.htseq.counts.gz,66,Male,ASIAN,c0606a63.53f9.40d4.bdfe.f1fc74c26609.
+259,HNSC,"TCGA-CV-A6JT	",1,0,c0af0359-15f8-47cb-8071-b5701a35ecd2.htseq.counts.gz,65,Male,WHITE,c0af0359.15f8.47cb.8071.b5701a35ecd2.
+261,PRAD,TCGA-EJ-5521,1,0,c10eefab-142c-48dd-a8f0-eaad89d4cdc5.htseq.counts.gz,63,Male,WHITE,c10eefab.142c.48dd.a8f0.eaad89d4cdc5.
+262,PRAD,TCGA-XK-AAJT,1,0,c11c3919-7072-4b19-8512-607edb3804bd.htseq.counts.gz,75,Male,,c11c3919.7072.4b19.8512.607edb3804bd.
+265,COAD,"TCGA-AY-6386	",0,0,c182c07a-224c-44b5-bf0e-9bcfaa33ecc1.htseq.counts.gz,66,Female,BLACK OR AFRICAN AMERICAN,c182c07a.224c.44b5.bf0e.9bcfaa33ecc1.
+266,PRAD,TCGA-FC-7708,1,0,c190432e-2b50-4072-865f-91d49a00b855.htseq.counts.gz,52,Male,ASIAN,c190432e.2b50.4072.865f.91d49a00b855.
+267,PAAD,TCGA-2J-AAB9,1,NA,c19f102d-47a0-48c6-9443-63730d9ea6d1.htseq.counts.gz,70,Female,WHITE,c19f102d.47a0.48c6.9443.63730d9ea6d1.
+269,PAAD,TCGA-3E-AAAY,1,NA,c1f4dcd4-26b5-4b90-9564-44e03242e8e2.htseq.counts.gz,67,Male,WHITE,c1f4dcd4.26b5.4b90.9564.44e03242e8e2.
+270,HNSC,"TCGA-CQ-6221	",0,0,c246ad49-e7fe-4e6c-8506-899bd081ea66.htseq.counts.gz,79,Male,WHITE,c246ad49.e7fe.4e6c.8506.899bd081ea66.
+271,COAD,"TCGA-CM-6164	",1,1,c264fe3b-482b-44ec-83a4-73df565663ff.htseq.counts.gz,46,Female,WHITE,c264fe3b.482b.44ec.83a4.73df565663ff.
+273,PRAD,TCGA-G9-6329,1,0,c2827306-b3a3-471b-ba51-f8dbc2572d56.htseq.counts.gz,67,Male,WHITE,c2827306.b3a3.471b.ba51.f8dbc2572d56.
+276,HNSC,"TCGA-CQ-6228	",0,0,c313e35f-951f-44bb-91b7-e7838abe0bc6.htseq.counts.gz,71,Female,WHITE,c313e35f.951f.44bb.91b7.e7838abe0bc6.
+278,PRAD,TCGA-CH-5789,1,0,c36b1926-5b6e-4c48-98d7-9f037e56f24a.htseq.counts.gz,61,Male,WHITE,c36b1926.5b6e.4c48.98d7.9f037e56f24a.
+279,PAAD,TCGA-IB-7889,1,1,c3a3b1ec-1d61-4afd-bf06-3a036894bf39.htseq.counts.gz,85,Female,WHITE,c3a3b1ec.1d61.4afd.bf06.3a036894bf39.
+281,HNSC,"TCGA-CQ-6223	",0,0,c3ffa28a-a589-4c2d-9240-1ee1904e5171.htseq.counts.gz,69,Male,WHITE,c3ffa28a.a589.4c2d.9240.1ee1904e5171.
+284,PAAD,TCGA-3A-A9IL,0,1,c48dcdef-8805-4887-bacc-e351613886a0.htseq.counts.gz,39,Female,WHITE,c48dcdef.8805.4887.bacc.e351613886a0.
+286,PAAD,TCGA-2J-AABA,0,0,c4cadcbb-ae87-43a5-811c-6bedda1d1d8d.htseq.counts.gz,55,Male,WHITE,c4cadcbb.ae87.43a5.811c.6bedda1d1d8d.
+288,PRAD,TCGA-QU-A6IL,1,0,c4dca9cc-79b1-4b52-8aea-50fd571419c8.htseq.counts.gz,64,Male,ASIAN,c4dca9cc.79b1.4b52.8aea.50fd571419c8.
+291,HNSC,"TCGA-IQ-A61E	",1,0,c59e3211-e578-48af-95a9-84e1a8f4d28b.htseq.counts.gz,55,Female,WHITE,c59e3211.e578.48af.95a9.84e1a8f4d28b.
+292,PRAD,TCGA-G9-7519,0,0,c602a53b-d93b-4bef-bcb0-6271738b1e42.htseq.counts.gz,58,Male,WHITE,c602a53b.d93b.4bef.bcb0.6271738b1e42.
+293,PAAD,TCGA-2J-AABO,1,NA,c642e018-f0cb-4be8-9b19-c944f1daf9cf.htseq.counts.gz,43,Male,WHITE,c642e018.f0cb.4be8.9b19.c944f1daf9cf.
+295,HNSC,"TCGA-CR-6488	",1,0,c67a9442-495e-4523-a9c7-b3cbbeecc1ce.htseq.counts.gz,68,Female,WHITE,c67a9442.495e.4523.a9c7.b3cbbeecc1ce.
+297,CHOL,TCGA-W6-AA0S,1,0,c696175b-9427-484b-8673-49a1c321f2fa.htseq.counts.gz,46,Female,WHITE,c696175b.9427.484b.8673.49a1c321f2fa.
+298,PRAD,TCGA-EJ-8469,1,1,c6a74afc-ae00-4b2e-8e62-324ee979f68d.htseq.counts.gz,46,Male,BLACK OR AFRICAN AMERICAN,c6a74afc.ae00.4b2e.8e62.324ee979f68d.
+299,PRAD,TCGA-V1-A8MM,1,1,c7116e13-54a3-41bc-ab15-c6a1d1e1247a.htseq.counts.gz,60,Male,BLACK OR AFRICAN AMERICAN,c7116e13.54a3.41bc.ab15.c6a1d1e1247a.
+301,COAD,"TCGA-DC-6157	",0,0,c74bce4e-18cd-42af-ae4c-9bb423efa9f9.htseq.counts.gz,48,Male,BLACK OR AFRICAN AMERICAN,c74bce4e.18cd.42af.ae4c.9bb423efa9f9.
+303,STAD,TCGA-VQ-A8PD,1,1,c763732d-3465-4723-9faf-5cc8f253c7b7.htseq.counts.gz,69,Male,WHITE,c763732d.3465.4723.9faf.5cc8f253c7b7.
+305,HNSC,"TCGA-UF-A7JC	",0,1,c77f7a21-e477-4419-8730-489924e4375e.htseq.counts.gz,42,Male,WHITE,c77f7a21.e477.4419.8730.489924e4375e.
+306,HNSC,TCGA-CN-6022,1,1,c797e881-d63c-4231-b788-6d0582d84e51.htseq.counts.gz,49,Male,WHITE,c797e881.d63c.4231.b788.6d0582d84e51.
+308,STAD,TCGA-VQ-A8PJ,0,1,c79e2e9a-9749-4b7f-9ef4-0b893d818b73.htseq.counts.gz,53,Male,,c79e2e9a.9749.4b7f.9ef4.0b893d818b73.
+316,PRAD,TCGA-J9-A52C,1,0,c82dd937-41c7-450e-9fc4-4ff9a4c871dc.htseq.counts.gz,57,Male,WHITE,c82dd937.41c7.450e.9fc4.4ff9a4c871dc.
+317,STAD,TCGA-RD-A8N0,1,NA,c82e36c0-668a-4940-b400-986b6e2f47b7.htseq.counts.gz,53,Female,WHITE,c82e36c0.668a.4940.b400.986b6e2f47b7.
+319,COAD,"TCGA-AZ-6603	",0,0,c868cbd9-3767-4f6e-8fa2-770d80cf2b05.htseq.counts.gz,77,Female,WHITE,c868cbd9.3767.4f6e.8fa2.770d80cf2b05.
+320,HNSC,"TCGA-CN-6988	",0,1,c8cb8ef1-b679-4084-a11a-4ccc68d4a062.htseq.counts.gz,47,Male,WHITE,c8cb8ef1.b679.4084.a11a.4ccc68d4a062.
+323,STAD,TCGA-HU-A4H8,0,1,c92efe73-3258-44e8-aaa1-628ed1ca937d.htseq.counts.gz,77,Male,ASIAN,c92efe73.3258.44e8.aaa1.628ed1ca937d.
+324,PAAD,TCGA-3A-A9IS,0,0,c946ab0d-ddbd-42c8-9a72-6bc99b44438f.htseq.counts.gz,67,Male,WHITE,c946ab0d.ddbd.42c8.9a72.6bc99b44438f.
+325,BLCA,TCGA-4Z-AA84,0,1,c947395a-e0f1-4539-8f56-9c569f01821b.htseq.counts.gz,61,Male,WHITE,c947395a.e0f1.4539.8f56.9c569f01821b.
+328,HNSC,"TCGA-BA-5151	",0,0,c9faa71c-ba76-49c7-8d82-47cbf410be68.htseq.counts.gz,72,Male,WHITE,c9faa71c.ba76.49c7.8d82.47cbf410be68.
+329,PRAD,TCGA-VP-A875,1,0,ca023ee2-7396-4c9b-a4cb-56853200a605.htseq.counts.gz,67,Male,BLACK OR AFRICAN AMERICAN,ca023ee2.7396.4c9b.a4cb.56853200a605.
+330,PRAD,TCGA-J4-A67K,1,1,ca21bb6d-6e7c-4e0f-93e3-92e1d0b5477e.htseq.counts.gz,68,Male,WHITE,ca21bb6d.6e7c.4e0f.93e3.92e1d0b5477e.
+334,PRAD,TCGA-V1-A9ZG,1,NA,cb5bd5dd-47fa-4e11-ba06-0fec8ddb89d2.htseq.counts.gz,64,Male,WHITE,cb5bd5dd.47fa.4e11.ba06.0fec8ddb89d2.
+335,COAD,"TCGA-NH-A50V	",0,0,cb76d1df-ba6e-479d-8858-005c17c94613.htseq.counts.gz,69,Male,BLACK OR AFRICAN AMERICAN,cb76d1df.ba6e.479d.8858.005c17c94613.
+336,PAAD,TCGA-HZ-A9TJ,1,1,cbab599f-5cad-4d5a-94fd-9598219daade.htseq.counts.gz,70,Male,WHITE,cbab599f.5cad.4d5a.94fd.9598219daade.
+338,HNSC,TCGA-CN-5355,0,0,cc0ef76f-c51b-4842-9708-1831e218e4fd.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,cc0ef76f.c51b.4842.9708.1831e218e4fd.
+339,PAAD,TCGA-RB-AA9M,1,1,cc133a8a-77ad-4570-852e-df72548c6897.htseq.counts.gz,43,Male,WHITE,cc133a8a.77ad.4570.852e.df72548c6897.
+340,PRAD,TCGA-V1-A9ZK,1,0,cc55b073-6dbd-494e-aac6-c7a23b36bf0e.htseq.counts.gz,68,Male,WHITE,cc55b073.6dbd.494e.aac6.c7a23b36bf0e.
+341,PRAD,TCGA-EJ-7315,1,0,cc621d8a-b1b7-4001-bd25-8bfcccb34412.htseq.counts.gz,68,Male,WHITE,cc621d8a.b1b7.4001.bd25.8bfcccb34412.
+342,HNSC,TCGA-CN-6010,0,1,cca8a7cc-4242-45fd-a3b0-74a97504d0d9.htseq.counts.gz,53,Male,WHITE,cca8a7cc.4242.45fd.a3b0.74a97504d0d9.
+344,PAAD,TCGA-HZ-8317,1,1,cd1bba0f-b2e8-45e3-9b37-dcec5472cb7b.htseq.counts.gz,69,Female,WHITE,cd1bba0f.b2e8.45e3.9b37.dcec5472cb7b.
+345,STAD,TCGA-VQ-A94T,0,1,cd3fbe8b-71e3-4437-983f-809f1ae5e9cf.htseq.counts.gz,73,Male,,cd3fbe8b.71e3.4437.983f.809f1ae5e9cf.
+347,STAD,TCGA-VQ-A8E7,1,0,cd9bd9ec-7a53-41b2-a4a0-9e9e81e2ee89.htseq.counts.gz,59,Male,WHITE,cd9bd9ec.7a53.41b2.a4a0.9e9e81e2ee89.
+348,PAAD,TCGA-LB-A7SX,1,1,cdaedb53-612c-4e7a-8ffe-348944b94e0c.htseq.counts.gz,74,Female,BLACK OR AFRICAN AMERICAN,cdaedb53.612c.4e7a.8ffe.348944b94e0c.
+349,PRAD,TCGA-CH-5791,1,NA,cdb0c6e0-ff83-4208-8dc4-53373dec2d94.htseq.counts.gz,72,Male,WHITE,cdb0c6e0.ff83.4208.8dc4.53373dec2d94.
+350,PAAD,TCGA-IB-7886,1,1,cde0617f-fcd6-4c58-b3cf-dcfabc6fcda7.htseq.counts.gz,80,Male,WHITE,cde0617f.fcd6.4c58.b3cf.dcfabc6fcda7.
+351,HNSC,TCGA-CN-A6V6,0,1,cdf70ab5-380d-406c-a268-242754315005.htseq.counts.gz,59,Male,WHITE,cdf70ab5.380d.406c.a268.242754315005.
+353,ESCA,TCGA-JY-A93E,1,1,ce0d85eb-9854-4570-b497-09039a135d7e.htseq.counts.gz,61,Male,WHITE,ce0d85eb.9854.4570.b497.09039a135d7e.
+356,HNSC,TCGA-CN-A498,0,0,cea213f2-1dca-482a-bc29-d346a6682085.htseq.counts.gz,61,Female,WHITE,cea213f2.1dca.482a.bc29.d346a6682085.
+357,PRAD,TCGA-YL-A8SA,1,0,ceb2a238-0d2e-410a-9f44-20b8abea8689.htseq.counts.gz,69,Male,WHITE,ceb2a238.0d2e.410a.9f44.20b8abea8689.
+360,HNSC,"TCGA-UF-A718	",0,0,cf3dbfa8-f751-43bd-8df2-229bd34978eb.htseq.counts.gz,62,Male,WHITE,cf3dbfa8.f751.43bd.8df2.229bd34978eb.
+361,PRAD,TCGA-ZG-A8QX,0,0,cf4fa58c-803f-4195-bf42-13aa71403d16.htseq.counts.gz,56,Male,WHITE,cf4fa58c.803f.4195.bf42.13aa71403d16.
+362,PRAD,TCGA-KC-A7FE,1,0,cf642734-8219-4009-bd94-c91fe2e710c0.htseq.counts.gz,62,Male,WHITE,cf642734.8219.4009.bd94.c91fe2e710c0.
+367,PRAD,TCGA-CH-5771,1,0,cfcd8eb5-9864-4463-8d83-d76c6f5dbe54.htseq.counts.gz,63,Male,WHITE,cfcd8eb5.9864.4463.8d83.d76c6f5dbe54.
+368,PRAD,TCGA-VN-A88M,1,0,d0409e46-3670-41aa-9410-0ed6091483f3.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,d0409e46.3670.41aa.9410.0ed6091483f3.
+370,PRAD,TCGA-HC-7077,1,0,d0819e26-2b46-4854-abbb-a9fac5d8fdf4.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,d0819e26.2b46.4854.abbb.a9fac5d8fdf4.
+371,BLCA,TCGA-DK-A2I2,1,1,d08385ff-4816-4ead-a582-01656b74935e.htseq.counts.gz,63,Female,WHITE,d08385ff.4816.4ead.a582.01656b74935e.
+372,PRAD,TCGA-G9-6499,1,0,d0c8d150-3582-406e-af39-fd58f6e53290.htseq.counts.gz,66,Male,WHITE,d0c8d150.3582.406e.af39.fd58f6e53290.
+373,COAD,"TCGA-CM-6675	",1,1,d0fbe329-d4d8-4082-99a8-da1a1283963d.htseq.counts.gz,35,Male,BLACK OR AFRICAN AMERICAN,d0fbe329.d4d8.4082.99a8.da1a1283963d.
+376,HNSC,TCGA-CN-4735,0,0,d12e61ba-c31a-48ec-ae3a-20e7a2aee689.htseq.counts.gz,52,Male,WHITE,d12e61ba.c31a.48ec.ae3a.20e7a2aee689.
+377,PAAD,TCGA-S4-A8RM,1,1,d1356d85-5b29-4666-818c-b1f43bcdab3c.htseq.counts.gz,67,Male,WHITE,d1356d85.5b29.4666.818c.b1f43bcdab3c.
+379,PRAD,TCGA-CH-5772,1,0,d156584f-3a3b-4c41-ac6b-ea41800994af.htseq.counts.gz,63,Male,WHITE,d156584f.3a3b.4c41.ac6b.ea41800994af.
+380,HNSC,"TCGA-P3-A6T5	",1,NA,d197f2fe-a79a-4d52-97ae-ce5259031899.htseq.counts.gz,79,Female,WHITE,d197f2fe.a79a.4d52.97ae.ce5259031899.
+381,HNSC,"TCGA-CV-7104	",1,1,d19f374b-fde4-4b46-830f-56975e437fdc.htseq.counts.gz,61,Female,WHITE,d19f374b.fde4.4b46.830f.56975e437fdc.
+383,HNSC,"TCGA-CN-4730	",0,0,d1e47511-7e9f-403b-ad55-75ab00eeafc0.htseq.counts.gz,62,Male,WHITE,d1e47511.7e9f.403b.ad55.75ab00eeafc0.
+387,STAD,TCGA-VQ-A8DU,1,1,d2c53d67-fd5a-4b3f-ae58-b2a4b5922486.htseq.counts.gz,63,Male,WHITE,d2c53d67.fd5a.4b3f.ae58.b2a4b5922486.
+391,HNSC,"TCGA-CQ-A4CI	",0,1,d343cdfd-2955-485a-a47f-ca2f2401056e.htseq.counts.gz,73,Male,WHITE,d343cdfd.2955.485a.a47f.ca2f2401056e.
+392,CHOL,TCGA-ZH-A8Y8,1,0,d3b8d3bc-ac3b-434f-b40b-dcd8235fb87a.htseq.counts.gz,73,Male,WHITE,d3b8d3bc.ac3b.434f.b40b.dcd8235fb87a.
+393,COAD,"TCGA-AZ-6599	",0,0,d3c40c02-3b30-4057-9295-d7b4dfd7ee2d.htseq.counts.gz,72,Male,WHITE,d3c40c02.3b30.4057.9295.d7b4dfd7ee2d.
+394,HNSC,TCGA-CN-5369,1,0,d3e8d2dd-b46e-493a-9d95-672447efd04f.htseq.counts.gz,90,Female,WHITE,d3e8d2dd.b46e.493a.9d95.672447efd04f.
+395,PRAD,TCGA-EJ-7330,1,0,d3f4a547-c742-4ed5-9cee-227735f77891.htseq.counts.gz,68,Male,WHITE,d3f4a547.c742.4ed5.9cee.227735f77891.
+397,STAD,TCGA-HU-8610,0,0,d4045310-7565-438e-875f-2d38eb8c7d3f.htseq.counts.gz,75,Male,ASIAN,d4045310.7565.438e.875f.2d38eb8c7d3f.
+400,PAAD,TCGA-HZ-7925,1,0,d42d7f7b-1ba5-4ba5-8af2-35755fef2d69.htseq.counts.gz,66,Male,WHITE,d42d7f7b.1ba5.4ba5.8af2.35755fef2d69.
+401,PRAD,TCGA-EJ-AB20,1,0,d44ceb46-9563-4c2c-afee-bbb583167cd5.htseq.counts.gz,61,Male,,d44ceb46.9563.4c2c.afee.bbb583167cd5.
+402,STAD,TCGA-VQ-A91Q,1,1,d45139de-f2a0-4895-9602-20db5dc604c4.htseq.counts.gz,61,Male,,d45139de.f2a0.4895.9602.20db5dc604c4.
+404,COAD,"TCGA-CM-4750	",0,NA,d4653ecd-d656-46a6-8161-da29271ca88b.htseq.counts.gz,34,Female,WHITE,d4653ecd.d656.46a6.8161.da29271ca88b.
+406,COAD,"TCGA-CK-6748	",0,0,d47d93d3-64e9-40a3-a941-33432fb31a1a.htseq.counts.gz,45,Female,WHITE,d47d93d3.64e9.40a3.a941.33432fb31a1a.
+407,COAD,"TCGA-AZ-4308	",0,1,d49b2de9-e099-421f-b94c-e6dd2181bb16.htseq.counts.gz,47,Female,WHITE,d49b2de9.e099.421f.b94c.e6dd2181bb16.
+408,PRAD,TCGA-HC-7817,1,0,d4b4ea9b-e7ab-431c-bb34-409a381bff44.htseq.counts.gz,52,Male,WHITE,d4b4ea9b.e7ab.431c.bb34.409a381bff44.
+409,ESCA,TCGA-VR-A8EQ,1,1,d50ac166-a1cf-4915-96bc-604ffb97f7a4.htseq.counts.gz,73,Male,WHITE,d50ac166.a1cf.4915.96bc.604ffb97f7a4.
+411,PRAD,TCGA-TK-A8OK,1,1,d55feb4a-c211-4a5f-8ede-69508267c403.htseq.counts.gz,73,Male,WHITE,d55feb4a.c211.4a5f.8ede.69508267c403.
+412,COAD,"TCGA-AZ-6598	",0,0,d5607680-758b-4ee5-ae0f-a61f7c3133c1.htseq.counts.gz,77,Female,WHITE,d5607680.758b.4ee5.ae0f.a61f7c3133c1.
+413,PAAD,TCGA-2L-AAQI,1,NA,d5612378-33e0-4fe5-ad2f-a1887fb7b5cd.htseq.counts.gz,66,Male,WHITE,d5612378.33e0.4fe5.ad2f.a1887fb7b5cd.
+414,COAD,"TCGA-CK-5915	",0,0,d5b4d77f-feb9-4a79-84a0-22849eb18112.htseq.counts.gz,63,Male,WHITE,d5b4d77f.feb9.4a79.84a0.22849eb18112.
+415,PRAD,TCGA-2A-A8VL,1,0,d5b5e519-5ce4-4147-a500-25b2f442152d.htseq.counts.gz,51,Male,WHITE,d5b5e519.5ce4.4147.a500.25b2f442152d.
+416,PRAD,TCGA-EJ-A46D,1,0,d5ed2249-5c62-4590-a758-2f4e7dc46998.htseq.counts.gz,53,Male,WHITE,d5ed2249.5c62.4590.a758.2f4e7dc46998.
+417,CHOL,TCGA-YR-A95A,1,NA,d5fb0f37-d8e0-4ec8-a3c5-dbc68e7b228f.htseq.counts.gz,52,Male,WHITE,d5fb0f37.d8e0.4ec8.a3c5.dbc68e7b228f.
+419,COAD,"TCGA-5M-AAT6	",1,1,d6224860-0b09-4d96-8a50-4acb3f72e904.htseq.counts.gz,40,Female,BLACK OR AFRICAN AMERICAN,d6224860.0b09.4d96.8a50.4acb3f72e904.
+421,STAD,TCGA-VQ-A8PH,1,1,d62751ca-d171-4e69-8696-af61ed209647.htseq.counts.gz,62,Male,WHITE,d62751ca.d171.4e69.8696.af61ed209647.
+423,PAAD,TCGA-XD-AAUH,1,1,d64765a8-65d1-4205-bc12-2a23e056d901.htseq.counts.gz,57,Female,WHITE,d64765a8.65d1.4205.bc12.2a23e056d901.
+424,COAD,"TCGA-G4-6309	",0,0,d64dbed4-65e5-4a19-ac6b-d8e7a06169da.htseq.counts.gz,40,Female,BLACK OR AFRICAN AMERICAN,d64dbed4.65e5.4a19.ac6b.d8e7a06169da.
+425,PRAD,TCGA-J4-A83N,0,0,d691550d-2d9b-4103-83c3-9c38dac3e459.htseq.counts.gz,57,Male,WHITE,d691550d.2d9b.4103.83c3.9c38dac3e459.
+426,PRAD,TCGA-ZG-A9N3,1,0,d6ba8228-62ee-4af1-b9bf-4db47304cbee.htseq.counts.gz,73,Male,WHITE,d6ba8228.62ee.4af1.b9bf.4db47304cbee.
+427,HNSC,TCGA-CN-5367,1,1,d72c9ded-5e78-4d07-ba07-a52ea1032816.htseq.counts.gz,60,Female,WHITE,d72c9ded.5e78.4d07.ba07.a52ea1032816.
+429,HNSC,"TCGA-BA-A4IH	",0,1,d770775c-efe5-4f6e-a211-1f8f5f184cd8.htseq.counts.gz,57,Male,WHITE,d770775c.efe5.4f6e.a211.1f8f5f184cd8.
+431,PAAD,TCGA-2L-AAQJ,1,NA,d7d3fe8e-3885-44e8-934c-50f2a3bbfb2f.htseq.counts.gz,49,Female,WHITE,d7d3fe8e.3885.44e8.934c.50f2a3bbfb2f.
+433,HNSC,"TCGA-CV-7236	",1,NA,d7e93acc-cec6-4a70-9b90-37bc080ee5c9.htseq.counts.gz,77,Female,WHITE,d7e93acc.cec6.4a70.9b90.37bc080ee5c9.
+434,PRAD,TCGA-CH-5764,1,0,d7f33a5b-096f-4786-af14-87fc93bb7087.htseq.counts.gz,66,Male,WHITE,d7f33a5b.096f.4786.af14.87fc93bb7087.
+435,PRAD,TCGA-EJ-A8FO,1,0,d7f93268-df1e-4e93-9592-ac24335b9031.htseq.counts.gz,51,Male,,d7f93268.df1e.4e93.9592.ac24335b9031.
+436,PRAD,TCGA-G9-6336,1,0,d804cbef-305c-4f70-931e-fe87064a1116.htseq.counts.gz,57,Male,WHITE,d804cbef.305c.4f70.931e.fe87064a1116.
+437,PRAD,TCGA-J9-A52E,1,1,d81236db-c216-4d9a-beef-6b152b24ac11.htseq.counts.gz,65,Male,WHITE,d81236db.c216.4d9a.beef.6b152b24ac11.
+438,HNSC,"TCGA-IQ-A61O	",1,NA,d8513518-7dc4-4098-bbfd-ccf400239a83.htseq.counts.gz,43,Male,WHITE,d8513518.7dc4.4098.bbfd.ccf400239a83.
+439,COAD,"TCGA-DC-6154	",1,1,d8861f06-6a88-4ca0-9a77-aef9373d527a.htseq.counts.gz,57,Female,WHITE,d8861f06.6a88.4ca0.9a77.aef9373d527a.
+447,PRAD,TCGA-HC-8261,0,0,d9cf6f7f-de36-484b-b3b1-ca5ba945b217.htseq.counts.gz,48,Male,BLACK OR AFRICAN AMERICAN,d9cf6f7f.de36.484b.b3b1.ca5ba945b217.
+448,HNSC,"TCGA-MT-A51X	",0,0,da50f41d-e644-4481-94b8-62c31538e4b8.htseq.counts.gz,30,Male,WHITE,da50f41d.e644.4481.94b8.62c31538e4b8.
+454,ESCA,TCGA-JY-A938,0,0,db818eed-5ec3-420d-9132-880f8a1d2f85.htseq.counts.gz,75,Male,WHITE,db818eed.5ec3.420d.9132.880f8a1d2f85.
+456,PAAD,TCGA-HZ-A77P,0,1,dbcad16f-6837-4825-af8d-c60cfbcefe1a.htseq.counts.gz,77,Male,WHITE,dbcad16f.6837.4825.af8d.c60cfbcefe1a.
+457,PRAD,TCGA-ZG-A9LS,1,1,dbd6da71-5044-4292-b999-2b025c962f16.htseq.counts.gz,64,Male,WHITE,dbd6da71.5044.4292.b999.2b025c962f16.
+459,HNSC,TCGA-CV-5434,1,1,dbe31868-97e4-4400-8bd3-51fc5f975267.htseq.counts.gz,60,Male,BLACK OR AFRICAN AMERICAN,dbe31868.97e4.4400.8bd3.51fc5f975267.
+460,PRAD,TCGA-J4-A67L,1,0,dc2e9898-847b-493a-9555-bc97792f4327.htseq.counts.gz,54,Male,WHITE,dc2e9898.847b.493a.9555.bc97792f4327.
+462,STAD,TCGA-RD-A8N5,0,0,dc3d680b-44a2-4d18-8b36-f2ea80342656.htseq.counts.gz,78,Male,WHITE,dc3d680b.44a2.4d18.8b36.f2ea80342656.
+463,STAD,TCGA-FP-A9TM,0,1,dc9a90f9-cfee-4e75-b1b4-ace36b09ea16.htseq.counts.gz,77,Male,WHITE,dc9a90f9.cfee.4e75.b1b4.ace36b09ea16.
+467,COAD,"TCGA-G4-6321	",0,0,dd2f8e69-327d-453c-bbea-81b0bea7f977.htseq.counts.gz,60,Female,WHITE,dd2f8e69.327d.453c.bbea.81b0bea7f977.
+469,HNSC,"TCGA-P3-A5QE	",0,NA,dda2c2a8-3c98-4b16-a70f-5b6c89d72d3f.htseq.counts.gz,49,Male,WHITE,dda2c2a8.3c98.4b16.a70f.5b6c89d72d3f.
+472,COAD,"TCGA-CM-6167	",1,1,de592955-56f1-498c-adf6-99e382102476.htseq.counts.gz,57,Female,BLACK OR AFRICAN AMERICAN,de592955.56f1.498c.adf6.99e382102476.
+476,PRAD,TCGA-VN-A88L,1,0,deba2751-fd47-4c5b-b455-56882ebc38ba.htseq.counts.gz,54,Male,WHITE,deba2751.fd47.4c5b.b455.56882ebc38ba.
+478,PAAD,TCGA-3A-A9IJ,0,0,df86f65c-b4ca-4d14-92b5-76f600bb12ee.htseq.counts.gz,65,Male,WHITE,df86f65c.b4ca.4d14.92b5.76f600bb12ee.
+480,HNSC,"TCGA-CX-A4AQ	",0,1,df97ae9d-2d8d-4c34-bf37-dcff1530ed85.htseq.counts.gz,56,Male,WHITE,df97ae9d.2d8d.4c34.bf37.dcff1530ed85.
+482,BLCA,TCGA-BT-A20P,0,1,dfcc3adf-acac-470d-a49d-3285de250c86.htseq.counts.gz,81,Female,WHITE,dfcc3adf.acac.470d.a49d.3285de250c86.
+483,COAD,"TCGA-QG-A5Z1	",1,1,dfeb2d54-28da-4521-b488-bdac246bb59b.htseq.counts.gz,71,Male,BLACK OR AFRICAN AMERICAN,dfeb2d54.28da.4521.b488.bdac246bb59b.
+484,PRAD,TCGA-VP-A876,1,0,dff23fef-04fe-460e-8a3a-c0465936e843.htseq.counts.gz,46,Male,WHITE,dff23fef.04fe.460e.8a3a.c0465936e843.
+485,PRAD,TCGA-ZG-A9L9,1,NA,dffeb8a2-5a8e-4a36-933c-6140221991c8.htseq.counts.gz,60,Male,WHITE,dffeb8a2.5a8e.4a36.933c.6140221991c8.
+486,HNSC,"TCGA-F7-A50J	",1,1,e055bccc-cdd1-4cf4-8fb8-fbdbd0d3a773.htseq.counts.gz,67,Female,WHITE,e055bccc.cdd1.4cf4.8fb8.fbdbd0d3a773.
+490,PRAD,TCGA-G9-6371,0,0,e0d80515-d0c8-400e-a505-0ce04740ce51.htseq.counts.gz,58,Male,WHITE,e0d80515.d0c8.400e.a505.0ce04740ce51.
+491,HNSC,TCGA-CN-A63T,1,1,e0ddd107-796e-4447-8783-69abe34f4d26.htseq.counts.gz,60,Male,WHITE,e0ddd107.796e.4447.8783.69abe34f4d26.
+492,HNSC,TCGA-CN-A6UY,0,1,e110bb93-f682-4eab-bf2e-1d7805e2b3d8.htseq.counts.gz,57,Male,WHITE,e110bb93.f682.4eab.bf2e.1d7805e2b3d8.
+493,HNSC,"TCGA-CV-6950	",1,1,e1185f5a-363a-4001-9ffa-6355a4e915cc.htseq.counts.gz,64,Male,WHITE,e1185f5a.363a.4001.9ffa.6355a4e915cc.
+495,COAD,"TCGA-T9-A92H	",1,NA,e158f016-7605-45b7-8e4f-bbe313fc461c.htseq.counts.gz,82,Male,BLACK OR AFRICAN AMERICAN,e158f016.7605.45b7.8e4f.bbe313fc461c.
+496,STAD,TCGA-RD-A8N9,1,1,e15a011d-bba3-4807-bf48-dfa912d018af.htseq.counts.gz,63,Female,ASIAN,e15a011d.bba3.4807.bf48.dfa912d018af.
+497,LIHC,TCGA-2Y-A9H0,0,1,e18e0c27-029a-48dc-bdf4-ec00a0702db0.htseq.counts.gz,49,Male,WHITE,e18e0c27.029a.48dc.bdf4.ec00a0702db0.
+498,COAD,"TCGA-QL-A97D	",0,0,e19da22a-2a4e-43ff-acff-12aeafa3a2c1.htseq.counts.gz,84,Female,BLACK OR AFRICAN AMERICAN,e19da22a.2a4e.43ff.acff.12aeafa3a2c1.
+500,PRAD,TCGA-HC-8262,1,0,e1bf71c6-b975-456e-8b1d-309c465788ce.htseq.counts.gz,57,Male,WHITE,e1bf71c6.b975.456e.8b1d.309c465788ce.
+501,HNSC,"TCGA-CV-5443	",0,0,e1dd97dc-ed82-4a92-9413-c617d07f688f.htseq.counts.gz,63,Male,BLACK OR AFRICAN AMERICAN,e1dd97dc.ed82.4a92.9413.c617d07f688f.
+503,PAAD,TCGA-3A-A9I5,1,0,e1e6b7e8-884b-4074-93f7-1feba917f805.htseq.counts.gz,57,Male,WHITE,e1e6b7e8.884b.4074.93f7.1feba917f805.
+504,LIHC,TCGA-4R-AA8I,0,1,e261f18a-3cd5-48a7-ba5e-dadba5a99673.htseq.counts.gz,66,Male,WHITE,e261f18a.3cd5.48a7.ba5e.dadba5a99673.
+509,HNSC,"TCGA-DQ-5624	",1,0,e2c687dd-e061-4896-a362-7832f6ab30b2.htseq.counts.gz,43,Female,WHITE,e2c687dd.e061.4896.a362.7832f6ab30b2.
+510,STAD,TCGA-HU-A4GP,0,1,e2d03205-d55a-44de-a1d6-fc918d248b01.htseq.counts.gz,62,Female,ASIAN,e2d03205.d55a.44de.a1d6.fc918d248b01.
+511,COAD,"TCGA-AY-A71X	",0,0,e2e19d54-e271-4d94-af60-8a2fc470a22c.htseq.counts.gz,54,Female,BLACK OR AFRICAN AMERICAN,e2e19d54.e271.4d94.af60.8a2fc470a22c.
+512,HNSC,"TCGA-CR-7373	",0,NA,e2e9185b-11a1-477f-b89d-cfa9082e9da6.htseq.counts.gz,66,Male,WHITE,e2e9185b.11a1.477f.b89d.cfa9082e9da6.
+513,PRAD,TCGA-V1-A9Z9,0,NA,e2f0c6e8-cda4-4c3e-8314-f9415c0ef4b3.htseq.counts.gz,63,Male,WHITE,e2f0c6e8.cda4.4c3e.8314.f9415c0ef4b3.
+516,PRAD,TCGA-EJ-7317,1,0,e32272e5-a64e-482b-bb3e-b82542a643e3.htseq.counts.gz,71,Male,WHITE,e32272e5.a64e.482b.bb3e.b82542a643e3.
+519,STAD,TCGA-HU-A4GC,1,1,e33a9800-8c1e-4164-b631-a07be0c39cbc.htseq.counts.gz,74,Male,ASIAN,e33a9800.8c1e.4164.b631.a07be0c39cbc.
+520,PRAD,TCGA-EJ-5498,1,0,e36f84b0-a02f-4d1f-94a8-a6cacf14b1d7.htseq.counts.gz,56,Male,WHITE,e36f84b0.a02f.4d1f.94a8.a6cacf14b1d7.
+521,PAAD,TCGA-HZ-8636,1,1,e38e0ced-093c-44e9-9f3b-7cdd0e6b912e.htseq.counts.gz,58,Female,WHITE,e38e0ced.093c.44e9.9f3b.7cdd0e6b912e.
+526,HNSC,"TCGA-QK-A64Z	",0,0,e4958228-0655-40ff-92ee-5883716beee2.htseq.counts.gz,79,Female,WHITE,e4958228.0655.40ff.92ee.5883716beee2.
+528,HNSC,"TCGA-CV-A461	",0,1,e4d431d7-a5c1-4c73-b91c-e7b8a5e46390.htseq.counts.gz,65,Male,WHITE,e4d431d7.a5c1.4c73.b91c.e7b8a5e46390.
+531,STAD,TCGA-FP-8209,0,0,e5200a32-96d2-4dea-b78f-e0638e7b57de.htseq.counts.gz,49,Male,WHITE,e5200a32.96d2.4dea.b78f.e0638e7b57de.
+534,STAD,TCGA-F1-6874,0,0,e53a7c37-bd31-42a3-84fd-14fed7c6bf44.htseq.counts.gz,79,Male,WHITE,e53a7c37.bd31.42a3.84fd.14fed7c6bf44.
+535,COAD,"TCGA-CM-6677	",0,0,e53e1a83-1979-4e12-bbb7-79b37d0cfe03.htseq.counts.gz,75,Female,WHITE,e53e1a83.1979.4e12.bbb7.79b37d0cfe03.
+537,PRAD,TCGA-EJ-A6RC,1,0,e56bd184-616f-4c4f-b935-8a4978d2aae9.htseq.counts.gz,64,Male,WHITE,e56bd184.616f.4c4f.b935.8a4978d2aae9.
+541,HNSC,TCGA-CN-6023,1,1,e5fcdcf3-eba1-438f-968b-60f4d03a2bf0.htseq.counts.gz,73,Male,WHITE,e5fcdcf3.eba1.438f.968b.60f4d03a2bf0.
+544,HNSC,"TCGA-HD-8224	",1,1,e64a9dfd-477d-4cfe-afbb-3cb442911354.htseq.counts.gz,63,Male,WHITE,e64a9dfd.477d.4cfe.afbb.3cb442911354.
+545,HNSC,"TCGA-CR-7392	",1,NA,e698cf41-8ad9-4765-a3a8-80b7f4f6b417.htseq.counts.gz,67,Female,WHITE,e698cf41.8ad9.4765.a3a8.80b7f4f6b417.
+548,COAD,"TCGA-DC-5869	",0,0,e72f90e4-587b-40ef-a8a4-09f1a7f44d43.htseq.counts.gz,62,Female,BLACK OR AFRICAN AMERICAN,e72f90e4.587b.40ef.a8a4.09f1a7f44d43.
+551,PAAD,TCGA-IB-AAUM,1,0,e75c2077-0098-42b5-ba41-181a768478de.htseq.counts.gz,76,Male,WHITE,e75c2077.0098.42b5.ba41.181a768478de.
+552,COAD,"TCGA-AD-A5EK	",0,0,e7675043-6679-4179-af84-dc401102aa8c.htseq.counts.gz,51,Male,BLACK OR AFRICAN AMERICAN,e7675043.6679.4179.af84.dc401102aa8c.
+553,PAAD,TCGA-IB-A5SQ,1,1,e770b299-b4c2-4dee-95a8-abc3c5773439.htseq.counts.gz,56,Female,WHITE,e770b299.b4c2.4dee.95a8.abc3c5773439.
+555,STAD,TCGA-VQ-AA6J,1,1,e7b40048-f3f9-4887-83ca-ccba24ae9f83.htseq.counts.gz,75,Male,BLACK OR AFRICAN AMERICAN,e7b40048.f3f9.4887.83ca.ccba24ae9f83.
+557,PAAD,TCGA-HZ-8637,0,0,e7cc80ef-4b87-47d9-bebe-1fb05b5b04a2.htseq.counts.gz,76,Female,WHITE,e7cc80ef.4b87.47d9.bebe.1fb05b5b04a2.
+558,BRCA,TCGA-A2-A0T2,0,1,e7dd2f36-adee-4be2-ae3c-39d7664055e2.htseq.counts.gz,66,Female,WHITE,e7dd2f36.adee.4be2.ae3c.39d7664055e2.
+559,PAAD,TCGA-F2-7273,1,1,e7e83d39-85b9-45c2-a4f4-f92080ef770a.htseq.counts.gz,54,Male,BLACK OR AFRICAN AMERICAN,e7e83d39.85b9.45c2.a4f4.f92080ef770a.
+560,PRAD,TCGA-EJ-A65J,1,0,e831ded3-c53c-4133-bdc6-ffb55b5673e4.htseq.counts.gz,62,Male,WHITE,e831ded3.c53c.4133.bdc6.ffb55b5673e4.
+561,PAAD,TCGA-IB-AAUO,1,1,e8924790-8df6-40ed-be0d-2c74d8c2d974.htseq.counts.gz,64,Female,WHITE,e8924790.8df6.40ed.be0d.2c74d8c2d974.
+562,COAD,"TCGA-BM-6198	",0,0,e8b1d97a-2c30-4a18-adb1-15789d187dc3.htseq.counts.gz,73,Male,WHITE,e8b1d97a.2c30.4a18.adb1.15789d187dc3.
+564,BLCA,TCGA-BT-A20R,1,1,e8fd8597-6516-4f80-89e2-1dd1a3d50f56.htseq.counts.gz,79,Female,WHITE,e8fd8597.6516.4f80.89e2.1dd1a3d50f56.
+565,STAD,TCGA-HU-A4GN,0,1,e92a5d1a-e928-4cc0-95b2-ac616521fa88.htseq.counts.gz,61,Male,ASIAN,e92a5d1a.e928.4cc0.95b2.ac616521fa88.
+566,PRAD,TCGA-ZG-A9LM,1,0,e94d3d20-8960-4912-b5bf-2a254d295115.htseq.counts.gz,72,Male,WHITE,e94d3d20.8960.4912.b5bf.2a254d295115.
+567,BLCA,TCGA-DK-A6B1,0,0,e9568b78-a371-42c0-88a0-813231c14aaf.htseq.counts.gz,67,Male,WHITE,e9568b78.a371.42c0.88a0.813231c14aaf.
+568,PRAD,TCGA-XJ-A83F,1,0,e979ec96-0226-4031-ba69-d1c45342840a.htseq.counts.gz,67,Male,WHITE,e979ec96.0226.4031.ba69.d1c45342840a.
+569,PRAD,TCGA-YL-A8SQ,0,0,e9a165a5-1afe-4dca-be4a-9b4b6bd3ac74.htseq.counts.gz,61,Male,WHITE,e9a165a5.1afe.4dca.be4a.9b4b6bd3ac74.
+571,ESCA,TCGA-VR-A8ET,1,0,ea453c70-f2b3-4014-ba02-9821a6cb2d85.htseq.counts.gz,64,Male,WHITE,ea453c70.f2b3.4014.ba02.9821a6cb2d85.
+572,HNSC,"TCGA-T2-A6WX	",1,NA,ea4e9acf-3061-40e2-81f9-1274f2a24da3.htseq.counts.gz,73,Female,WHITE,ea4e9acf.3061.40e2.81f9.1274f2a24da3.
+576,COAD,"TCGA-G4-6307	",0,1,eb799eef-5506-4935-9649-c543a1d1bbd5.htseq.counts.gz,37,Female,WHITE,eb799eef.5506.4935.9649.c543a1d1bbd5.
+577,PRAD,TCGA-QU-A6IO,1,NA,eba0a1c8-6af3-4014-bbca-0826bdf4edf2.htseq.counts.gz,53,Male,BLACK OR AFRICAN AMERICAN,eba0a1c8.6af3.4014.bbca.0826bdf4edf2.
+578,PRAD,TCGA-J4-A67M,1,1,eba8dfd9-2c7c-4bde-96d1-753742333397.htseq.counts.gz,55,Male,WHITE,eba8dfd9.2c7c.4bde.96d1.753742333397.
+579,HNSC,TCGA-CN-A6V3,1,1,ebd947e4-7252-4b48-8a26-4ab98927f993.htseq.counts.gz,61,Male,WHITE,ebd947e4.7252.4b48.8a26.4ab98927f993.
+583,ESCA,TCGA-VR-A8EP,1,1,ec4e2d4f-508b-41db-9bfc-93dffe396d07.htseq.counts.gz,51,Male,WHITE,ec4e2d4f.508b.41db.9bfc.93dffe396d07.
+584,PRAD,TCGA-VN-A88O,1,0,ec5e2ca7-4e3c-453d-818e-cde991d0c98b.htseq.counts.gz,49,Male,,ec5e2ca7.4e3c.453d.818e.cde991d0c98b.
+585,PRAD,TCGA-XJ-A9DQ,1,0,ec6466d1-3d3e-4cf8-b2cc-2962c3b16334.htseq.counts.gz,48,Male,WHITE,ec6466d1.3d3e.4cf8.b2cc.2962c3b16334.
+587,COAD,"TCGA-CM-5348	",1,0,ecdb94bb-54ab-4d89-a13f-be2e65fc89bb.htseq.counts.gz,72,Male,WHITE,ecdb94bb.54ab.4d89.a13f.be2e65fc89bb.
+588,STAD,TCGA-VQ-A8PK,0,1,ece7fc7c-b3f3-42fc-8772-28a0e46b2b41.htseq.counts.gz,58,Male,WHITE,ece7fc7c.b3f3.42fc.8772.28a0e46b2b41.
+589,PRAD,TCGA-CH-5769,1,0,ecff0d66-7705-4671-9d00-99eced84c7d1.htseq.counts.gz,48,Male,WHITE,ecff0d66.7705.4671.9d00.99eced84c7d1.
+591,PRAD,TCGA-2A-A8VO,1,0,ed22ecf9-2215-4bc4-a660-f8dbd2e2d15c.htseq.counts.gz,57,Male,WHITE,ed22ecf9.2215.4bc4.a660.f8dbd2e2d15c.
+592,HNSC,TCGA-CN-5365,0,1,ed29f822-9020-49ed-84f3-8ed53ed90d2d.htseq.counts.gz,38,Male,WHITE,ed29f822.9020.49ed.84f3.8ed53ed90d2d.
+594,PRAD,TCGA-V1-A9O9,1,0,ed2f4bed-1958-4e57-a69e-a3714c062d3f.htseq.counts.gz,56,Male,WHITE,ed2f4bed.1958.4e57.a69e.a3714c062d3f.
+595,HNSC,"TCGA-CQ-5324	",0,0,ed47bf8c-e3f0-46cb-9936-47904ce73735.htseq.counts.gz,59,Male,WHITE,ed47bf8c.e3f0.46cb.9936.47904ce73735.
+597,PRAD,TCGA-EJ-5530,0,0,ed81d331-8fcb-4553-941c-6b212322da99.htseq.counts.gz,61,Male,WHITE,ed81d331.8fcb.4553.941c.6b212322da99.
+598,COAD,"TCGA-CK-5914	",0,0,eda58f69-4a60-4072-aa1c-541a90d2d80b.htseq.counts.gz,81,Male,WHITE,eda58f69.4a60.4072.aa1c.541a90d2d80b.
+601,ESCA,TCGA-XP-A8T8,0,0,edf5bd61-51ee-445b-9420-c95351fc561c.htseq.counts.gz,49,Male,BLACK OR AFRICAN AMERICAN,edf5bd61.51ee.445b.9420.c95351fc561c.
+602,HNSC,"TCGA-CQ-6219	",1,0,ee00edb2-f47a-4d1b-a2e7-3441cfdb29f6.htseq.counts.gz,50,Female,WHITE,ee00edb2.f47a.4d1b.a2e7.3441cfdb29f6.
+603,BRCA,TCGA-WT-AB44,0,0,ee6beadb-79ab-4f2f-87cc-bba566e6bc24.htseq.counts.gz,77,Female,WHITE,ee6beadb.79ab.4f2f.87cc.bba566e6bc24.
+605,PRAD,TCGA-EJ-7318,1,0,ee79e954-2c9a-44ee-95be-03763ea5c395.htseq.counts.gz,51,Male,WHITE,ee79e954.2c9a.44ee.95be.03763ea5c395.
+606,PRAD,TCGA-KK-A7AZ,1,0,ee7a5f7f-661d-4455-86a6-c279588a390a.htseq.counts.gz,56,Male,WHITE,ee7a5f7f.661d.4455.86a6.c279588a390a.
+611,BLCA,TCGA-4Z-AA82,1,0,ef940b6c-10ef-42df-a5a9-c8f21044f096.htseq.counts.gz,59,Male,BLACK OR AFRICAN AMERICAN,ef940b6c.10ef.42df.a5a9.c8f21044f096.
+612,PRAD,TCGA-KK-A7B3,1,1,ef945dd7-57f3-4b23-9261-8ed49f0be376.htseq.counts.gz,62,Male,WHITE,ef945dd7.57f3.4b23.9261.8ed49f0be376.
+613,PRAD,TCGA-HC-A4ZV,1,0,eff2d9bb-5bfd-451b-94f9-37080e4611ec.htseq.counts.gz,56,Male,BLACK OR AFRICAN AMERICAN,eff2d9bb.5bfd.451b.94f9.37080e4611ec.
+616,COAD,"TCGA-DC-6156	",1,NA,f042c745-5531-4011-b868-0729d28c1ea8.htseq.counts.gz,62,Male,WHITE,f042c745.5531.4011.b868.0729d28c1ea8.
+618,PRAD,TCGA-EJ-5532,1,0,f08f0585-8492-4394-a7b2-995de86cd13a.htseq.counts.gz,57,Male,WHITE,f08f0585.8492.4394.a7b2.995de86cd13a.
+619,COAD,"TCGA-CM-4747	",1,NA,f0b34dc3-72b8-48d0-a755-354c74405264.htseq.counts.gz,47,Male,WHITE,f0b34dc3.72b8.48d0.a755.354c74405264.
+621,HNSC,"TCGA-CV-5978	",0,0,f0f73c0a-ef91-4882-9912-09ce2ccea869.htseq.counts.gz,53,Female,BLACK OR AFRICAN AMERICAN,f0f73c0a.ef91.4882.9912.09ce2ccea869.
+622,PAAD,TCGA-FB-A4P5,1,1,f144de50-6126-4912-9c94-824d1eb0fac5.htseq.counts.gz,69,Female,WHITE,f144de50.6126.4912.9c94.824d1eb0fac5.
+623,ESCA,TCGA-VR-A8Q7,0,0,f181777c-80d8-49fd-a444-22fb7cb2a378.htseq.counts.gz,60,Male,WHITE,f181777c.80d8.49fd.a444.22fb7cb2a378.
+624,PRAD,TCGA-YL-A8S8,1,0,f186294c-9d3b-4f55-b43f-f27b9edb6795.htseq.counts.gz,68,Male,WHITE,f186294c.9d3b.4f55.b43f.f27b9edb6795.
+627,PRAD,TCGA-V1-A8WS,1,NA,f2001b09-6b0f-4a35-a8d4-7a0fa00a3431.htseq.counts.gz,56,Male,WHITE,f2001b09.6b0f.4a35.a8d4.7a0fa00a3431.
+628,HNSC,"TCGA-CV-7413	",0,0,f21a26c0-04d4-40b5-9075-9896653571dd.htseq.counts.gz,74,Female,WHITE,f21a26c0.04d4.40b5.9075.9896653571dd.
+629,PAAD,TCGA-Q3-AA2A,1,0,f2389819-b8fc-460e-821c-01dba313cce1.htseq.counts.gz,64,Female,WHITE,f2389819.b8fc.460e.821c.01dba313cce1.
+631,HNSC,TCGA-CN-4728,1,1,f25b1610-d385-40fd-8273-f7661be1eea4.htseq.counts.gz,56,Male,WHITE,f25b1610.d385.40fd.8273.f7661be1eea4.
+632,HNSC,TCGA-CN-A641,1,0,f25ebbb2-d196-4da1-b0a1-d23c89deb7a7.htseq.counts.gz,47,Male,WHITE,f25ebbb2.d196.4da1.b0a1.d23c89deb7a7.
+636,HNSC,"TCGA-IQ-A61I	",0,1,f3323c6a-95d6-4580-8c3a-d3f82fdf6416.htseq.counts.gz,63,Male,BLACK OR AFRICAN AMERICAN,f3323c6a.95d6.4580.8c3a.d3f82fdf6416.
+638,PRAD,TCGA-V1-A9Z8,1,0,f36e4e74-06c3-4c43-bfc7-427d98a7ac05.htseq.counts.gz,59,Male,WHITE,f36e4e74.06c3.4c43.bfc7.427d98a7ac05.
+639,HNSC,"TCGA-H7-7774	",0,0,f38a09f0-50e3-45c9-92a2-18e7639bfd6f.htseq.counts.gz,75,Female,WHITE,f38a09f0.50e3.45c9.92a2.18e7639bfd6f.
+641,PRAD,TCGA-J4-A83I,1,0,f3b9af70-dad8-4bf4-82d0-5c9e32233d16.htseq.counts.gz,63,Male,WHITE,f3b9af70.dad8.4bf4.82d0.5c9e32233d16.
+645,ESCA,TCGA-VR-A8EO,0,1,f3f23d87-15c0-45c0-878e-e3651e3905f1.htseq.counts.gz,49,Male,WHITE,f3f23d87.15c0.45c0.878e.e3651e3905f1.
+646,PRAD,TCGA-HC-7081,1,1,f433e0b0-5a59-48ce-bad0-89490083168b.htseq.counts.gz,62,Male,WHITE,f433e0b0.5a59.48ce.bad0.89490083168b.
+647,HNSC,"TCGA-CV-5441	",1,1,f44db4b4-9b79-41ce-a63a-d4aaa0d378e2.htseq.counts.gz,58,Male,WHITE,f44db4b4.9b79.41ce.a63a.d4aaa0d378e2.
+648,PRAD,TCGA-YL-A8HM,1,1,f4906ab8-6dc3-4e7f-b837-4d6227781e63.htseq.counts.gz,66,Male,WHITE,f4906ab8.6dc3.4e7f.b837.4d6227781e63.
+650,HNSC,TCGA-CN-5361,1,1,f4d1f4ab-49db-45aa-a121-22f67d7b2b64.htseq.counts.gz,80,Male,WHITE,f4d1f4ab.49db.45aa.a121.22f67d7b2b64.
+652,STAD,TCGA-VQ-A8PE,0,0,f4f05d0e-51a1-4299-a6a4-b834a356efdb.htseq.counts.gz,78,Male,WHITE,f4f05d0e.51a1.4299.a6a4.b834a356efdb.
+653,PRAD,TCGA-CH-5751,1,1,f5543b70-ba01-4821-a161-b402c07392ce.htseq.counts.gz,68,Male,WHITE,f5543b70.ba01.4821.a161.b402c07392ce.
+657,PRAD,TCGA-ZG-A8QZ,1,0,f6069857-6e01-4b4d-81d4-f7c388d25cb2.htseq.counts.gz,65,Male,WHITE,f6069857.6e01.4b4d.81d4.f7c388d25cb2.
+658,PRAD,TCGA-G9-6333,1,0,f676c6d1-b263-467c-ae4f-547628572df8.htseq.counts.gz,66,Male,WHITE,f676c6d1.b263.467c.ae4f.547628572df8.
+659,COAD,"TCGA-QG-A5YV	",0,0,f6893b7f-2472-416b-b137-33dae673d150.htseq.counts.gz,64,Female,BLACK OR AFRICAN AMERICAN,f6893b7f.2472.416b.b137.33dae673d150.
+660,PRAD,TCGA-J4-A67N,1,0,f6afb2d5-8209-4f3c-9639-3ee6f62c1aee.htseq.counts.gz,61,Male,WHITE,f6afb2d5.8209.4f3c.9639.3ee6f62c1aee.
+661,PRAD,TCGA-EJ-A65E,1,0,f6b88701-3fe1-4687-848f-14f8a3c8c0f4.htseq.counts.gz,67,Male,BLACK OR AFRICAN AMERICAN,f6b88701.3fe1.4687.848f.14f8a3c8c0f4.
+663,PAAD,TCGA-YB-A89D,1,NA,f6bd7191-a820-4d86-927a-b4b5f88ebd67.htseq.counts.gz,59,Male,WHITE,f6bd7191.a820.4d86.927a.b4b5f88ebd67.
+664,PRAD,TCGA-ZG-A9NI,1,0,f70e0f6a-fc32-42c5-b148-8707ee94ce6e.htseq.counts.gz,73,Male,WHITE,f70e0f6a.fc32.42c5.b148.8707ee94ce6e.
+670,LIHC,TCGA-2Y-A9H2,1,0,f7a956f8-4dc2-437a-92db-8baf8f9b3f14.htseq.counts.gz,64,Female,WHITE,f7a956f8.4dc2.437a.92db.8baf8f9b3f14.
+671,STAD,TCGA-KB-A93J,0,1,f7af0b8a-cbd3-4246-8b24-fb081450e6fd.htseq.counts.gz,78,Male,WHITE,f7af0b8a.cbd3.4246.8b24.fb081450e6fd.
+672,COAD,"TCGA-CM-6170	",0,0,f7ce175f-763e-4a55-97e3-0381d889b0eb.htseq.counts.gz,73,Female,WHITE,f7ce175f.763e.4a55.97e3.0381d889b0eb.
+675,BLCA,TCGA-DK-AA6R,1,1,f84433d3-7588-4b84-b8ef-aade7becf0a6.htseq.counts.gz,68,Male,WHITE,f84433d3.7588.4b84.b8ef.aade7becf0a6.
+676,PAAD,TCGA-HZ-A8P1,1,0,f8551a29-d4bd-4954-bf9c-8e10265063de.htseq.counts.gz,81,Male,WHITE,f8551a29.d4bd.4954.bf9c.8e10265063de.
+678,HNSC,"TCGA-T2-A6WZ	",1,0,f8e38a9b-a7b9-42c6-a572-7a66312327de.htseq.counts.gz,53,Male,WHITE,f8e38a9b.a7b9.42c6.a572.7a66312327de.
+680,HNSC,"TCGA-CV-5436	",1,NA,f92f5c0d-f440-4ad9-b937-4043f28648fe.htseq.counts.gz,65,Male,,f92f5c0d.f440.4ad9.b937.4043f28648fe.
+683,HNSC,"TCGA-HD-A633	",0,0,f95c5f56-43a0-4730-ac16-fe452fc4ed19.htseq.counts.gz,74,Male,WHITE,f95c5f56.43a0.4730.ac16.fe452fc4ed19.
+684,PRAD,TCGA-EJ-5494,1,0,f961ee85-4b94-4052-b930-125ca8215877.htseq.counts.gz,50,Male,WHITE,f961ee85.4b94.4052.b930.125ca8215877.
+685,BLCA,TCGA-DK-A1A7,1,1,f9795277-af1d-4b9f-96fc-61ea52bb6e4f.htseq.counts.gz,67,Female,WHITE,f9795277.af1d.4b9f.96fc.61ea52bb6e4f.
+686,STAD,TCGA-HU-8604,0,0,f98dc110-abd1-4cb8-bf70-022f4c5a36bc.htseq.counts.gz,82,Female,ASIAN,f98dc110.abd1.4cb8.bf70.022f4c5a36bc.
+688,HNSC,"TCGA-CN-4734	",1,1,fa09607b-b417-4ead-b557-daa038fe6b99.htseq.counts.gz,70,Male,WHITE,fa09607b.b417.4ead.b557.daa038fe6b99.
+691,HNSC,"TCGA-CV-A45Y	",1,1,fa459b23-f0f8-4fed-a7c3-829a720a2221.htseq.counts.gz,61,Male,AMERICAN INDIAN OR ALASKA NATIVE,fa459b23.f0f8.4fed.a7c3.829a720a2221.
+692,COAD,"TCGA-CK-4951	",0,0,fa73bdce-67fb-42aa-883f-635f0e7bcdc6.htseq.counts.gz,79,Female,WHITE,fa73bdce.67fb.42aa.883f.635f0e7bcdc6.
+693,BLCA,TCGA-4Z-AA7S,0,0,fa7e05f3-8f14-4491-98f7-6262781a1013.htseq.counts.gz,66,Male,BLACK OR AFRICAN AMERICAN,fa7e05f3.8f14.4491.98f7.6262781a1013.
+695,HNSC,"TCGA-CV-7263	",1,0,fabd394c-9385-4b02-bcfb-88a4a44413d7.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,fabd394c.9385.4b02.bcfb.88a4a44413d7.
+698,HNSC,"TCGA-UF-A71D	",0,0,fb3bc987-c15c-4c73-a9cb-5312f548805b.htseq.counts.gz,54,Female,WHITE,fb3bc987.c15c.4c73.a9cb.5312f548805b.
+699,PAAD,TCGA-RL-AAAS,1,0,fb65f821-92cb-402a-ad2f-d4044ca7de4d.htseq.counts.gz,60,Female,WHITE,fb65f821.92cb.402a.ad2f.d4044ca7de4d.
+703,PRAD,TCGA-CH-5743,1,0,fc5f707b-76cd-4c0d-a9de-ede5a1ef2bb5.htseq.counts.gz,66,Male,WHITE,fc5f707b.76cd.4c0d.a9de.ede5a1ef2bb5.
+704,COAD,"TCGA-SS-A7HO	",0,1,fc822b3c-b73f-4529-960b-e3bdfcff80ed.htseq.counts.gz,44,Female,BLACK OR AFRICAN AMERICAN,fc822b3c.b73f.4529.960b.e3bdfcff80ed.
+705,PRAD,TCGA-EJ-A46I,1,0,fc9050ab-c9d6-44b7-874a-ac7449102d74.htseq.counts.gz,57,Male,BLACK OR AFRICAN AMERICAN,fc9050ab.c9d6.44b7.874a.ac7449102d74.
+707,COAD,"TCGA-G4-6304	",0,0,fcb5f382-f06f-4885-8ea1-c0699b408838.htseq.counts.gz,66,Female,WHITE,fcb5f382.f06f.4885.8ea1.c0699b408838.
+708,HNSC,"TCGA-HD-8314	",0,1,fccd3557-8689-4e62-ac1a-8d6e3dac9eb0.htseq.counts.gz,58,Male,WHITE,fccd3557.8689.4e62.ac1a.8d6e3dac9eb0.
+710,PAAD,TCGA-HZ-8315,1,0,fcd43085-7338-43fe-bc25-9d87b04e227f.htseq.counts.gz,54,Female,WHITE,fcd43085.7338.43fe.bc25.9d87b04e227f.
+711,PRAD,TCGA-J4-A67O,1,0,fcf3715b-ecfc-4554-bb0b-96d3171d85be.htseq.counts.gz,59,Male,WHITE,fcf3715b.ecfc.4554.bb0b.96d3171d85be.
+712,THCA,TCGA-BJ-A3EZ,1,1,fd455db3-314a-48aa-a56c-cf20931f9eb3.htseq.counts.gz,51,Male,WHITE,fd455db3.314a.48aa.a56c.cf20931f9eb3.
+714,BLCA,TCGA-DK-A3WW,0,0,fd74b13e-34e7-4736-a41d-cc5844441520.htseq.counts.gz,57,Male,WHITE,fd74b13e.34e7.4736.a41d.cc5844441520.
+717,HNSC,TCGA-CN-4727,0,0,fddd273c-4ed9-4fac-8ce4-d5c3bcc4f4a4.htseq.counts.gz,56,Male,WHITE,fddd273c.4ed9.4fac.8ce4.d5c3bcc4f4a4.
+719,PRAD,TCGA-EJ-5512,1,0,fe2ee510-b575-4983-b16e-c8c8dc699916.htseq.counts.gz,46,Male,WHITE,fe2ee510.b575.4983.b16e.c8c8dc699916.
+720,PRAD,TCGA-EJ-AB27,0,0,fe350add-e157-4a2c-8305-6588c7b592e0.htseq.counts.gz,51,Male,WHITE,fe350add.e157.4a2c.8305.6588c7b592e0.
+722,HNSC,"TCGA-CV-7090	",1,NA,fe64380e-cb97-4681-b6a0-31892140617a.htseq.counts.gz,39,Male,WHITE,fe64380e.cb97.4681.b6a0.31892140617a.
+723,PRAD,TCGA-CH-5741,1,1,fe7abfa5-005e-4436-9855-03bd8c372508.htseq.counts.gz,56,Male,WHITE,fe7abfa5.005e.4436.9855.03bd8c372508.
+724,PRAD,TCGA-G9-6343,1,0,fe9e58ac-246f-47b3-b2a6-6bd86b06329b.htseq.counts.gz,62,Male,WHITE,fe9e58ac.246f.47b3.b2a6.6bd86b06329b.
+725,PAAD,TCGA-Q3-A5QY,1,0,feb22766-4282-47c8-bfe2-7d020b4a15d4.htseq.counts.gz,58,Male,WHITE,feb22766.4282.47c8.bfe2.7d020b4a15d4.
+726,HNSC,"TCGA-CQ-A4C7	",1,0,fec14941-d5e0-4c30-9c68-ccd79b2cea4e.htseq.counts.gz,88,Male,WHITE,fec14941.d5e0.4c30.9c68.ccd79b2cea4e.
+727,PAAD,TCGA-IB-AAUQ,1,1,fef65b57-c58d-4050-8de4-f09f5cd616ce.htseq.counts.gz,50,Male,WHITE,fef65b57.c58d.4050.8de4.f09f5cd616ce.
+731,BLCA,TCGA-BT-A3PK,0,0,ffd68836-6dcf-4965-8799-970e6eaf885c.htseq.counts.gz,80,Male,WHITE,ffd68836.6dcf.4965.8799.970e6eaf885c.
+732,COAD,"TCGA-G4-6294	",0,0,00106523-5b1d-44ad-a9f1-7d84db08722c.htseq.counts.gz,75,Male,WHITE,X00106523.5b1d.44ad.a9f1.7d84db08722c
+733,LIHC,TCGA-3K-AAZ8,0,1,0069f64b-8d8f-4426-968d-23483929ee58.htseq.counts.gz,65,Male,BLACK OR AFRICAN AMERICAN,X0069f64b.8d8f.4426.968d.23483929ee58
+736,HNSC,"TCGA-BA-A4II	",0,0,00bed789-1573-4f1a-bc93-4ace31a32a6a.htseq.counts.gz,46,Male,WHITE,X00bed789.1573.4f1a.bc93.4ace31a32a6a
+739,PAAD,TCGA-IB-7645,1,1,00faf8ba-ff90-4214-9d03-6c5e14645d8f.htseq.counts.gz,44,Female,,X00faf8ba.ff90.4214.9d03.6c5e14645d8f
+740,PRAD,TCGA-HC-7209,1,0,010d5c94-b440-4927-bc8c-ddc25a56650e.htseq.counts.gz,60,Male,WHITE,X010d5c94.b440.4927.bc8c.ddc25a56650e
+742,PAAD,TCGA-FB-AAQ1,1,1,0143419f-2abe-4906-bb55-af6010fab05f.htseq.counts.gz,49,Male,WHITE,X0143419f.2abe.4906.bb55.af6010fab05f
+743,HNSC,"TCGA-BB-4227	",1,NA,015e2a71-09d9-4929-a316-f00cdf7f7846.htseq.counts.gz,66,Male,WHITE,X015e2a71.09d9.4929.a316.f00cdf7f7846
+744,PRAD,TCGA-HC-7749,1,0,0160fa3a-3a99-48b5-8bbc-6f0add02ae78.htseq.counts.gz,70,Male,WHITE,X0160fa3a.3a99.48b5.8bbc.6f0add02ae78
+745,HNSC,TCGA-CN-A63U,0,1,01aad490-cd89-463a-8c31-d3fff17e7ab7.htseq.counts.gz,50,Male,WHITE,X01aad490.cd89.463a.8c31.d3fff17e7ab7
+746,STAD,TCGA-HU-8249,1,1,01ed42c5-175d-4de0-a379-417f950113f6.htseq.counts.gz,76,Male,ASIAN,X01ed42c5.175d.4de0.a379.417f950113f6
+748,COAD,"TCGA-CM-6165	",0,NA,020aa019-a3a4-4055-92ee-be824a597501.htseq.counts.gz,74,Male,WHITE,X020aa019.a3a4.4055.92ee.be824a597501
+749,PRAD,TCGA-EJ-7797,0,0,02599613-1566-40af-8606-a438c2b17061.htseq.counts.gz,53,Male,WHITE,X02599613.1566.40af.8606.a438c2b17061
+751,BRCA,TCGA-A1-A0SD,0,0,02939ecf-77d0-49fc-a04b-8fd5334b44da.htseq.counts.gz,59,Female,WHITE,X02939ecf.77d0.49fc.a04b.8fd5334b44da
+753,HNSC,TCGA-CN-5366,1,NA,029e64ca-6652-4234-9724-3d6c3fd88771.htseq.counts.gz,51,Male,WHITE,X029e64ca.6652.4234.9724.3d6c3fd88771
+754,COAD,"TCGA-CM-6674	",0,0,02a81bc3-4672-4d2f-808d-d27f4b63bf85.htseq.counts.gz,39,Male,WHITE,X02a81bc3.4672.4d2f.808d.d27f4b63bf85
+755,PRAD,TCGA-V1-A9OF,0,NA,02d936a2-14a6-43f1-90f5-eb5b14823f2d.htseq.counts.gz,49,Male,WHITE,X02d936a2.14a6.43f1.90f5.eb5b14823f2d
+757,BLCA,TCGA-DK-A3IM,1,1,02eef730-a48f-444d-a755-a83bc31845da.htseq.counts.gz,76,Male,WHITE,X02eef730.a48f.444d.a755.a83bc31845da
+758,PAAD,TCGA-2J-AAB8,1,1,03094067-02d4-40c5-b6fa-bb5180dc7eab.htseq.counts.gz,71,Male,WHITE,X03094067.02d4.40c5.b6fa.bb5180dc7eab
+759,COAD,"TCGA-CM-5863	",1,NA,0319a4cc-ee3f-4c6f-83e1-7cdd5f865dc0.htseq.counts.gz,60,Female,WHITE,X0319a4cc.ee3f.4c6f.83e1.7cdd5f865dc0
+760,THCA,TCGA-4C-A93U,1,NA,03248d19-cb6a-4578-9759-c0c4de048920.htseq.counts.gz,74,Female,BLACK OR AFRICAN AMERICAN,X03248d19.cb6a.4578.9759.c0c4de048920
+761,HNSC,"TCGA-IQ-A6SG	",0,0,032c007c-a7c8-42bd-a7af-3134bcc8c4a1.htseq.counts.gz,61,Female,WHITE,X032c007c.a7c8.42bd.a7af.3134bcc8c4a1
+762,PAAD,TCGA-F2-A8YN,0,1,0349f526-7816-4a7d-9967-1f75dd9ff00a.htseq.counts.gz,76,Male,WHITE,X0349f526.7816.4a7d.9967.1f75dd9ff00a
+763,PAAD,TCGA-HZ-A77Q,0,0,03630a0c-aa97-4e28-bac9-0206fff669cd.htseq.counts.gz,55,Female,WHITE,X03630a0c.aa97.4e28.bac9.0206fff669cd
+766,PRAD,TCGA-2A-AAYO,1,0,03870270-25eb-4552-8845-684df866074a.htseq.counts.gz,57,Male,WHITE,X03870270.25eb.4552.8845.684df866074a
+767,BLCA,TCGA-4Z-AA7W,0,0,03872f69-93f5-4d6c-aeb3-dadbc2762682.htseq.counts.gz,55,Male,WHITE,X03872f69.93f5.4d6c.aeb3.dadbc2762682
+768,HNSC,"TCGA-KU-A66T	",0,0,03a9f130-71c0-4038-a58b-331b2b51215d.htseq.counts.gz,53,Female,WHITE,X03a9f130.71c0.4038.a58b.331b2b51215d
+769,HNSC,TCGA-CN-5360,0,1,04199d64-ece0-4ce8-be6c-a7eb758b6405.htseq.counts.gz,68,Male,WHITE,X04199d64.ece0.4ce8.be6c.a7eb758b6405
+770,PRAD,TCGA-CH-5739,1,NA,045ec00a-3938-4280-959a-f853e53261dd.htseq.counts.gz,65,Male,WHITE,X045ec00a.3938.4280.959a.f853e53261dd
+772,PRAD,TCGA-J4-A67R,1,0,0490a280-03ac-4135-8f37-fe71f64a8054.htseq.counts.gz,65,Male,WHITE,X0490a280.03ac.4135.8f37.fe71f64a8054
+775,LIHC,TCGA-BC-A5W4,0,0,04dc4da1-1d1a-46da-a9d8-da9964591aec.htseq.counts.gz,69,Male,WHITE,X04dc4da1.1d1a.46da.a9d8.da9964591aec
+776,BLCA,TCGA-DK-A1AD,1,0,04e84524-f75f-4cb5-9e9c-e78850d7b6f5.htseq.counts.gz,69,Male,WHITE,X04e84524.f75f.4cb5.9e9c.e78850d7b6f5
+778,PRAD,TCGA-EJ-7792,0,0,0532b0ce-9326-49a6-a19b-f888bf7d000f.htseq.counts.gz,53,Male,WHITE,X0532b0ce.9326.49a6.a19b.f888bf7d000f
+779,PRAD,TCGA-YL-A8SP,1,1,0563a8a4-fff0-449e-840a-888af6180d6c.htseq.counts.gz,58,Male,WHITE,X0563a8a4.fff0.449e.840a.888af6180d6c
+784,COAD,"TCGA-CM-4751	",0,1,058ac81a-3b90-4e7d-8f7b-9c34fbc77997.htseq.counts.gz,62,Male,WHITE,X058ac81a.3b90.4e7d.8f7b.9c34fbc77997
+785,BLCA,TCGA-BT-A0S7,1,1,059ef699-2da2-4f3e-8f7c-996ae394a87b.htseq.counts.gz,75,Male,WHITE,X059ef699.2da2.4f3e.8f7c.996ae394a87b
+786,PRAD,TCGA-QU-A6IP,1,NA,05b8bc5b-c10a-4f4f-ad08-edb7d76fa2b4.htseq.counts.gz,66,Male,WHITE,X05b8bc5b.c10a.4f4f.ad08.edb7d76fa2b4
+789,STAD,TCGA-VQ-A925,1,1,06248732-ba85-4870-80b6-14dacb536627.htseq.counts.gz,66,Male,WHITE,X06248732.ba85.4870.80b6.14dacb536627
+790,HNSC,"TCGA-CV-7252	",1,NA,06552413-83b7-4f1a-bf87-8993554c6d4e.htseq.counts.gz,62,Female,BLACK OR AFRICAN AMERICAN,X06552413.83b7.4f1a.bf87.8993554c6d4e
+791,BLCA,TCGA-DK-A1A3,1,1,069bb049-794f-474e-8238-9132c2b57a8f.htseq.counts.gz,60,Male,WHITE,X069bb049.794f.474e.8238.9132c2b57a8f
+792,COAD,"TCGA-NH-A50U	",1,0,06c8dfda-b057-47cb-b435-9c2739694f6a.htseq.counts.gz,42,Male,BLACK OR AFRICAN AMERICAN,X06c8dfda.b057.47cb.b435.9c2739694f6a
+793,HNSC,"TCGA-IQ-A61J	",1,0,06dc3b74-4514-4f97-b6a0-28b0ecca2262.htseq.counts.gz,54,Male,WHITE,X06dc3b74.4514.4f97.b6a0.28b0ecca2262
+796,COAD,"TCGA-NH-A6GB	",0,0,075a759b-21e0-4cab-a6b2-c5d65f7ccdbc.htseq.counts.gz,71,Female,BLACK OR AFRICAN AMERICAN,X075a759b.21e0.4cab.a6b2.c5d65f7ccdbc
+797,STAD,TCGA-VQ-A91Z,0,1,0764ef9f-226c-4cbc-b0d7-79c47f215d74.htseq.counts.gz,67,Female,WHITE,X0764ef9f.226c.4cbc.b0d7.79c47f215d74
+798,PRAD,TCGA-G9-6364,1,0,0767918e-04b9-4243-b377-9ff6f74a5c94.htseq.counts.gz,72,Male,WHITE,X0767918e.04b9.4243.b377.9ff6f74a5c94
+799,STAD,TCGA-VQ-A91Y,1,1,0772afa9-32f8-404f-a0cb-439bd320e8f6.htseq.counts.gz,67,Male,WHITE,X0772afa9.32f8.404f.a0cb.439bd320e8f6
+802,HNSC,"TCGA-CV-A6JO	",0,0,07a6cb77-dbf5-40cc-8391-0d60f3483c81.htseq.counts.gz,69,Male,WHITE,X07a6cb77.dbf5.40cc.8391.0d60f3483c81
+805,COAD,"TCGA-DC-5337	",0,0,0801eab4-8909-4a14-ad1b-e3c21a921db1.htseq.counts.gz,69,Male,WHITE,X0801eab4.8909.4a14.ad1b.e3c21a921db1
+806,HNSC,"TCGA-QK-A652	",1,1,080d17ee-f898-4e67-bd6f-7019834171ac.htseq.counts.gz,60,Male,WHITE,X080d17ee.f898.4e67.bd6f.7019834171ac
+808,STAD,TCGA-IN-A7NR,1,1,082ef2bf-a31f-4e7d-9553-40977d5a2239.htseq.counts.gz,64,Female,WHITE,X082ef2bf.a31f.4e7d.9553.40977d5a2239
+810,PAAD,TCGA-IB-A5SS,1,1,08562fbc-4f41-408b-8bd1-0c656071d69f.htseq.counts.gz,64,Female,WHITE,X08562fbc.4f41.408b.8bd1.0c656071d69f
+811,PRAD,TCGA-EJ-A65F,1,1,08ac28e4-a7e8-4693-b877-52794fa8ae44.htseq.counts.gz,59,Male,WHITE,X08ac28e4.a7e8.4693.b877.52794fa8ae44
+812,PAAD,TCGA-FB-A5VM,0,0,08b04038-cfb4-4a4c-9e20-1585a4af6826.htseq.counts.gz,74,Male,WHITE,X08b04038.cfb4.4a4c.9e20.1585a4af6826
+815,COAD,"TCGA-G4-6586	",0,1,08dd2c8c-537f-4d02-a4b8-9c123156f0d4.htseq.counts.gz,73,Female,WHITE,X08dd2c8c.537f.4d02.a4b8.9c123156f0d4
+816,ESCA,TCGA-JY-A93D,1,1,08ffe9f1-03d6-4ca6-8660-48dc8c138930.htseq.counts.gz,51,Male,WHITE,X08ffe9f1.03d6.4ca6.8660.48dc8c138930
+817,HNSC,"TCGA-CV-6945	",1,NA,09001b78-7752-4939-847f-f1674503e4a4.htseq.counts.gz,41,Male,WHITE,X09001b78.7752.4939.847f.f1674503e4a4
+818,STAD,TCGA-VQ-A8P8,1,1,091bc3bd-8a0d-4579-9ff5-2c0be4b8e261.htseq.counts.gz,72,Female,BLACK OR AFRICAN AMERICAN,X091bc3bd.8a0d.4579.9ff5.2c0be4b8e261
+819,HNSC,"TCGA-CV-A45R	",1,1,0968dd71-882c-4727-9b75-6e572d3b161e.htseq.counts.gz,46,Male,WHITE,X0968dd71.882c.4727.9b75.6e572d3b161e
+821,COAD,"TCGA-CM-6676	",0,0,09796233-3f40-4deb-b77d-2267c3afff59.htseq.counts.gz,82,Male,WHITE,X09796233.3f40.4deb.b77d.2267c3afff59
+822,PRAD,TCGA-YL-A8HL,1,0,09813624-fb69-4127-ba16-5d8bb7e6cabb.htseq.counts.gz,58,Male,WHITE,X09813624.fb69.4127.ba16.5d8bb7e6cabb
+823,PRAD,TCGA-4L-AA1F,1,1,0982be21-b4a3-4e43-92ba-1f2bde1c17d7.htseq.counts.gz,64,Male,WHITE,X0982be21.b4a3.4e43.92ba.1f2bde1c17d7
+825,HNSC,"TCGA-CQ-5331	",0,0,0a15de63-cefc-429b-a1b3-b9140a251325.htseq.counts.gz,73,Female,WHITE,X0a15de63.cefc.429b.a1b3.b9140a251325
+826,HNSC,"TCGA-CQ-7068	",0,0,0a4745c3-1664-4d5a-af3a-ac7731dafdf5.htseq.counts.gz,80,Female,WHITE,X0a4745c3.1664.4d5a.af3a.ac7731dafdf5
+828,PRAD,TCGA-G9-6373,1,0,0a923c09-5f30-4e5c-adef-baca0c461227.htseq.counts.gz,68,Male,WHITE,X0a923c09.5f30.4e5c.adef.baca0c461227
+829,PRAD,TCGA-HC-A6HX,1,0,0a97763c-08d7-4ebd-95dd-b0434f8d8345.htseq.counts.gz,55,Male,WHITE,X0a97763c.08d7.4ebd.95dd.b0434f8d8345
+832,PRAD,TCGA-J4-A6G3,1,1,0abf6c7e-1884-44a0-a176-f02cd414b244.htseq.counts.gz,57,Male,WHITE,X0abf6c7e.1884.44a0.a176.f02cd414b244
+835,HNSC,"TCGA-CV-A464	",1,0,0b12f127-9ca6-46bc-bad5-49ac215b7844.htseq.counts.gz,48,Male,WHITE,X0b12f127.9ca6.46bc.bad5.49ac215b7844
+837,HNSC,TCGA-CN-6996,1,1,0b6141e2-00ef-4a7d-8859-f986aad44d06.htseq.counts.gz,58,Female,WHITE,X0b6141e2.00ef.4a7d.8859.f986aad44d06
+838,PAAD,TCGA-F2-6880,1,0,0be94b2f-fccb-4482-b0ea-695c101aa65a.htseq.counts.gz,70,Male,WHITE,X0be94b2f.fccb.4482.b0ea.695c101aa65a
+840,COAD,"TCGA-AZ-4615	",0,1,0c3d283b-1ef5-459e-b312-c97ea0b6d793.htseq.counts.gz,84,Male,WHITE,X0c3d283b.1ef5.459e.b312.c97ea0b6d793
+842,PRAD,TCGA-ZG-A8QW,1,1,0c6858b0-b3c3-4e40-8ec9-e54927975213.htseq.counts.gz,72,Male,WHITE,X0c6858b0.b3c3.4e40.8ec9.e54927975213
+843,HNSC,"TCGA-DQ-5625	",0,0,0c8fee2b-71b6-4eb8-b983-8b75521c2a37.htseq.counts.gz,52,Female,WHITE,X0c8fee2b.71b6.4eb8.b983.8b75521c2a37
+844,HNSC,"TCGA-CV-A6JZ	",0,0,0c9fda86-dca4-4dbb-912d-424feaa5dcc6.htseq.counts.gz,68,Male,WHITE,X0c9fda86.dca4.4dbb.912d.424feaa5dcc6
+846,PRAD,TCGA-G9-6384,1,0,0d1c74b2-4b01-43d8-8283-987c16c5e3a5.htseq.counts.gz,53,Male,WHITE,X0d1c74b2.4b01.43d8.8283.987c16c5e3a5
+847,HNSC,"TCGA-F7-A61W	",0,1,0d5105ae-0b7e-4477-a822-cc20ba9423fa.htseq.counts.gz,51,Male,ASIAN,X0d5105ae.0b7e.4477.a822.cc20ba9423fa
+848,HNSC,"TCGA-CV-A6JN	",0,0,0d56836d-6eb4-4736-9ad0-3c1139302043.htseq.counts.gz,53,Male,WHITE,X0d56836d.6eb4.4736.9ad0.3c1139302043
+853,PRAD,TCGA-ZG-A9LN,1,1,0defce8d-3eb5-4f6d-bc9f-46d761bd130a.htseq.counts.gz,57,Male,WHITE,X0defce8d.3eb5.4f6d.bc9f.46d761bd130a
+854,BLCA,TCGA-4Z-AA87,1,0,0df5ed77-67ee-436a-b4e2-63a4ec8b557c.htseq.counts.gz,72,Male,BLACK OR AFRICAN AMERICAN,X0df5ed77.67ee.436a.b4e2.63a4ec8b557c
+855,HNSC,"TCGA-CQ-5323	",0,0,0e66687b-5196-470b-9857-fbb8ba6d14ce.htseq.counts.gz,82,Male,WHITE,X0e66687b.5196.470b.9857.fbb8ba6d14ce
+858,HNSC,TCGA-4P-AA8J,1,1,0ea4cfc7-e096-4c03-96a0-792eedf79f56.htseq.counts.gz,66,Male,BLACK OR AFRICAN AMERICAN,X0ea4cfc7.e096.4c03.96a0.792eedf79f56
+860,PRAD,TCGA-HC-7819,1,0,0eb37323-6070-4be3-9b1f-11b49a7ab6f2.htseq.counts.gz,53,Male,WHITE,X0eb37323.6070.4be3.9b1f.11b49a7ab6f2
+862,COAD,"TCGA-AY-6197	",0,0,0ed65bdf-cb92-47c1-8aeb-42518ce639b8.htseq.counts.gz,60,Male,WHITE,X0ed65bdf.cb92.47c1.8aeb.42518ce639b8
+864,COAD,"TCGA-AY-A8YK	",0,1,0ee26933-679d-4e84-ab56-6b9581e5dbfd.htseq.counts.gz,44,Male,BLACK OR AFRICAN AMERICAN,X0ee26933.679d.4e84.ab56.6b9581e5dbfd
+866,PRAD,TCGA-EJ-5496,1,0,0f27a12b-0fe7-4811-ac1e-13d3cc1e346b.htseq.counts.gz,59,Male,WHITE,X0f27a12b.0fe7.4811.ac1e.13d3cc1e346b
+867,PAAD,TCGA-IB-7652,1,0,0f426284-c121-4860-bb80-8df032b0dea8.htseq.counts.gz,49,Female,ASIAN,X0f426284.c121.4860.bb80.8df032b0dea8
+868,COAD,"TCGA-G4-6302	",1,1,0fa55c0e-6f8f-44a6-82fe-9a42495d3484.htseq.counts.gz,90,Female,WHITE,X0fa55c0e.6f8f.44a6.82fe.9a42495d3484
+871,PRAD,TCGA-YL-A9WY,0,1,0ff7a685-628d-42b2-a7e4-d76b7aa875a3.htseq.counts.gz,57,Male,WHITE,X0ff7a685.628d.42b2.a7e4.d76b7aa875a3
+872,HNSC,"TCGA-CQ-6222	",0,0,1004e3e8-6bec-472b-bfce-5042d1f6912b.htseq.counts.gz,63,Male,WHITE,X1004e3e8.6bec.472b.bfce.5042d1f6912b
+876,LIHC,TCGA-2Y-A9GW,0,0,10d2c5d1-f5d5-40c6-a42f-f9cccdb94ac5.htseq.counts.gz,64,Male,WHITE,X10d2c5d1.f5d5.40c6.a42f.f9cccdb94ac5
+879,HNSC,"TCGA-CV-6954	",0,0,113a6464-b2b9-4566-b501-9060291b54b3.htseq.counts.gz,59,Male,BLACK OR AFRICAN AMERICAN,X113a6464.b2b9.4566.b501.9060291b54b3
+880,COAD,"TCGA-AZ-4682	",0,0,11586a7f-5148-4b6b-b431-686b907f8df9.htseq.counts.gz,61,Male,WHITE,X11586a7f.5148.4b6b.b431.686b907f8df9
+881,STAD,TCGA-HU-A4GD,0,1,11606737-57d8-4fb0-87a1-1035a2aab959.htseq.counts.gz,56,Male,ASIAN,X11606737.57d8.4fb0.87a1.1035a2aab959
+882,PRAD,TCGA-HC-A9TH,1,0,11709e82-3ff0-4347-a611-46b99c28942d.htseq.counts.gz,58,Male,WHITE,X11709e82.3ff0.4347.a611.46b99c28942d
+885,PAAD,TCGA-YH-A8SY,1,1,12088339-1c7d-45ce-94b5-109555472ac2.htseq.counts.gz,73,Female,WHITE,X12088339.1c7d.45ce.94b5.109555472ac2
+886,STAD,TCGA-VQ-A923,1,1,1212a484-922a-4038-81a3-eacc506da847.htseq.counts.gz,90,Male,WHITE,X1212a484.922a.4038.81a3.eacc506da847
+888,BLCA,TCGA-BT-A20W,0,0,123812eb-b41f-444e-b547-50a8fa41b893.htseq.counts.gz,71,Male,WHITE,X123812eb.b41f.444e.b547.50a8fa41b893
+890,HNSC,"TCGA-CV-7406	",0,1,125012fe-2fcc-4210-bdb9-777b10df95ff.htseq.counts.gz,49,Male,WHITE,X125012fe.2fcc.4210.bdb9.777b10df95ff
+891,PRAD,TCGA-EJ-A46E,1,0,12531792-0d39-478f-ab05-90aceedf033d.htseq.counts.gz,57,Male,WHITE,X12531792.0d39.478f.ab05.90aceedf033d
+895,HNSC,TCGA-CN-6016,1,1,12a40f0f-e59b-4fd7-9e11-76cb27caa528.htseq.counts.gz,64,Male,WHITE,X12a40f0f.e59b.4fd7.9e11.76cb27caa528
+896,PAAD,TCGA-US-A77E,1,1,12caae52-5f67-4df5-9e83-072844acd484.htseq.counts.gz,73,Male,WHITE,X12caae52.5f67.4df5.9e83.072844acd484
+900,PAAD,TCGA-F2-A44G,1,1,136067dc-fde9-42e4-8488-d38c7e2d713c.htseq.counts.gz,79,Female,WHITE,X136067dc.fde9.42e4.8488.d38c7e2d713c
+901,PRAD,TCGA-XK-AAIV,1,1,13812bee-b0b8-4c94-b322-ae1e1406e869.htseq.counts.gz,63,Male,WHITE,X13812bee.b0b8.4c94.b322.ae1e1406e869
+902,HNSC,"TCGA-WA-A7GZ	",1,0,138c0189-8cfb-4b61-9757-4021594f5307.htseq.counts.gz,58,Male,WHITE,X138c0189.8cfb.4b61.9757.4021594f5307
+904,PRAD,TCGA-HC-7233,1,0,13990c37-cf67-4b43-b962-6b7e99ffc995.htseq.counts.gz,73,Male,WHITE,X13990c37.cf67.4b43.b962.6b7e99ffc995
+906,BRCA,TCGA-A1-A0SM,0,0,1414d172-710a-4fb6-af82-f8b0c923b259.htseq.counts.gz,77,Male,WHITE,X1414d172.710a.4fb6.af82.f8b0c923b259
+908,PRAD,TCGA-V1-A9ZI,1,1,144549fe-4062-4a9f-952c-2d0fa31f16f7.htseq.counts.gz,68,Male,WHITE,X144549fe.4062.4a9f.952c.2d0fa31f16f7
+910,PRAD,TCGA-EJ-5495,1,1,14a0b1b2-99dc-4f36-ab1c-fdf6fa95c15f.htseq.counts.gz,68,Male,WHITE,X14a0b1b2.99dc.4f36.ab1c.fdf6fa95c15f
+916,HNSC,"TCGA-F7-A61V	",0,0,15458b0b-c9f0-46ee-aaad-58c44c43f37b.htseq.counts.gz,54,Male,WHITE,X15458b0b.c9f0.46ee.aaad.58c44c43f37b
+917,PAAD,TCGA-IB-AAUR,1,1,1548c36f-d41c-4ebe-a86c-66cbc65af67b.htseq.counts.gz,67,Male,WHITE,X1548c36f.d41c.4ebe.a86c.66cbc65af67b
+918,PRAD,TCGA-YL-A8SO,0,0,154e1926-7ef4-4b55-8063-17b5400782ca.htseq.counts.gz,64,Male,WHITE,X154e1926.7ef4.4b55.8063.17b5400782ca
+919,PRAD,TCGA-HC-A631,1,0,157c638d-9173-460d-b001-d29f7beeb5b7.htseq.counts.gz,67,Male,WHITE,X157c638d.9173.460d.b001.d29f7beeb5b7
+921,COAD,"TCGA-DC-4749	",0,1,15bb9c50-e4bb-4433-a9dd-32ddd6536b49.htseq.counts.gz,57,Male,WHITE,X15bb9c50.e4bb.4433.a9dd.32ddd6536b49
+925,PRAD,TCGA-YL-A8SH,0,0,160140d9-0d18-4b4a-9895-fee507c4ef1a.htseq.counts.gz,69,Male,WHITE,X160140d9.0d18.4b4a.9895.fee507c4ef1a
+928,PRAD,TCGA-KK-A8IB,1,1,166edae7-0242-4a46-8b0b-ae75a362153c.htseq.counts.gz,65,Male,WHITE,X166edae7.0242.4a46.8b0b.ae75a362153c
+929,PRAD,TCGA-EJ-7791,1,0,16785558-44bf-435f-b259-55d61b0f8b95.htseq.counts.gz,67,Male,WHITE,X16785558.44bf.435f.b259.55d61b0f8b95
+931,PAAD,TCGA-F2-6879,0,0,16c63027-f745-41c4-a5e8-f6d9f1fbf1c8.htseq.counts.gz,57,Male,WHITE,X16c63027.f745.41c4.a5e8.f6d9f1fbf1c8
+933,COAD,"TCGA-DC-6681	",1,NA,17275b88-afa8-4010-a5a3-641382f3a1cf.htseq.counts.gz,70,Female,WHITE,X17275b88.afa8.4010.a5a3.641382f3a1cf
+934,STAD,TCGA-VQ-A94R,0,1,175f3b18-77d1-4532-90c8-b6d7ad198363.htseq.counts.gz,63,Male,WHITE,X175f3b18.77d1.4532.90c8.b6d7ad198363
+935,PRAD,TCGA-V1-A8MK,1,NA,176faa66-9eb4-4d1e-b7fe-08d34db0e44f.htseq.counts.gz,41,Male,BLACK OR AFRICAN AMERICAN,X176faa66.9eb4.4d1e.b7fe.08d34db0e44f
+939,PRAD,TCGA-HC-A6AP,1,0,17dc1bb2-1658-4d3d-b2cf-08fa32a35eac.htseq.counts.gz,61,Male,WHITE,X17dc1bb2.1658.4d3d.b2cf.08fa32a35eac
+941,BRCA,TCGA-A1-A0SF,0,0,17f01a59-b1fc-4a6e-86f3-51fc2cd0398a.htseq.counts.gz,54,Female,WHITE,X17f01a59.b1fc.4a6e.86f3.51fc2cd0398a
+942,HNSC,"TCGA-CQ-5334	",1,0,18138f51-7891-44a0-bfb2-ba25ae088cfb.htseq.counts.gz,87,Male,WHITE,X18138f51.7891.44a0.bfb2.ba25ae088cfb
+943,PRAD,TCGA-J9-A8CL,1,1,18433231-cde5-4827-9aa1-21557ea27126.htseq.counts.gz,66,Male,WHITE,X18433231.cde5.4827.9aa1.21557ea27126
+946,STAD,TCGA-VQ-AA68,1,1,18ac8907-2d00-441f-82ec-2255814e3f5c.htseq.counts.gz,52,Female,WHITE,X18ac8907.2d00.441f.82ec.2255814e3f5c
+947,LIHC,TCGA-BC-A3KF,0,1,18c32c46-00f9-4437-bdbb-05233fdd676e.htseq.counts.gz,66,Female,WHITE,X18c32c46.00f9.4437.bdbb.05233fdd676e
+950,PRAD,TCGA-HC-A9TE,1,0,193c13fa-d708-4f74-8e6e-e1eb5aa02ad7.htseq.counts.gz,64,Male,WHITE,X193c13fa.d708.4f74.8e6e.e1eb5aa02ad7
+954,HNSC,"TCGA-KU-A6H7	",0,1,19e1f123-a36f-4580-a255-35b95ac0a7df.htseq.counts.gz,55,Female,WHITE,X19e1f123.a36f.4580.a255.35b95ac0a7df
+956,BLCA,TCGA-BT-A20X,1,1,19f094bc-108c-46d0-bc32-0c9e10681272.htseq.counts.gz,56,Male,WHITE,X19f094bc.108c.46d0.bc32.0c9e10681272
+959,HNSC,"TCGA-BA-A6DD	",1,0,1a2e3926-3287-4ae8-8048-3953ca97e317.htseq.counts.gz,44,Male,BLACK OR AFRICAN AMERICAN,X1a2e3926.3287.4ae8.8048.3953ca97e317
+961,PRAD,TCGA-V1-A9OQ,1,NA,1a552b38-4a08-429c-baff-dd07380436d8.htseq.counts.gz,67,Male,WHITE,X1a552b38.4a08.429c.baff.dd07380436d8
+963,PRAD,TCGA-V1-A8WL,1,NA,1aaa01ee-ebd0-4b3b-a11f-d58d8a860c7a.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,X1aaa01ee.ebd0.4b3b.a11f.d58d8a860c7a
+964,HNSC,"TCGA-CV-7250	",1,NA,1aebe8a0-7fcb-407d-aa21-55e386f7297e.htseq.counts.gz,64,Male,WHITE,X1aebe8a0.7fcb.407d.aa21.55e386f7297e
+965,BLCA,TCGA-DK-A1A6,0,1,1b71f4c9-51ff-402c-b321-c6927d60cd0c.htseq.counts.gz,53,Male,WHITE,X1b71f4c9.51ff.402c.b321.c6927d60cd0c
+968,HNSC,"TCGA-CV-6956	",1,1,1bc56e7f-f29d-4776-984a-2cf3dbf7efc4.htseq.counts.gz,67,Male,WHITE,X1bc56e7f.f29d.4776.984a.2cf3dbf7efc4
+969,PRAD,TCGA-VP-A872,0,0,1c0f1fc1-c21e-49af-a80b-d81533cbfc25.htseq.counts.gz,60,Male,WHITE,X1c0f1fc1.c21e.49af.a80b.d81533cbfc25
+970,HNSC,"TCGA-P3-A6T8	",1,1,1c5cc140-7ab2-4596-9a16-e136f1379bc9.htseq.counts.gz,54,Male,WHITE,X1c5cc140.7ab2.4596.9a16.e136f1379bc9
+971,PRAD,TCGA-2A-AAYF,1,0,1c79d197-1b39-429c-a0c7-b0138113013d.htseq.counts.gz,57,Male,WHITE,X1c79d197.1b39.429c.a0c7.b0138113013d
+972,COAD,TCGA-4T-AA8H,0,0,1cbb39ca-efbf-4080-bd32-1b76006394a8.htseq.counts.gz,42,Female,BLACK OR AFRICAN AMERICAN,X1cbb39ca.efbf.4080.bd32.1b76006394a8
+973,PRAD,TCGA-KK-A7AY,1,0,1d0e6401-4b08-4087-946d-0b99f250c704.htseq.counts.gz,60,Male,WHITE,X1d0e6401.4b08.4087.946d.0b99f250c704
+976,BRCA,TCGA-A2-A0CT,0,0,1d7afc91-311c-4f26-9be0-b76ac284ee96.htseq.counts.gz,71,Female,WHITE,X1d7afc91.311c.4f26.9be0.b76ac284ee96
+977,COAD,"TCGA-G4-6295	",0,0,1d975006-4e14-4f2c-be5f-e09f58790d62.htseq.counts.gz,70,Female,WHITE,X1d975006.4e14.4f2c.be5f.e09f58790d62
+981,HNSC,"TCGA-D6-8569	",0,0,1e08c82a-70bc-4a09-bdb0-f9248b581dbc.htseq.counts.gz,52,Male,WHITE,X1e08c82a.70bc.4a09.bdb0.f9248b581dbc
+985,PRAD,TCGA-VN-A943,1,0,1e8f4999-060b-4161-9e3f-8cc4afcd7711.htseq.counts.gz,71,Male,WHITE,X1e8f4999.060b.4161.9e3f.8cc4afcd7711
+986,HNSC,"TCGA-CV-7440	",1,1,1e8fc71c-1a15-419c-8120-3736e9770dbd.htseq.counts.gz,38,Male,WHITE,X1e8fc71c.1a15.419c.8120.3736e9770dbd
+991,PAAD,TCGA-HZ-7924,1,0,1f2aa905-5022-4efe-afac-022d1acfdbe5.htseq.counts.gz,60,Female,WHITE,X1f2aa905.5022.4efe.afac.022d1acfdbe5
+992,COAD,"TCGA-CM-4744	",0,1,1f5ff5c6-64a8-4214-b304-634aae40202a.htseq.counts.gz,69,Male,WHITE,X1f5ff5c6.64a8.4214.b304.634aae40202a
+993,PRAD,TCGA-J4-A67S,0,0,1f6e20e5-542f-48d4-91f0-68f3db448860.htseq.counts.gz,63,Male,WHITE,X1f6e20e5.542f.48d4.91f0.68f3db448860
+995,PRAD,TCGA-EJ-5516,1,0,1f9a253a-5277-4959-95ae-469e022c66fd.htseq.counts.gz,49,Male,WHITE,X1f9a253a.5277.4959.95ae.469e022c66fd
+999,HNSC,TCGA-CN-6998,0,0,200c86df-4c7d-4f53-aad4-8745dd2537a7.htseq.counts.gz,53,Male,WHITE,X200c86df.4c7d.4f53.aad4.8745dd2537a7
+1000,STAD,TCGA-3M-AB46,1,1,2025115f-5054-49e7-a9e1-9bcd4c6152a6.htseq.counts.gz,70,Male,WHITE,X2025115f.5054.49e7.a9e1.9bcd4c6152a6
+1001,PRAD,TCGA-V1-A8MG,1,1,206a6652-95e8-4198-8ff3-a0d2a53cc1ac.htseq.counts.gz,53,Male,BLACK OR AFRICAN AMERICAN,X206a6652.95e8.4198.8ff3.a0d2a53cc1ac
+1002,PRAD,TCGA-EJ-7784,1,0,208eb16b-3ed5-4cfe-823d-0da9af5ba913.htseq.counts.gz,63,Male,WHITE,X208eb16b.3ed5.4cfe.823d.0da9af5ba913
+1003,PRAD,TCGA-G9-6363,1,1,20c34cc9-31cd-44f9-9288-a059ffafebb8.htseq.counts.gz,64,Male,WHITE,X20c34cc9.31cd.44f9.9288.a059ffafebb8
+1005,PAAD,TCGA-IB-A6UG,1,1,20f5f419-da3f-4c43-95fb-f7b6218c49f6.htseq.counts.gz,65,Male,WHITE,X20f5f419.da3f.4c43.95fb.f7b6218c49f6
+1006,LIHC,TCGA-BC-A69I,0,0,20fc6696-a863-47ea-90d2-802507928248.htseq.counts.gz,69,Male,WHITE,X20fc6696.a863.47ea.90d2.802507928248
+1009,HNSC,"TCGA-HD-8635	",0,0,211f4551-8720-4f0d-9c59-88108fcc037f.htseq.counts.gz,61,Female,WHITE,X211f4551.8720.4f0d.9c59.88108fcc037f
+1010,PAAD,TCGA-FB-AAQ3,1,0,2132e4b3-f882-4d05-9cb6-be9a24c510c0.htseq.counts.gz,65,Female,WHITE,X2132e4b3.f882.4d05.9cb6.be9a24c510c0
+1011,HNSC,"TCGA-UF-A71B	",0,0,215c61da-68bf-4780-ad62-07bcb5ea10b7.htseq.counts.gz,50,Male,WHITE,X215c61da.68bf.4780.ad62.07bcb5ea10b7
+1012,PRAD,TCGA-EJ-A46H,1,0,21b1c050-5bb4-44a1-8fcc-4819d6f14c01.htseq.counts.gz,60,Male,BLACK OR AFRICAN AMERICAN,X21b1c050.5bb4.44a1.8fcc.4819d6f14c01
+1013,HNSC,"TCGA-CR-7380	",1,0,21b9810c-2e24-4c81-9c34-6f101f614217.htseq.counts.gz,58,Male,WHITE,X21b9810c.2e24.4c81.9c34.6f101f614217
+1015,STAD,TCGA-MX-A5UJ,1,1,21cc3b09-799a-4e71-afa8-f80496b761e3.htseq.counts.gz,86,Female,WHITE,X21cc3b09.799a.4e71.afa8.f80496b761e3
+1016,ESCA,TCGA-L5-A891,1,NA,21cd2e20-5a00-4d1a-9c2b-ce87a447da30.htseq.counts.gz,51,Male,WHITE,X21cd2e20.5a00.4d1a.9c2b.ce87a447da30
+1020,PRAD,TCGA-G9-6342,1,0,2205b107-3cb2-46dd-b1f2-b9342df83d4a.htseq.counts.gz,61,Male,WHITE,X2205b107.3cb2.46dd.b1f2.b9342df83d4a
+1021,STAD,TCGA-VQ-A8P5,1,0,2243d710-52c2-4902-b11c-78ee6024924a.htseq.counts.gz,67,Male,WHITE,X2243d710.52c2.4902.b11c.78ee6024924a
+1024,PRAD,TCGA-ZG-A9L0,1,0,22a09102-9a4f-4587-9014-24283c663ca6.htseq.counts.gz,71,Male,WHITE,X22a09102.9a4f.4587.9014.24283c663ca6
+1026,PRAD,TCGA-EJ-5508,1,0,22c5c58f-9b9e-42b0-abdc-bb57fa0468e5.htseq.counts.gz,65,Male,WHITE,X22c5c58f.9b9e.42b0.abdc.bb57fa0468e5
+1029,PAAD,TCGA-HZ-7918,1,1,232f085b-6201-4e4d-8473-e592b8d8e16d.htseq.counts.gz,72,Male,WHITE,X232f085b.6201.4e4d.8473.e592b8d8e16d
+1032,COAD,"TCGA-AY-4071	",0,0,2358eba8-2134-4fa7-8177-b8919197f014.htseq.counts.gz,63,Female,WHITE,X2358eba8.2134.4fa7.8177.b8919197f014
+1034,ESCA,TCGA-L5-A8NS,1,NA,23b6f4d8-a9da-4b20-977a-5f303707949f.htseq.counts.gz,76,Male,WHITE,X23b6f4d8.a9da.4b20.977a.5f303707949f
+1035,HNSC,TCGA-CN-A63V,0,0,23cece06-fb2e-4d05-b4a4-b6f4be565502.htseq.counts.gz,59,Male,WHITE,X23cece06.fb2e.4d05.b4a4.b6f4be565502
+1036,HNSC,"TCGA-CR-7391	",0,0,23e18feb-ec4e-40f4-97bb-7567af02c1e4.htseq.counts.gz,36,Female,WHITE,X23e18feb.ec4e.40f4.97bb.7567af02c1e4
+1039,HNSC,"TCGA-CV-5966	",1,1,2493829b-2102-4cd4-b4f1-043967c3daea.htseq.counts.gz,63,Female,WHITE,X2493829b.2102.4cd4.b4f1.043967c3daea
+1041,PRAD,TCGA-HC-7738,1,0,24f1d3d7-1093-494e-9c5d-1766f421d658.htseq.counts.gz,58,Male,WHITE,X24f1d3d7.1093.494e.9c5d.1766f421d658
+1042,PRAD,TCGA-V1-A8WV,1,NA,250ba2a4-f186-4131-a901-bfbfc1e1a889.htseq.counts.gz,52,Male,WHITE,X250ba2a4.f186.4131.a901.bfbfc1e1a889
+1043,PAAD,TCGA-3A-A9IU,1,1,2553d284-ed47-49cb-afd6-13c0ed5bc9cb.htseq.counts.gz,65,Male,WHITE,X2553d284.ed47.49cb.afd6.13c0ed5bc9cb
+1045,PAAD,TCGA-IB-A7LX,1,0,25c55776-4df2-44c2-bbd3-fadec618115c.htseq.counts.gz,57,Male,WHITE,X25c55776.4df2.44c2.bbd3.fadec618115c
+1046,HNSC,TCGA-CN-4737,1,1,26019321-345c-44e3-87be-7a49f2ec04d1.htseq.counts.gz,19,Male,WHITE,X26019321.345c.44e3.87be.7a49f2ec04d1
+1047,HNSC,"TCGA-P3-A6SX	",1,1,261074cc-de7b-4acd-b4d7-0ba7f19398d8.htseq.counts.gz,67,Male,WHITE,X261074cc.de7b.4acd.b4d7.0ba7f19398d8
+1049,PAAD,TCGA-H8-A6C1,1,0,26a18ff4-ac77-47e8-9ef8-da442ac1325d.htseq.counts.gz,53,Male,WHITE,X26a18ff4.ac77.47e8.9ef8.da442ac1325d
+1050,PRAD,TCGA-EJ-7794,1,0,26b9d14a-da14-4062-8494-fb87b04e9d7b.htseq.counts.gz,67,Male,WHITE,X26b9d14a.da14.4062.8494.fb87b04e9d7b
+1051,COAD,"TCGA-CM-5862	",0,1,27af8811-03a1-43e5-8a42-8acf158e3e13.htseq.counts.gz,80,Male,WHITE,X27af8811.03a1.43e5.8a42.8acf158e3e13
+1052,COAD,"TCGA-CK-4950	",0,0,28004569-048d-4f8c-99aa-7a8c69a98dcc.htseq.counts.gz,68,Female,BLACK OR AFRICAN AMERICAN,X28004569.048d.4f8c.99aa.7a8c69a98dcc
+1053,PRAD,TCGA-HC-A6AL,1,0,283ff342-6b2b-4670-92c8-f157253ff378.htseq.counts.gz,64,Male,WHITE,X283ff342.6b2b.4670.92c8.f157253ff378
+1056,PRAD,TCGA-EJ-A46G,1,0,293bd050-b485-496e-9b2c-02564e790879.htseq.counts.gz,71,Male,WHITE,X293bd050.b485.496e.9b2c.02564e790879
+1057,PRAD,TCGA-J4-A6G1,1,0,293fbb42-d9b9-4213-8747-6c70299dab0a.htseq.counts.gz,68,Male,WHITE,X293fbb42.d9b9.4213.8747.6c70299dab0a
+1061,HNSC,"TCGA-CV-7438	",1,1,2a328b48-a908-4bcf-8add-955f317d6fac.htseq.counts.gz,87,Female,WHITE,X2a328b48.a908.4bcf.8add.955f317d6fac
+1063,HNSC,"TCGA-CV-7242	",0,0,2b96185f-43b4-4581-b74c-329e870252a0.htseq.counts.gz,60,Female,WHITE,X2b96185f.43b4.4581.b74c.329e870252a0
+1065,HNSC,"TCGA-H7-8502	",1,1,2bf4e109-8b56-443f-bd23-b026c41ed8b6.htseq.counts.gz,50,Male,WHITE,X2bf4e109.8b56.443f.bd23.b026c41ed8b6
+1066,LIHC,TCGA-2Y-A9GS,0,1,2c2e26d3-fd8e-4dab-a72e-fa62d680de75.htseq.counts.gz,58,Male,WHITE,X2c2e26d3.fd8e.4dab.a72e.fa62d680de75
+1067,PRAD,TCGA-EJ-5527,1,0,2c4b2061-90b5-4ce2-a388-b666702d81d4.htseq.counts.gz,69,Male,WHITE,X2c4b2061.90b5.4ce2.a388.b666702d81d4
+1068,HNSC,"TCGA-CV-7245	",0,0,2c5ac99b-8d07-49ca-954f-83f925ca8e6e.htseq.counts.gz,62,Male,WHITE,X2c5ac99b.8d07.49ca.954f.83f925ca8e6e
+1069,PRAD,TCGA-J4-A67T,1,0,2c9d32ae-b47f-4f5f-83f3-007474897a19.htseq.counts.gz,63,Male,WHITE,X2c9d32ae.b47f.4f5f.83f3.007474897a19
+1076,HNSC,"TCGA-T3-A92N	",1,NA,2db41cdd-610f-405d-832b-08ce67c15149.htseq.counts.gz,79,Male,BLACK OR AFRICAN AMERICAN,X2db41cdd.610f.405d.832b.08ce67c15149
+1077,COAD,"TCGA-CM-5341	",0,1,2de834f0-d5dc-46d3-9411-3db9635e9b99.htseq.counts.gz,82,Female,WHITE,X2de834f0.d5dc.46d3.9411.3db9635e9b99
+1078,PAAD,TCGA-IB-7888,0,0,2e33a2c5-2196-49c4-866a-34b12d984c15.htseq.counts.gz,66,Female,BLACK OR AFRICAN AMERICAN,X2e33a2c5.2196.49c4.866a.34b12d984c15
+1080,PRAD,TCGA-EJ-A8FN,1,0,2e410838-f351-4645-bf70-d3018e6e2963.htseq.counts.gz,58,Male,WHITE,X2e410838.f351.4645.bf70.d3018e6e2963
+1083,STAD,TCGA-HU-8238,1,1,2e7840e6-2d64-41f7-afb3-bc0be331a80f.htseq.counts.gz,56,Male,ASIAN,X2e7840e6.2d64.41f7.afb3.bc0be331a80f
+1084,PRAD,TCGA-J4-A83L,0,0,2e7b3bb4-a198-4816-b3fa-f23d79574ddd.htseq.counts.gz,61,Male,WHITE,X2e7b3bb4.a198.4816.b3fa.f23d79574ddd
+1086,BLCA,TCGA-DK-A1AB,1,1,2e87cee4-718c-4112-aeb7-aad11ccaf13b.htseq.counts.gz,74,Female,WHITE,X2e87cee4.718c.4112.aeb7.aad11ccaf13b
+1087,PAAD,TCGA-3A-A9IH,1,1,2eaa996b-267f-4c9c-a58e-d1759c27c46c.htseq.counts.gz,66,Female,WHITE,X2eaa996b.267f.4c9c.a58e.d1759c27c46c
+1088,COAD,"TCGA-CM-4746	",0,0,2eb058b5-5b46-4568-b362-e7e2332babda.htseq.counts.gz,61,Male,BLACK OR AFRICAN AMERICAN,X2eb058b5.5b46.4568.b362.e7e2332babda
+1090,HNSC,"TCGA-CR-7393	",0,NA,2f069559-91be-47bf-bdfc-7257603f41c3.htseq.counts.gz,26,Male,WHITE,X2f069559.91be.47bf.bdfc.7257603f41c3
+1093,STAD,TCGA-VQ-A8E3,0,1,2f8cace5-4791-4dff-9314-5997b012b1cd.htseq.counts.gz,79,Male,WHITE,X2f8cace5.4791.4dff.9314.5997b012b1cd
+1094,HNSC,"TCGA-CV-A45P	",1,0,301fe08e-bffe-4f01-9e80-12f61f830cac.htseq.counts.gz,82,Female,WHITE,X301fe08e.bffe.4f01.9e80.12f61f830cac
+1095,PRAD,TCGA-HC-7737,1,0,30684606-b403-43ca-830f-05bc75ab7ac9.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,X30684606.b403.43ca.830f.05bc75ab7ac9
+1097,PRAD,TCGA-G9-6361,1,0,30c62c2a-1d23-49ad-be06-d8d5e2117fdc.htseq.counts.gz,61,Male,WHITE,X30c62c2a.1d23.49ad.be06.d8d5e2117fdc
+1098,PAAD,TCGA-IB-8126,1,0,30ce3471-112b-426c-ab57-6c0ab8e85dd2.htseq.counts.gz,79,Female,WHITE,X30ce3471.112b.426c.ab57.6c0ab8e85dd2
+1099,BLCA,TCGA-DK-A6B2,1,1,30d33e0d-c983-4ee2-9ef7-aba934b8c2e9.htseq.counts.gz,70,Male,WHITE,X30d33e0d.c983.4ee2.9ef7.aba934b8c2e9
+1100,HNSC,TCGA-CN-A49B,0,1,30d69eb7-0afb-40dc-b243-c3ecf91a09fd.htseq.counts.gz,71,Male,WHITE,X30d69eb7.0afb.40dc.b243.c3ecf91a09fd
+1102,STAD,TCGA-HU-A4H5,0,0,30ff21ce-3955-4a43-85fa-15dc6c60d8f8.htseq.counts.gz,71,Male,ASIAN,X30ff21ce.3955.4a43.85fa.15dc6c60d8f8
+1105,HNSC,"TCGA-CX-7082	",0,0,317fcd5d-7abc-4138-91e7-3197ce6c771f.htseq.counts.gz,82,Male,WHITE,X317fcd5d.7abc.4138.91e7.3197ce6c771f
+1106,PRAD,TCGA-XJ-A9DX,1,1,318897c4-11d8-4d01-9f1c-f966897ea9a5.htseq.counts.gz,51,Male,AMERICAN INDIAN OR ALASKA NATIVE,X318897c4.11d8.4d01.9f1c.f966897ea9a5
+1107,PRAD,TCGA-YL-A8SB,0,0,31894369-d206-4948-8f75-fd7d05b0f578.htseq.counts.gz,62,Male,WHITE,X31894369.d206.4948.8f75.fd7d05b0f578
+1108,HNSC,"TCGA-BB-A5HY	",0,NA,31b2148b-9b74-4ec3-af8d-527c2128b226.htseq.counts.gz,64,Male,WHITE,X31b2148b.9b74.4ec3.af8d.527c2128b226
+1112,HNSC,"TCGA-CR-7376	",0,1,321f9297-c709-4fee-9d9b-4e78b40fdc32.htseq.counts.gz,83,Male,WHITE,X321f9297.c709.4fee.9d9b.4e78b40fdc32
+1114,HNSC,"TCGA-CR-7372	",0,0,3241cae3-5e31-4126-b0f3-553f748b2be1.htseq.counts.gz,45,Male,WHITE,X3241cae3.5e31.4126.b0f3.553f748b2be1
+1115,COAD,"TCGA-QG-A5YX	",0,1,3254c984-f9ec-4db5-9add-94489e000a62.htseq.counts.gz,61,Female,BLACK OR AFRICAN AMERICAN,X3254c984.f9ec.4db5.9add.94489e000a62
+1116,BRCA,TCGA-A1-A0SG,0,0,325a69a6-7312-4c08-94d5-9d76fd913376.htseq.counts.gz,61,Female,WHITE,X325a69a6.7312.4c08.94d5.9d76fd913376
+1117,PRAD,TCGA-CH-5744,1,0,325eb21b-59e3-4c22-967c-c7c1e232397b.htseq.counts.gz,64,Male,WHITE,X325eb21b.59e3.4c22.967c.c7c1e232397b
+1121,STAD,TCGA-HU-8244,0,0,32860e74-cf2c-4537-b4cb-83e62cf0a4db.htseq.counts.gz,77,Female,ASIAN,X32860e74.cf2c.4537.b4cb.83e62cf0a4db
+1122,STAD,TCGA-VQ-A8P3,0,0,32d19362-1f02-4584-b30a-758c1ba99c8a.htseq.counts.gz,72,Male,WHITE,X32d19362.1f02.4584.b30a.758c1ba99c8a
+1124,BLCA,TCGA-DK-A2I4,0,0,334edce0-62d3-40b0-843b-7078c4818151.htseq.counts.gz,79,Male,WHITE,X334edce0.62d3.40b0.843b.7078c4818151
+1126,COAD,"TCGA-G4-6320	",0,1,3381f3a8-9040-4ea7-bb84-76a043f5d6b0.htseq.counts.gz,73,Male,WHITE,X3381f3a8.9040.4ea7.bb84.76a043f5d6b0
+1127,COAD,"TCGA-AZ-4684	",0,1,3388b247-719d-41d6-a600-83abd6bd6204.htseq.counts.gz,49,Male,WHITE,X3388b247.719d.41d6.a600.83abd6bd6204
+1129,HNSC,"TCGA-BA-A6DE	",0,0,33a2e244-9f45-45e2-b2f3-ad4c52388490.htseq.counts.gz,70,Female,WHITE,X33a2e244.9f45.45e2.b2f3.ad4c52388490
+1130,PRAD,TCGA-MG-AAMC,1,0,33a4dc77-4cfa-49c9-9330-edccbf515aa4.htseq.counts.gz,59,Male,WHITE,X33a4dc77.4cfa.49c9.9330.edccbf515aa4
+1133,COAD,"TCGA-DC-6160	",0,0,34b9aa3d-68d9-4a3e-8824-17a1110080e8.htseq.counts.gz,68,Male,WHITE,X34b9aa3d.68d9.4a3e.8824.17a1110080e8
+1136,STAD,TCGA-IN-A6RN,0,1,34cbab94-3d2f-429b-9c67-4a491bf6fcce.htseq.counts.gz,72,Female,WHITE,X34cbab94.3d2f.429b.9c67.4a491bf6fcce
+1137,BLCA,TCGA-BT-A2LD,0,1,34dbf011-cc93-4188-97c5-e5ade331435c.htseq.counts.gz,78,Female,WHITE,X34dbf011.cc93.4188.97c5.e5ade331435c
+1141,HNSC,"TCGA-QK-A6VB	",0,0,350fca02-18e7-44d4-9006-9821e09d0790.htseq.counts.gz,66,Male,WHITE,X350fca02.18e7.44d4.9006.9821e09d0790
+1143,HNSC,"TCGA-CQ-A4CG	",1,0,352b68d8-a9a2-4210-9f28-071b777654c0.htseq.counts.gz,78,Female,WHITE,X352b68d8.a9a2.4210.9f28.071b777654c0
+1147,PRAD,TCGA-CH-5766,1,0,35ec1b7a-23eb-489b-94c9-f8967c54930a.htseq.counts.gz,55,Male,WHITE,X35ec1b7a.23eb.489b.94c9.f8967c54930a
+1149,PRAD,TCGA-KC-A7FA,1,0,362f67f1-4837-4245-ae7b-76d596575fd4.htseq.counts.gz,63,Male,WHITE,X362f67f1.4837.4245.ae7b.76d596575fd4
+1150,PRAD,TCGA-EJ-7789,1,0,363209a4-9d1d-450e-b9f4-e35400fd76f6.htseq.counts.gz,66,Male,BLACK OR AFRICAN AMERICAN,X363209a4.9d1d.450e.b9f4.e35400fd76f6
+1155,STAD,TCGA-VQ-A8PU,0,1,372c0939-f982-481d-b0a8-691eddf5e154.htseq.counts.gz,72,Female,WHITE,X372c0939.f982.481d.b0a8.691eddf5e154
+1158,HNSC,"TCGA-KU-A6H8	",1,1,37ba0f80-6041-4e6d-bfa5-c177ac6094b0.htseq.counts.gz,41,Male,WHITE,X37ba0f80.6041.4e6d.bfa5.c177ac6094b0
+1160,HNSC,"TCGA-CV-5971	",0,0,3811c6a6-dd9f-4f76-92cc-d487bd443ed5.htseq.counts.gz,60,Male,WHITE,X3811c6a6.dd9f.4f76.92cc.d487bd443ed5
+1161,HNSC,"TCGA-H7-A6C5	",0,0,381c09f9-91fd-461c-b235-83038b356f28.htseq.counts.gz,65,Male,WHITE,X381c09f9.91fd.461c.b235.83038b356f28
+1162,PRAD,TCGA-HC-7078,0,0,381d97dc-068a-48de-aac9-560392d29267.htseq.counts.gz,69,Male,WHITE,X381d97dc.068a.48de.aac9.560392d29267
+1163,PAAD,TCGA-IB-AAUP,1,1,3828d55b-81ae-42b2-8f5e-d1dcd87e576a.htseq.counts.gz,68,Male,WHITE,X3828d55b.81ae.42b2.8f5e.d1dcd87e576a
+1166,PAAD,TCGA-2L-AAQA,1,1,388fca1d-5282-41cc-b638-dfdf54249dbd.htseq.counts.gz,76,Male,WHITE,X388fca1d.5282.41cc.b638.dfdf54249dbd
+1167,HNSC,"TCGA-QK-A6IJ	",0,0,38984d5c-2780-4528-81ea-9f84711869f2.htseq.counts.gz,71,Male,WHITE,X38984d5c.2780.4528.81ea.9f84711869f2
+1168,HNSC,"TCGA-CV-A6JE	",0,0,38a8ff34-78e7-47ce-9a7c-6b24072be806.htseq.counts.gz,78,Male,WHITE,X38a8ff34.78e7.47ce.9a7c.6b24072be806
+1169,CHOL,TCGA-ZH-A8Y5,0,0,38c31608-d1ad-4eb2-96f9-924f6a8d3219.htseq.counts.gz,69,Male,WHITE,X38c31608.d1ad.4eb2.96f9.924f6a8d3219
+1171,HNSC,"TCGA-CN-4729	",0,1,38f3f1d2-9c8d-4efe-8fff-1a314a2867b4.htseq.counts.gz,73,Male,WHITE,X38f3f1d2.9c8d.4efe.8fff.1a314a2867b4
+1175,BLCA,TCGA-DK-A3X2,0,1,39b9fc65-4293-473e-9f1a-2ae258bc89e4.htseq.counts.gz,85,Male,WHITE,X39b9fc65.4293.473e.9f1a.2ae258bc89e4
+1178,CHOL,TCGA-W5-AA2H,1,0,39fae157-a126-4635-a212-137065a398f9.htseq.counts.gz,70,Female,WHITE,X39fae157.a126.4635.a212.137065a398f9
+1179,STAD,TCGA-VQ-A924,0,0,3a17bd2e-3eb5-471f-b3b1-396f78bb08f7.htseq.counts.gz,69,Male,,X3a17bd2e.3eb5.471f.b3b1.396f78bb08f7
+1181,PRAD,TCGA-G9-7522,1,0,3a8adea5-5520-41de-aed8-dfce2d52386e.htseq.counts.gz,49,Male,WHITE,X3a8adea5.5520.41de.aed8.dfce2d52386e
+1182,COAD,"TCGA-AZ-5407	",0,0,3a93e1ff-bcdc-4dea-9541-54b074e4f967.htseq.counts.gz,51,Female,WHITE,X3a93e1ff.bcdc.4dea.9541.54b074e4f967
+1183,PRAD,TCGA-EJ-8472,1,1,3b075915-1c34-42df-a9ab-973e13aa132d.htseq.counts.gz,63,Male,WHITE,X3b075915.1c34.42df.a9ab.973e13aa132d
+1185,LIHC,TCGA-BC-A69H,0,1,3b3fda1a-03b9-46bf-abce-ee6cc1ee411e.htseq.counts.gz,64,Male,WHITE,X3b3fda1a.03b9.46bf.abce.ee6cc1ee411e
+1186,PRAD,TCGA-YL-A8SJ,1,0,3b556d25-ea5d-4857-9764-3c678bfaeb23.htseq.counts.gz,60,Male,WHITE,X3b556d25.ea5d.4857.9764.3c678bfaeb23
+1189,STAD,TCGA-IN-8663,0,1,3c46808e-9330-4d25-9424-45da6154fed6.htseq.counts.gz,68,Male,WHITE,X3c46808e.9330.4d25.9424.45da6154fed6
+1191,HNSC,"TCGA-QK-A6IH	",1,1,3c8e665c-9e41-4101-bef7-99562d47922d.htseq.counts.gz,65,Female,WHITE,X3c8e665c.9e41.4101.bef7.99562d47922d
+1192,ESCA,TCGA-JY-A93C,1,1,3d6ca45c-4d63-4ad8-83c9-017f65504baa.htseq.counts.gz,47,Male,ASIAN,X3d6ca45c.4d63.4ad8.83c9.017f65504baa
+1193,PAAD,TCGA-FB-A78T,1,1,3d771128-9e90-49c2-8ee5-23d994ee6398.htseq.counts.gz,71,Female,WHITE,X3d771128.9e90.49c2.8ee5.23d994ee6398
+1195,PRAD,TCGA-VP-A87E,1,0,3db994fd-0eaf-4b2b-80bc-5c60c2d3cf6f.htseq.counts.gz,59,Male,BLACK OR AFRICAN AMERICAN,X3db994fd.0eaf.4b2b.80bc.5c60c2d3cf6f
+1199,PRAD,TCGA-CH-5794,1,0,3ec13bb0-3c42-41c6-9d66-bc226453b3fc.htseq.counts.gz,65,Male,WHITE,X3ec13bb0.3c42.41c6.9d66.bc226453b3fc
+1202,PAAD,TCGA-IB-AAUT,1,1,3f2cc0e5-5c45-4b32-bed1-8d549bb167eb.htseq.counts.gz,65,Male,WHITE,X3f2cc0e5.5c45.4b32.bed1.8d549bb167eb
+1204,CHOL,TCGA-ZH-A8Y2,0,0,3f3db8bd-f247-4e75-a137-7b84f5a7c6d2.htseq.counts.gz,59,Female,BLACK OR AFRICAN AMERICAN,X3f3db8bd.f247.4e75.a137.7b84f5a7c6d2
+1205,BLCA,TCGA-4Z-AA7R,1,1,3fb58934-0f65-4b55-9d04-3db875d60521.htseq.counts.gz,73,Male,BLACK OR AFRICAN AMERICAN,X3fb58934.0f65.4b55.9d04.3db875d60521
+1208,PRAD,TCGA-G9-6379,1,0,4017b4c9-3873-499b-ab27-7a9834392240.htseq.counts.gz,68,Male,WHITE,X4017b4c9.3873.499b.ab27.7a9834392240
+1210,HNSC,"TCGA-UF-A7J9	",0,0,40556da7-3a10-4d8b-bb17-15e837ae3457.htseq.counts.gz,75,Male,WHITE,X40556da7.3a10.4d8b.bb17.15e837ae3457
+1211,HNSC,"TCGA-CV-5444	",0,0,4060c24e-a2ef-457f-ae38-9a13e0a446df.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,X4060c24e.a2ef.457f.ae38.9a13e0a446df
+1213,LIHC,TCGA-2Y-A9H5,0,0,4077e82f-cb78-4977-bd03-600a3da93ffb.htseq.counts.gz,59,Female,WHITE,X4077e82f.cb78.4977.bd03.600a3da93ffb
+1217,BLCA,TCGA-DK-AA6L,0,0,417c2f85-aaed-4cce-87fa-b312f0861094.htseq.counts.gz,48,Male,WHITE,X417c2f85.aaed.4cce.87fa.b312f0861094
+1218,PRAD,TCGA-ZG-A9LB,1,1,41b7e78d-d2b0-4ddd-af2b-3baf02212387.htseq.counts.gz,72,Male,WHITE,X41b7e78d.d2b0.4ddd.af2b.3baf02212387
+1219,HNSC,"TCGA-IQ-A61G	",1,0,41cf28dd-c37f-4b2c-8fb4-5cbd558294a4.htseq.counts.gz,57,Male,WHITE,X41cf28dd.c37f.4b2c.8fb4.5cbd558294a4
+1220,PRAD,TCGA-M7-A725,1,1,41eafe71-a7a8-43be-a8d5-378bb646a4df.htseq.counts.gz,56,Male,WHITE,X41eafe71.a7a8.43be.a8d5.378bb646a4df
+1222,HNSC,TCGA-CN-4741,1,0,423ca055-7c79-4c74-93fe-543194fa13a5.htseq.counts.gz,75,Male,WHITE,X423ca055.7c79.4c74.93fe.543194fa13a5
+1223,HNSC,"TCGA-BA-5153	",0,0,42728372-b755-4cc5-9f4b-df1d2cef7879.htseq.counts.gz,51,Male,WHITE,X42728372.b755.4cc5.9f4b.df1d2cef7879
+1225,PAAD,TCGA-HZ-7923,0,0,42bec5f7-7623-42e6-bbdf-514fe3805940.htseq.counts.gz,65,Male,WHITE,X42bec5f7.7623.42e6.bbdf.514fe3805940
+1228,HNSC,"TCGA-P3-A6T2	",1,NA,42e721af-8416-4866-a790-81449723669d.htseq.counts.gz,45,Male,WHITE,X42e721af.8416.4866.a790.81449723669d
+1229,PRAD,TCGA-G9-A9S7,1,0,430669ee-998d-4917-83b6-ee7f0b6cae46.htseq.counts.gz,55,Male,WHITE,X430669ee.998d.4917.83b6.ee7f0b6cae46
+1230,STAD,TCGA-HU-A4GY,1,1,43142de2-5080-4546-8235-b4706b212ae3.htseq.counts.gz,76,Female,ASIAN,X43142de2.5080.4546.8235.b4706b212ae3
+1233,PRAD,TCGA-G9-7509,0,0,438b9759-ae94-4ba7-861c-9b1656ad8ed6.htseq.counts.gz,48,Male,BLACK OR AFRICAN AMERICAN,X438b9759.ae94.4ba7.861c.9b1656ad8ed6
+1234,PRAD,TCGA-Y6-A9XI,1,1,43a3236a-22e0-4fc7-80dc-0cafac19acb9.htseq.counts.gz,72,Male,,X43a3236a.22e0.4fc7.80dc.0cafac19acb9
+1236,HNSC,"TCGA-CV-7568	",1,1,43d5e4b1-778e-459d-90b0-ac1bb06fff89.htseq.counts.gz,48,Female,WHITE,X43d5e4b1.778e.459d.90b0.ac1bb06fff89
+1239,PRAD,TCGA-G9-6496,1,0,443da90b-2658-4864-aede-3dcea543cf74.htseq.counts.gz,61,Male,WHITE,X443da90b.2658.4864.aede.3dcea543cf74
+1243,PAAD,TCGA-IB-7885,1,1,44c3d518-14fa-4d63-b265-d7fc81c398e2.htseq.counts.gz,78,Female,WHITE,X44c3d518.14fa.4d63.b265.d7fc81c398e2
+1244,PRAD,TCGA-EJ-5510,1,0,44c769d3-882e-4ef8-965c-175747022d3b.htseq.counts.gz,48,Male,WHITE,X44c769d3.882e.4ef8.965c.175747022d3b
+1245,STAD,TCGA-VQ-AA6F,1,1,44df188d-5dd0-488b-9a21-e9ce57f35077.htseq.counts.gz,57,Male,WHITE,X44df188d.5dd0.488b.9a21.e9ce57f35077
+1247,PRAD,TCGA-M7-A722,1,1,453b4e68-042b-41cb-97ec-6ea445d6df1d.htseq.counts.gz,65,Male,WHITE,X453b4e68.042b.41cb.97ec.6ea445d6df1d
+1248,PRAD,TCGA-EJ-5502,1,0,454bbc77-1ea6-4e0c-a150-ea7d35514f5d.htseq.counts.gz,50,Male,,X454bbc77.1ea6.4e0c.a150.ea7d35514f5d
+1252,HNSC,TCGA-CN-5364,1,0,45f1fd5b-e6af-4b7e-b4e8-648892b32876.htseq.counts.gz,55,Male,WHITE,X45f1fd5b.e6af.4b7e.b4e8.648892b32876
+1256,PAAD,TCGA-S4-A8RP,1,1,464c3bd5-5bd2-415f-919e-a5a779a103c4.htseq.counts.gz,77,Female,WHITE,X464c3bd5.5bd2.415f.919e.a5a779a103c4
+1258,CHOL,TCGA-ZH-A8Y6,0,0,4696ce44-29bf-41ea-b866-ddb17c376e94.htseq.counts.gz,41,Female,BLACK OR AFRICAN AMERICAN,X4696ce44.29bf.41ea.b866.ddb17c376e94
+1259,HNSC,TCGA-CN-5358,1,0,46b34d45-ada9-407f-a4c0-2bfa0c1859fd.htseq.counts.gz,60,Male,WHITE,X46b34d45.ada9.407f.a4c0.2bfa0c1859fd
+1260,STAD,TCGA-IN-A6RS,0,0,46da4db8-8504-4f8e-b97c-964cbd2dd65e.htseq.counts.gz,76,Male,WHITE,X46da4db8.8504.4f8e.b97c.964cbd2dd65e
+1262,PRAD,TCGA-EJ-7785,1,0,46e9b99f-ca9d-4db6-a705-662343b5242a.htseq.counts.gz,54,Male,WHITE,X46e9b99f.ca9d.4db6.a705.662343b5242a
+1264,BLCA,TCGA-4Z-AA80,0,0,47371d44-7d65-43af-a207-4e25ae47204f.htseq.counts.gz,73,Male,WHITE,X47371d44.7d65.43af.a207.4e25ae47204f
+1265,PAAD,TCGA-IB-7654,1,1,4764acbb-d535-4ec1-8aa4-df1512a754c2.htseq.counts.gz,80,Male,WHITE,X4764acbb.d535.4ec1.8aa4.df1512a754c2
+1266,HNSC,"TCGA-CV-6934	",1,NA,47b9e3ef-3cdc-4ad4-8d6f-c658bc862f7e.htseq.counts.gz,66,Female,WHITE,X47b9e3ef.3cdc.4ad4.8d6f.c658bc862f7e
+1270,PRAD,TCGA-HC-A8CY,1,1,48f5bb9b-70c0-4d4d-a788-302af259ec92.htseq.counts.gz,63,Male,WHITE,X48f5bb9b.70c0.4d4d.a788.302af259ec92
+1271,HNSC,"TCGA-CR-7390	",1,NA,4919d5f0-8f43-4875-a2b1-d145fce8e362.htseq.counts.gz,67,Male,WHITE,X4919d5f0.8f43.4875.a2b1.d145fce8e362
+1272,PAAD,TCGA-HZ-8638,0,0,4929062b-3127-4038-8313-c20cbd274be4.htseq.counts.gz,84,Female,WHITE,X4929062b.3127.4038.8313.c20cbd274be4
+1274,PRAD,TCGA-ZG-A9LY,1,1,4948e07a-29be-4775-9807-c778df8251f7.htseq.counts.gz,60,Male,WHITE,X4948e07a.29be.4775.9807.c778df8251f7
+1276,PRAD,TCGA-CH-5763,1,0,49523b41-16e1-4296-a0aa-7581568fb600.htseq.counts.gz,66,Male,WHITE,X49523b41.16e1.4296.a0aa.7581568fb600
+1277,HNSC,TCGA-CN-A63W,1,1,49893832-1a4f-477c-bcdd-f904d8399b4b.htseq.counts.gz,48,Female,WHITE,X49893832.1a4f.477c.bcdd.f904d8399b4b
+1278,PAAD,TCGA-IB-AAUS,1,1,49895f4a-72ac-4d5e-ba56-8c8bb5de4758.htseq.counts.gz,84,Female,WHITE,X49895f4a.72ac.4d5e.ba56.8c8bb5de4758
+1281,COAD,"TCGA-G4-6323	",0,0,49db2bf9-49aa-41d3-ae5d-3aaa26ff40fb.htseq.counts.gz,50,Male,BLACK OR AFRICAN AMERICAN,X49db2bf9.49aa.41d3.ae5d.3aaa26ff40fb
+1282,HNSC,"TCGA-CV-6441	",1,0,49fc6d64-3d80-4555-9645-a7d91fd59d33.htseq.counts.gz,60,Male,WHITE,X49fc6d64.3d80.4555.9645.a7d91fd59d33
+1284,PAAD,TCGA-3A-A9IR,0,1,4a12d4ee-acf4-4422-abb5-54bb966e3b07.htseq.counts.gz,64,Female,WHITE,X4a12d4ee.acf4.4422.abb5.54bb966e3b07
+1285,PRAD,TCGA-XK-AAIW,1,1,4a173a7e-b734-412d-8519-a2a6f6d33d89.htseq.counts.gz,78,Male,WHITE,X4a173a7e.b734.412d.8519.a2a6f6d33d89
+1286,HNSC,"TCGA-CV-7407	",1,NA,4a18098e-7d01-4519-a14a-091cefbf0b79.htseq.counts.gz,67,Female,WHITE,X4a18098e.7d01.4519.a14a.091cefbf0b79
+1287,PRAD,TCGA-EJ-A65M,1,0,4a2f4da6-1275-459c-bd75-bfd052b8b15e.htseq.counts.gz,65,Male,BLACK OR AFRICAN AMERICAN,X4a2f4da6.1275.459c.bd75.bfd052b8b15e
+1288,STAD,TCGA-FP-A8CX,1,1,4a37f4eb-efe0-4e09-b4b7-60c1467657d0.htseq.counts.gz,60,Male,WHITE,X4a37f4eb.efe0.4e09.b4b7.60c1467657d0
+1289,ESCA,TCGA-JY-A93F,0,0,4a38c663-49c3-428a-b8ec-23c79e6bea71.htseq.counts.gz,58,Female,WHITE,X4a38c663.49c3.428a.b8ec.23c79e6bea71
+1290,PAAD,TCGA-3A-A9IV,1,1,4a39bda3-2a3f-4253-bea1-607260375f07.htseq.counts.gz,59,Female,WHITE,X4a39bda3.2a3f.4253.bea1.607260375f07
+1291,BLCA,TCGA-DK-A6B0,0,0,4a4aab5b-ba1f-4bd1-ad05-eba7d186ca13.htseq.counts.gz,61,Male,WHITE,X4a4aab5b.ba1f.4bd1.ad05.eba7d186ca13
+1292,PRAD,TCGA-EJ-7783,1,0,4a773e8d-4b37-4f1f-9b6b-35afdc3d32c9.htseq.counts.gz,70,Male,WHITE,X4a773e8d.4b37.4f1f.9b6b.35afdc3d32c9
+1293,PRAD,TCGA-EJ-7788,1,0,4aa0eca7-2609-4fb5-a137-9a7767aecc36.htseq.counts.gz,53,Male,WHITE,X4aa0eca7.2609.4fb5.a137.9a7767aecc36
+1294,HNSC,"TCGA-CV-6943	",1,0,4aa47c55-a9f5-4a3b-94b0-10b350c63999.htseq.counts.gz,74,Male,WHITE,X4aa47c55.a9f5.4a3b.94b0.10b350c63999
+1296,PRAD,TCGA-KC-A7F6,1,0,4ab525cc-7051-404e-9765-eaee16e4bb76.htseq.counts.gz,63,Male,WHITE,X4ab525cc.7051.404e.9765.eaee16e4bb76
+1297,HNSC,"TCGA-CR-7389	",1,NA,4ac1259d-a93e-4a58-a8f7-80050117ffc1.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,X4ac1259d.a93e.4a58.a8f7.80050117ffc1
+1298,HNSC,"TCGA-CV-7261	",0,NA,4af659b1-ace9-4158-8de3-3b985ea9f585.htseq.counts.gz,57,Male,WHITE,X4af659b1.ace9.4158.8de3.3b985ea9f585
+1299,HNSC,"TCGA-CV-A6JM	",0,0,4b1e826d-902e-4a19-b509-b4efbcf8f738.htseq.counts.gz,85,Male,WHITE,X4b1e826d.902e.4a19.b509.b4efbcf8f738
+1301,PAAD,TCGA-2J-AAB6,0,0,4b377b21-fed6-4684-bd4c-93850e8b5b8a.htseq.counts.gz,75,Male,WHITE,X4b377b21.fed6.4684.bd4c.93850e8b5b8a
+1305,HNSC,TCGA-BA-4077,0,0,4b705795-afeb-4cab-be3c-2206af44fa84.htseq.counts.gz,45,Female,WHITE,X4b705795.afeb.4cab.be3c.2206af44fa84
+1306,BLCA,TCGA-DK-A3IU,1,1,4ba6105e-9e64-4ce3-87ca-31e0d009bbb4.htseq.counts.gz,58,Male,WHITE,X4ba6105e.9e64.4ce3.87ca.31e0d009bbb4
+1310,PAAD,TCGA-IB-A5ST,1,0,4c60111d-2526-41be-8d31-a6afae1593c5.htseq.counts.gz,64,Female,WHITE,X4c60111d.2526.41be.8d31.a6afae1593c5
+1315,COAD,"TCGA-AZ-6606	",1,1,4cf333ec-bd88-4349-9c72-ee06d32e8cd2.htseq.counts.gz,81,Male,WHITE,X4cf333ec.bd88.4349.9c72.ee06d32e8cd2
+1318,PRAD,TCGA-CH-5745,1,0,4d127db0-ec27-40f0-8672-0520f7460afc.htseq.counts.gz,68,Male,WHITE,X4d127db0.ec27.40f0.8672.0520f7460afc
+1323,HNSC,"TCGA-CQ-5329	",0,0,4dab062b-5119-4e8a-a9bf-f2cfa2e6a6d6.htseq.counts.gz,46,Female,WHITE,X4dab062b.5119.4e8a.a9bf.f2cfa2e6a6d6
+1324,PRAD,TCGA-J4-A83M,1,0,4dafe2e3-617b-4280-a582-8d5d59420c6a.htseq.counts.gz,64,Male,WHITE,X4dafe2e3.617b.4280.a582.8d5d59420c6a
+1325,PRAD,TCGA-2A-A8VT,1,1,4dd0008c-f544-438d-8802-e02dbf6c4a3e.htseq.counts.gz,47,Male,ASIAN,X4dd0008c.f544.438d.8802.e02dbf6c4a3e
+1326,HNSC,"TCGA-IQ-7631	",0,0,4dd0dd22-b6aa-432b-ace6-841d0c6e83b9.htseq.counts.gz,60,Female,WHITE,X4dd0dd22.b6aa.432b.ace6.841d0c6e83b9
+1328,PAAD,TCGA-YY-A8LH,1,1,4df16e07-cdbc-46cc-8b9c-39d4a9dca09e.htseq.counts.gz,61,Female,WHITE,X4df16e07.cdbc.46cc.8b9c.39d4a9dca09e
+1329,COAD,"TCGA-CM-6162	",1,1,4e21fbbb-d38a-4af7-87df-055624c780e2.htseq.counts.gz,48,Female,WHITE,X4e21fbbb.d38a.4af7.87df.055624c780e2
+1331,PRAD,TCGA-KC-A4BN,1,NA,4e5e3af9-5d29-4ab0-a219-3242544064e4.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,X4e5e3af9.5d29.4ab0.a219.3242544064e4
+1333,HNSC,"TCGA-BA-7269	",1,0,4ea57542-c760-4311-9f5e-dcd9d9dc33b5.htseq.counts.gz,61,Male,WHITE,X4ea57542.c760.4311.9f5e.dcd9d9dc33b5
+1334,HNSC,"TCGA-BA-A8YP	",0,1,4ebd9936-0b27-4aae-ad0e-7ef56cea61c9.htseq.counts.gz,50,Male,BLACK OR AFRICAN AMERICAN,X4ebd9936.0b27.4aae.ad0e.7ef56cea61c9
+1338,STAD,TCGA-VQ-AA6D,0,0,4feb4700-31bb-4c50-821c-f823614f27e1.htseq.counts.gz,52,Female,,X4feb4700.31bb.4c50.821c.f823614f27e1
+1341,PAAD,TCGA-F2-7276,1,1,5047576e-f3de-4244-8f47-f78bc1c10c22.htseq.counts.gz,64,Male,WHITE,X5047576e.f3de.4244.8f47.f78bc1c10c22
+1343,PRAD,TCGA-V1-A8X3,1,NA,507c2816-064c-405b-bba1-8cf057539367.htseq.counts.gz,51,Male,WHITE,X507c2816.064c.405b.bba1.8cf057539367
+1345,STAD,TCGA-FP-7916,1,0,5092fe52-3d20-476a-859e-4e33f322eb41.htseq.counts.gz,77,Male,ASIAN,X5092fe52.3d20.476a.859e.4e33f322eb41
+1348,PRAD,TCGA-EJ-5503,1,0,50be2bde-ac1f-4c1d-9890-07ddfd135ca1.htseq.counts.gz,50,Male,WHITE,X50be2bde.ac1f.4c1d.9890.07ddfd135ca1
+1349,PAAD,TCGA-US-A77J,1,1,50e50114-97c0-46a6-ac5a-8c5c32abd6b2.htseq.counts.gz,81,Female,WHITE,X50e50114.97c0.46a6.ac5a.8c5c32abd6b2
+1350,PRAD,TCGA-EJ-A8FP,1,0,51055281-028a-442a-aff8-829dc01f8114.htseq.counts.gz,59,Male,WHITE,X51055281.028a.442a.aff8.829dc01f8114
+1351,COAD,"TCGA-G4-6310	",1,0,5140a52e-42c4-4374-ae49-b208aff98396.htseq.counts.gz,69,Male,WHITE,X5140a52e.42c4.4374.ae49.b208aff98396
+1357,PRAD,TCGA-XQ-A8TB,1,0,520db51b-c55d-4f1b-85ae-45509d3c7480.htseq.counts.gz,67,Male,,X520db51b.c55d.4f1b.85ae.45509d3c7480
+1359,BRCA,TCGA-S3-A6ZG,1,1,528dfb33-8225-469d-bd57-d1c5ec8991bb.htseq.counts.gz,71,Female,BLACK OR AFRICAN AMERICAN,X528dfb33.8225.469d.bd57.d1c5ec8991bb
+1360,STAD,TCGA-IN-A6RJ,0,0,52999b05-3015-4ca2-91ad-33aa978b407e.htseq.counts.gz,64,Male,WHITE,X52999b05.3015.4ca2.91ad.33aa978b407e
+1366,HNSC,"TCGA-CV-5970	",1,NA,537d05c7-a7d0-48ab-aae0-90fde055a277.htseq.counts.gz,59,Male,WHITE,X537d05c7.a7d0.48ab.aae0.90fde055a277
+1367,HNSC,"TCGA-CV-6952	",1,NA,53b04dae-845b-4fc0-b98e-49ab5f81663f.htseq.counts.gz,65,Female,WHITE,X53b04dae.845b.4fc0.b98e.49ab5f81663f
+1368,HNSC,TCGA-CN-5359,1,0,53c4599c-6841-4fd7-895c-84ecf68516bd.htseq.counts.gz,59,Male,WHITE,X53c4599c.6841.4fd7.895c.84ecf68516bd
+1369,HNSC,TCGA-CN-6020,1,1,53c76059-c27b-4e24-b823-0037521c63f1.htseq.counts.gz,58,Male,BLACK OR AFRICAN AMERICAN,X53c76059.c27b.4e24.b823.0037521c63f1
+1370,STAD,TCGA-VQ-A8PC,0,0,53f74076-94a8-425d-bf61-71f90fabd2cc.htseq.counts.gz,65,Male,WHITE,X53f74076.94a8.425d.bf61.71f90fabd2cc
+1371,PRAD,TCGA-HC-7748,1,0,54450755-8848-480e-987a-69206a4aca78.htseq.counts.gz,60,Male,WHITE,X54450755.8848.480e.987a.69206a4aca78
+1372,PRAD,TCGA-YL-A9WX,1,1,5448d947-9343-43bb-a752-dd066d3c0fde.htseq.counts.gz,68,Male,WHITE,X5448d947.9343.43bb.a752.dd066d3c0fde
+1373,COAD,"TCGA-G4-6306	",0,NA,54597194-db70-4e06-846a-1650b7562c51.htseq.counts.gz,71,Male,WHITE,X54597194.db70.4e06.846a.1650b7562c51
+1374,BLCA,TCGA-BT-A0YX,1,1,546a8f3e-b73a-4b3d-aa2a-f995db0e5752.htseq.counts.gz,70,Female,WHITE,X546a8f3e.b73a.4b3d.aa2a.f995db0e5752
+1375,PAAD,TCGA-IB-A5SP,1,0,548f36c1-215a-4b7b-97fc-e9523f6aeb6d.htseq.counts.gz,77,Male,WHITE,X548f36c1.215a.4b7b.97fc.e9523f6aeb6d
+1377,ESCA,TCGA-VR-A8EX,0,0,54cefc81-f62a-4b24-895c-9b227bd2c1df.htseq.counts.gz,63,Male,,X54cefc81.f62a.4b24.895c.9b227bd2c1df
+1379,HNSC,"TCGA-CV-7446	",1,NA,54e100ab-a87e-49b4-a272-af7f546791ff.htseq.counts.gz,66,Male,WHITE,X54e100ab.a87e.49b4.a272.af7f546791ff
+1380,STAD,TCGA-HU-A4GQ,1,1,551d8cf2-9613-4bc2-89e4-c21a4a94905a.htseq.counts.gz,71,Male,ASIAN,X551d8cf2.9613.4bc2.89e4.c21a4a94905a
+1381,PRAD,TCGA-J9-A52D,1,1,551f910f-e0d8-4892-8c0c-60a833e0f328.htseq.counts.gz,71,Male,WHITE,X551f910f.e0d8.4892.8c0c.60a833e0f328
+1383,COAD,"TCGA-G5-6235	",0,0,5530efde-0749-41ed-a74d-7c8f1f07c06a.htseq.counts.gz,72,Male,WHITE,X5530efde.0749.41ed.a74d.7c8f1f07c06a
+1386,STAD,TCGA-VQ-A8P2,0,0,559db677-cb27-4001-8687-b214da8ebb9b.htseq.counts.gz,68,Male,WHITE,X559db677.cb27.4001.8687.b214da8ebb9b
+1387,LIHC,TCGA-2Y-A9HB,0,1,55b03d0c-3aae-4673-b665-1b59ec3ce87f.htseq.counts.gz,66,Male,,X55b03d0c.3aae.4673.b665.1b59ec3ce87f
+1392,COAD,"TCGA-CM-6679	",0,0,5654a36c-4d18-4746-8a4c-b7b616f99481.htseq.counts.gz,58,Male,WHITE,X5654a36c.4d18.4746.8a4c.b7b616f99481
+1393,HNSC,"TCGA-P3-A6T7	",1,1,565a6069-5d78-49c3-a34f-9ac3da5f438d.htseq.counts.gz,55,Male,WHITE,X565a6069.5d78.49c3.a34f.9ac3da5f438d
+1394,PRAD,TCGA-V1-A9OA,1,NA,56668876-3500-4a9f-a08d-8b7c060c3a52.htseq.counts.gz,61,Male,WHITE,X56668876.3500.4a9f.a08d.8b7c060c3a52
+1395,COAD,"TCGA-G4-6297	",1,1,569ff63b-ea1c-4189-a5e5-8c44ee670cbe.htseq.counts.gz,55,Female,WHITE,X569ff63b.ea1c.4189.a5e5.8c44ee670cbe
+1396,HNSC,"TCGA-CR-7369	",1,0,56ba9e1c-ea40-428d-bd07-24ebaedf5e37.htseq.counts.gz,59,Male,WHITE,X56ba9e1c.ea40.428d.bd07.24ebaedf5e37
+1398,HNSC,"TCGA-MZ-A7D7	",0,NA,570537b4-dfef-4efd-b5fa-79d200082e1e.htseq.counts.gz,51,Male,WHITE,X570537b4.dfef.4efd.b5fa.79d200082e1e
+1400,HNSC,"TCGA-CV-5976	",1,NA,571fc52e-e962-4614-b213-8529ae7bfa99.htseq.counts.gz,50,Male,WHITE,X571fc52e.e962.4614.b213.8529ae7bfa99
+1402,PAAD,TCGA-HZ-7289,1,0,574df2fc-a608-49c5-8e83-f26d03ef8bb3.htseq.counts.gz,77,Male,WHITE,X574df2fc.a608.49c5.8e83.f26d03ef8bb3
+1407,PRAD,TCGA-EJ-7325,1,0,57aa81e1-d366-418e-b413-022ccf2c818a.htseq.counts.gz,63,Male,WHITE,X57aa81e1.d366.418e.b413.022ccf2c818a
+1409,HNSC,"TCGA-CN-4736	",1,0,57fb015b-ca45-4615-87fc-66e4975efde9.htseq.counts.gz,70,Female,WHITE,X57fb015b.ca45.4615.87fc.66e4975efde9
+1412,BLCA,TCGA-DK-A3X1,0,0,583cf94b-9519-42ee-a66b-5290850d3775.htseq.counts.gz,78,Female,WHITE,X583cf94b.9519.42ee.a66b.5290850d3775
+1413,HNSC,TCGA-CN-6997,1,1,5845a5be-e598-4b7e-8abb-960620c2b47b.htseq.counts.gz,66,Male,WHITE,X5845a5be.e598.4b7e.8abb.960620c2b47b
+1414,COAD,"TCGA-NH-A6GA	",0,1,587e44e4-87ba-4981-a520-d20612486f53.htseq.counts.gz,58,Male,BLACK OR AFRICAN AMERICAN,X587e44e4.87ba.4981.a520.d20612486f53
+1416,PRAD,TCGA-EJ-5514,1,0,58cb36ea-a8ce-4172-9ca8-750bf78b9f85.htseq.counts.gz,66,Male,WHITE,X58cb36ea.a8ce.4172.9ca8.750bf78b9f85
+1417,BLCA,TCGA-BT-A20O,0,0,58e60ae5-3245-46f5-8e76-bfe09910002a.htseq.counts.gz,75,Male,WHITE,X58e60ae5.3245.46f5.8e76.bfe09910002a
+1419,BLCA,TCGA-4Z-AA7O,0,1,590580de-17b7-441c-9701-f17034fb3fda.htseq.counts.gz,64,Male,BLACK OR AFRICAN AMERICAN,X590580de.17b7.441c.9701.f17034fb3fda
+1421,PRAD,TCGA-J4-AATZ,1,0,591a0887-881d-47f1-a63c-12bc7d7c5321.htseq.counts.gz,66,Male,ASIAN,X591a0887.881d.47f1.a63c.12bc7d7c5321
+1425,PRAD,TCGA-EJ-A65B,1,0,596e208a-962b-45d9-b4f0-0eb244dd7874.htseq.counts.gz,55,Male,WHITE,X596e208a.962b.45d9.b4f0.0eb244dd7874
+1426,HNSC,"TCGA-CV-6937	",1,NA,5984a42d-b905-4011-9192-0a5ecb1f3d55.htseq.counts.gz,71,Male,WHITE,X5984a42d.b905.4011.9192.0a5ecb1f3d55
+1428,HNSC,"TCGA-CQ-7072	",1,0,59d1b758-2bea-40ff-a147-6c116a1bae9c.htseq.counts.gz,51,Male,WHITE,X59d1b758.2bea.40ff.a147.6c116a1bae9c
+1429,HNSC,TCGA-CN-6994,1,0,59d71b2c-32ad-43bf-aaa5-94bdedf0995b.htseq.counts.gz,67,Male,WHITE,X59d71b2c.32ad.43bf.aaa5.94bdedf0995b
+1435,STAD,TCGA-HU-A4GJ,1,1,5a3f204b-c5b3-44a7-b7b7-bea849c159ff.htseq.counts.gz,60,Female,ASIAN,X5a3f204b.c5b3.44a7.b7b7.bea849c159ff
+1436,COAD,"TCGA-DC-6682	",0,0,5a53d4a4-d07a-4818-84e8-094440e3a55e.htseq.counts.gz,57,Male,WHITE,X5a53d4a4.d07a.4818.84e8.094440e3a55e
+1439,STAD,TCGA-VQ-AA6A,0,1,5a9910f9-71b4-45fa-bd9a-09538ad02a7f.htseq.counts.gz,56,Male,WHITE,X5a9910f9.71b4.45fa.bd9a.09538ad02a7f
+1440,STAD,TCGA-HU-A4HB,0,1,5ab45877-d918-435d-af1a-40aeeb60f957.htseq.counts.gz,68,Male,ASIAN,X5ab45877.d918.435d.af1a.40aeeb60f957
+1442,STAD,TCGA-VQ-A8PB,0,0,5af6a287-b622-4a43-97e2-f40153d89833.htseq.counts.gz,65,Female,WHITE,X5af6a287.b622.4a43.97e2.f40153d89833
+1444,BLCA,TCGA-DK-A6AW,0,0,5b27b38e-d7c3-4af7-9fe8-4af4d7d49f1a.htseq.counts.gz,70,Male,WHITE,X5b27b38e.d7c3.4af7.9fe8.4af4d7d49f1a
+1445,BLCA,TCGA-DK-A3IQ,1,1,5b341f38-0882-4a42-814b-bb8d614d82e7.htseq.counts.gz,74,Male,WHITE,X5b341f38.0882.4a42.814b.bb8d614d82e7
+1447,COAD,"TCGA-CL-5918	",0,0,5ba74876-bd88-4533-ad8d-83a0b4fd352c.htseq.counts.gz,90,Female,WHITE,X5ba74876.bd88.4533.ad8d.83a0b4fd352c
+1448,HNSC,"TCGA-CV-7432	",1,0,5bc727c5-af14-4305-8524-d0e5c133b049.htseq.counts.gz,79,Male,WHITE,X5bc727c5.af14.4305.8524.d0e5c133b049
+1449,BRCA,TCGA-A2-A0CS,1,1,5c006621-470c-4d58-9c59-804988b955d9.htseq.counts.gz,73,Female,WHITE,X5c006621.470c.4d58.9c59.804988b955d9
+1450,THCA,TCGA-BJ-A0Z9,1,1,5c160487-8682-406c-8dad-dd79bbfe3730.htseq.counts.gz,57,Female,WHITE,X5c160487.8682.406c.8dad.dd79bbfe3730
+1452,HNSC,"TCGA-BA-A6DB	",0,0,5c6604b8-7256-4957-9193-5b42a162226e.htseq.counts.gz,24,Female,WHITE,X5c6604b8.7256.4957.9193.5b42a162226e
+1456,STAD,TCGA-VQ-A91S,1,1,5d1a16dd-6c0c-4130-acd3-0573da2dc70c.htseq.counts.gz,63,Male,BLACK OR AFRICAN AMERICAN,X5d1a16dd.6c0c.4130.acd3.0573da2dc70c
+1457,COAD,"TCGA-AZ-6605	",0,1,5d362da1-aee5-403a-a16c-97d7d7b9d219.htseq.counts.gz,77,Male,WHITE,X5d362da1.aee5.403a.a16c.97d7d7b9d219
+1459,PRAD,TCGA-2A-A8W1,1,0,5d408d1f-e5e4-4901-b1a8-bf803e633117.htseq.counts.gz,54,Male,ASIAN,X5d408d1f.e5e4.4901.b1a8.bf803e633117
+1460,HNSC,"TCGA-CQ-6220	",1,0,5d539786-a2db-425b-b969-212cb774821e.htseq.counts.gz,69,Male,WHITE,X5d539786.a2db.425b.b969.212cb774821e
+1462,HNSC,"TCGA-P3-A5QF	",0,1,5da276ae-8c6a-4393-890e-2c00a9a1eb59.htseq.counts.gz,49,Male,WHITE,X5da276ae.8c6a.4393.890e.2c00a9a1eb59
+1463,HNSC,TCGA-CN-A497,0,1,5dc1623d-d048-4d85-b118-55a5226ede95.htseq.counts.gz,63,Male,,X5dc1623d.d048.4d85.b118.55a5226ede95
+1464,CHOL,TCGA-W5-AA2W,0,1,5ded64c9-6e37-413e-9e1f-8aa27b29e783.htseq.counts.gz,31,Female,WHITE,X5ded64c9.6e37.413e.9e1f.8aa27b29e783
+1465,PRAD,TCGA-EJ-A7NM,1,1,5e2f16e9-0720-4688-9e95-9fc480c8ade7.htseq.counts.gz,64,Male,WHITE,X5e2f16e9.0720.4688.9e95.9fc480c8ade7
+1466,PRAD,TCGA-G9-6367,1,0,5e3ca744-5dec-4d3f-93a2-9f13bab86784.htseq.counts.gz,60,Male,WHITE,X5e3ca744.5dec.4d3f.93a2.9f13bab86784
+1467,PRAD,TCGA-J4-AAU2,0,NA,5e3fd2aa-e0dd-4fe8-9944-05bba5d6bd91.htseq.counts.gz,59,Male,WHITE,X5e3fd2aa.e0dd.4fe8.9944.05bba5d6bd91
+1470,PRAD,TCGA-HC-7747,1,NA,5ec72280-04a7-434f-bdee-5bcffe7bc83d.htseq.counts.gz,52,Male,WHITE,X5ec72280.04a7.434f.bdee.5bcffe7bc83d
+1471,PRAD,TCGA-2A-A8W3,1,0,5eca9c76-ca24-4610-8dee-a0e205c5d6bc.htseq.counts.gz,69,Male,WHITE,X5eca9c76.ca24.4610.8dee.a0e205c5d6bc
+1474,PRAD,TCGA-J9-A8CN,1,0,5f1a1318-e500-48a5-9096-b6ca85601e59.htseq.counts.gz,53,Male,WHITE,X5f1a1318.e500.48a5.9096.b6ca85601e59
+1475,HNSC,"TCGA-UP-A6WW	",1,1,5f2b6920-36df-43f2-b245-57d3352bf3a6.htseq.counts.gz,58,Male,WHITE,X5f2b6920.36df.43f2.b245.57d3352bf3a6
+1476,PRAD,TCGA-EJ-A6RA,1,0,5f41f477-99ab-4fc7-a43a-8bf4317c6952.htseq.counts.gz,70,Male,WHITE,X5f41f477.99ab.4fc7.a43a.8bf4317c6952
+1480,COAD,"TCGA-CM-5861	",1,0,5f7d04a4-2a28-44ae-8c27-f5e60f244432.htseq.counts.gz,63,Female,WHITE,X5f7d04a4.2a28.44ae.8c27.f5e60f244432
+1482,BRCA,TCGA-A1-A0SN,0,1,5fa88a87-e100-4fc5-bc26-995ad8191c8f.htseq.counts.gz,50,Female,WHITE,X5fa88a87.e100.4fc5.bc26.995ad8191c8f
+1483,COAD,"TCGA-AZ-4616	",1,1,5faf3586-b033-45fd-8dd9-fef111b0f752.htseq.counts.gz,82,Female,WHITE,X5faf3586.b033.45fd.8dd9.fef111b0f752
+1485,LIHC,TCGA-2Y-A9GX,0,NA,5fdaa290-e3ab-498c-a31a-b09583541c53.htseq.counts.gz,68,Male,WHITE,X5fdaa290.e3ab.498c.a31a.b09583541c53
+1487,PRAD,TCGA-CH-5737,1,0,606767dd-9844-4bcd-851b-fe7a81442d56.htseq.counts.gz,73,Male,WHITE,X606767dd.9844.4bcd.851b.fe7a81442d56
+1488,HNSC,"TCGA-D6-A6EK	",0,0,606c5ae4-fefa-41ba-82b7-0e9679fafbc4.htseq.counts.gz,67,Male,WHITE,X606c5ae4.fefa.41ba.82b7.0e9679fafbc4
+1489,STAD,TCGA-VQ-A8PQ,1,1,60817736-cc15-4f46-95d3-5da374ab246d.htseq.counts.gz,50,Female,WHITE,X60817736.cc15.4f46.95d3.5da374ab246d
+1493,STAD,TCGA-VQ-AA6K,1,1,60e2f110-6b5a-4495-8ed7-15236fb2a58a.htseq.counts.gz,59,Male,WHITE,X60e2f110.6b5a.4495.8ed7.15236fb2a58a
+1494,HNSC,"TCGA-CV-6436	",0,0,60eeee3f-55f1-468c-b6eb-bd4d8cddc6d1.htseq.counts.gz,62,Male,WHITE,X60eeee3f.55f1.468c.b6eb.bd4d8cddc6d1
+1496,HNSC,"TCGA-CQ-5327	",0,0,6150399d-74bb-4065-9724-7e90ade0a9ec.htseq.counts.gz,61,Female,ASIAN,X6150399d.74bb.4065.9724.7e90ade0a9ec
+1499,PRAD,TCGA-VN-A88R,1,0,63015c93-3a1c-41cc-b0e5-3de7e0072a89.htseq.counts.gz,53,Male,BLACK OR AFRICAN AMERICAN,X63015c93.3a1c.41cc.b0e5.3de7e0072a89
+1500,HNSC,"TCGA-CV-7434	",1,0,6338e7d6-f5b7-4867-b2f3-883f2a05e16d.htseq.counts.gz,64,Male,WHITE,X6338e7d6.f5b7.4867.b2f3.883f2a05e16d
+1502,PRAD,TCGA-ZG-A9L5,1,NA,6367a8f1-ab21-4c13-aa24-a5f41ff0a7f5.htseq.counts.gz,58,Male,WHITE,X6367a8f1.ab21.4c13.aa24.a5f41ff0a7f5
+1503,COAD,"TCGA-3L-AA1B	",0,0,63691c59-d630-4b06-82bb-3d0587638a33.htseq.counts.gz,61,Female,BLACK OR AFRICAN AMERICAN,X63691c59.d630.4b06.82bb.3d0587638a33
+1504,STAD,TCGA-VQ-A91K,0,1,637b3148-f0e2-4c0b-87e0-5f33f32a9e95.htseq.counts.gz,69,Male,WHITE,X637b3148.f0e2.4c0b.87e0.5f33f32a9e95
+1505,PRAD,TCGA-KK-A8I6,1,0,637fbeaf-4bbf-48af-8c0a-4db38b412784.htseq.counts.gz,58,Male,WHITE,X637fbeaf.4bbf.48af.8c0a.4db38b412784
+1507,PRAD,TCGA-EJ-7782,1,0,640827e7-e319-4b34-a59b-485ef92cdc66.htseq.counts.gz,71,Male,BLACK OR AFRICAN AMERICAN,X640827e7.e319.4b34.a59b.485ef92cdc66
+1508,HNSC,TCGA-CN-4739,0,0,641f1fa0-34f6-455f-a1e8-41bc67f452f4.htseq.counts.gz,71,Male,WHITE,X641f1fa0.34f6.455f.a1e8.41bc67f452f4
+1509,PAAD,TCGA-2J-AABV,1,1,6423474d-60d7-4401-8e5b-46a3fbde5299.htseq.counts.gz,74,Male,WHITE,X6423474d.60d7.4401.8e5b.46a3fbde5299
+1511,PRAD,TCGA-EJ-A7NJ,1,0,642a0f73-3836-4be4-aecf-589cef68a0da.htseq.counts.gz,59,Male,WHITE,X642a0f73.3836.4be4.aecf.589cef68a0da
+1512,HNSC,"TCGA-CR-6491	",1,0,6458069d-dd99-45cd-8d59-a75b221295eb.htseq.counts.gz,60,Male,BLACK OR AFRICAN AMERICAN,X6458069d.dd99.45cd.8d59.a75b221295eb
+1514,PRAD,TCGA-G9-A9S0,1,1,64ad6740-678c-4095-8856-4257953beacc.htseq.counts.gz,53,Male,WHITE,X64ad6740.678c.4095.8856.4257953beacc
+1515,PRAD,TCGA-ZG-A9LU,1,NA,64bfb99a-508d-4f1e-9365-58745a59d518.htseq.counts.gz,67,Male,WHITE,X64bfb99a.508d.4f1e.9365.58745a59d518
+1516,BLCA,TCGA-DK-A2HX,1,1,64d36f74-2917-47fd-b645-fcdefc024c09.htseq.counts.gz,80,Female,WHITE,X64d36f74.2917.47fd.b645.fcdefc024c09
+1517,STAD,TCGA-HU-A4G2,1,0,64f89a5a-9f74-4751-9740-e6858617da7f.htseq.counts.gz,45,Male,ASIAN,X64f89a5a.9f74.4751.9740.e6858617da7f
+1518,PRAD,TCGA-V1-A8ML,1,NA,650d25de-363d-4c91-9922-2fe308c04b72.htseq.counts.gz,63,Male,BLACK OR AFRICAN AMERICAN,X650d25de.363d.4c91.9922.2fe308c04b72
+1521,PRAD,TCGA-YL-A8SK,1,1,6553fc60-e2f8-4c74-bb10-a37f64b2243f.htseq.counts.gz,67,Male,WHITE,X6553fc60.e2f8.4c74.bb10.a37f64b2243f
+1522,HNSC,"TCGA-BA-A6DA	",1,0,6575cdf0-09dd-4511-a487-d201184ecce0.htseq.counts.gz,41,Female,WHITE,X6575cdf0.09dd.4511.a487.d201184ecce0
+1523,PAAD,TCGA-3A-A9IN,1,1,657e19a6-e481-4d06-8613-1a93677f3425.htseq.counts.gz,62,Female,WHITE,X657e19a6.e481.4d06.8613.1a93677f3425
+1524,PAAD,TCGA-S4-A8RO,1,1,65a45bca-b5d4-4763-a51f-f7b9ad9efcb9.htseq.counts.gz,75,Female,WHITE,X65a45bca.b5d4.4763.a51f.f7b9ad9efcb9
+1527,PAAD,TCGA-US-A779,0,0,65f1f44c-1f60-45cd-8e1d-16304536c4d5.htseq.counts.gz,54,Female,WHITE,X65f1f44c.1f60.45cd.8e1d.16304536c4d5
+1532,STAD,TCGA-IP-7968,1,1,66e4b684-15cd-44fd-9344-67cf1f54b949.htseq.counts.gz,74,Male,WHITE,X66e4b684.15cd.44fd.9344.67cf1f54b949
+1533,BLCA,TCGA-DK-A3IS,0,0,66f3c0b6-1b74-484b-8540-32400cef01a7.htseq.counts.gz,68,Male,WHITE,X66f3c0b6.1b74.484b.8540.32400cef01a7
+1534,HNSC,"TCGA-MT-A67F	",1,0,6782154b-fab1-46ff-ae92-5432fc96013e.htseq.counts.gz,60,Female,WHITE,X6782154b.fab1.46ff.ae92.5432fc96013e
+1535,COAD,"TCGA-AY-A69D	",0,0,678d7cdd-0a63-41b2-9203-fa1385494399.htseq.counts.gz,55,Female,BLACK OR AFRICAN AMERICAN,X678d7cdd.0a63.41b2.9203.fa1385494399
+1536,HNSC,"TCGA-D6-8568	",1,1,6799eeed-fb86-4803-9792-9e9c12b25e8b.htseq.counts.gz,62,Male,WHITE,X6799eeed.fb86.4803.9792.9e9c12b25e8b
+1537,PRAD,TCGA-J4-8198,0,0,67d4b30d-49c5-400c-9e68-05384f182cb6.htseq.counts.gz,49,Male,BLACK OR AFRICAN AMERICAN,X67d4b30d.49c5.400c.9e68.05384f182cb6
+1540,COAD,"TCGA-CM-6172	",0,0,6815a151-f39d-42b5-b17f-b219fe9f73d1.htseq.counts.gz,70,Female,WHITE,X6815a151.f39d.42b5.b17f.b219fe9f73d1
+1542,HNSC,"TCGA-CQ-A4CD	",0,0,685a78c3-9d01-44f2-a932-ca1fd3960177.htseq.counts.gz,69,Male,WHITE,X685a78c3.9d01.44f2.a932.ca1fd3960177
+1544,PRAD,TCGA-ZG-A9L4,1,0,69250540-2adc-42c9-8524-e354836462dd.htseq.counts.gz,61,Male,WHITE,X69250540.2adc.42c9.8524.e354836462dd
+1546,COAD,"TCGA-CM-6678	",0,0,6947d9d0-2d4f-444e-889f-7dafccb67251.htseq.counts.gz,63,Female,WHITE,X6947d9d0.2d4f.444e.889f.7dafccb67251
+1547,PAAD,TCGA-FB-A7DR,1,NA,69675771-14b4-4edf-bbda-63c38051ca1c.htseq.counts.gz,48,Male,ASIAN,X69675771.14b4.4edf.bbda.63c38051ca1c
+1550,HNSC,"TCGA-QK-A6II	",1,0,69db8343-c230-4b1b-b501-ccbf5f2d3302.htseq.counts.gz,52,Male,WHITE,X69db8343.c230.4b1b.b501.ccbf5f2d3302
+1553,PRAD,TCGA-G9-6353,1,0,6a59d42a-b051-4403-b1f4-340b7934ae38.htseq.counts.gz,58,Male,WHITE,X6a59d42a.b051.4403.b1f4.340b7934ae38
+1554,STAD,TCGA-HU-A4GX,1,1,6a5dd3ed-c946-461c-a98e-c19e73ba3ef6.htseq.counts.gz,70,Female,ASIAN,X6a5dd3ed.c946.461c.a98e.c19e73ba3ef6
+1556,HNSC,TCGA-CN-A49A,0,0,6a745558-1a74-4bd3-94cd-f2c06cdd5c70.htseq.counts.gz,60,Male,WHITE,X6a745558.1a74.4bd3.94cd.f2c06cdd5c70
+1557,COAD,"TCGA-AZ-4313	",0,NA,6b047efa-258a-430a-909b-356c7c928864.htseq.counts.gz,51,Female,WHITE,X6b047efa.258a.430a.909b.356c7c928864
+1560,HNSC,"TCGA-BB-8601	",1,0,6b424e38-1004-4434-be48-ee01dad67982.htseq.counts.gz,84,Male,BLACK OR AFRICAN AMERICAN,X6b424e38.1004.4434.be48.ee01dad67982
+1562,HNSC,TCGA-HD-7753        ,0,0,6b69c062-7254-4942-b988-42d052f70e27.htseq.counts.gz,62,Male,BLACK OR AFRICAN AMERICAN,X6b69c062.7254.4942.b988.42d052f70e27
+1563,HNSC,"TCGA-CQ-6227	",1,0,6b7c8252-486c-49cc-9bfe-f8ccd0f331c0.htseq.counts.gz,77,Male,WHITE,X6b7c8252.486c.49cc.9bfe.f8ccd0f331c0
+1564,PRAD,TCGA-YJ-A8SW,1,0,6bb04c58-1cd3-4595-b04d-a35b291e7708.htseq.counts.gz,67,Male,,X6bb04c58.1cd3.4595.b04d.a35b291e7708
+1565,STAD,TCGA-VQ-A94P,1,1,6bd64fe0-d720-498c-98ef-5f4fed1c628d.htseq.counts.gz,57,Male,WHITE,X6bd64fe0.d720.498c.98ef.5f4fed1c628d
+1566,HNSC,"TCGA-CQ-6229	",1,0,6be2aa36-5cc9-4832-af98-47e04d8424e0.htseq.counts.gz,61,Male,WHITE,X6be2aa36.5cc9.4832.af98.47e04d8424e0
+1567,PRAD,TCGA-KK-A8I9,1,1,6be97400-e6e4-49bd-bde8-8ed1597a8d7c.htseq.counts.gz,61,Male,,X6be97400.e6e4.49bd.bde8.8ed1597a8d7c
+1571,PAAD,TCGA-3A-A9I9,1,1,6cfd5f67-1006-48e5-a406-63b7d7ed9828.htseq.counts.gz,67,Male,WHITE,X6cfd5f67.1006.48e5.a406.63b7d7ed9828
+1572,PRAD,TCGA-G9-7525,1,0,6d359d8b-0c01-4e23-9886-44c5c10d598b.htseq.counts.gz,64,Male,WHITE,X6d359d8b.0c01.4e23.9886.44c5c10d598b
+1573,PAAD,TCGA-IB-AAUN,1,0,6d4c0d48-9f92-48cb-be27-a3f5d5173b42.htseq.counts.gz,74,Female,WHITE,X6d4c0d48.9f92.48cb.be27.a3f5d5173b42
+1574,HNSC,"TCGA-CQ-5326	",1,0,6d9c73d6-215a-49f9-bc9f-af019f8db55c.htseq.counts.gz,67,Male,WHITE,X6d9c73d6.215a.49f9.bc9f.af019f8db55c
+1578,STAD,TCGA-HU-A4H0,1,1,6e37f15c-f206-4f46-8fde-458c9d27bf1e.htseq.counts.gz,72,Male,ASIAN,X6e37f15c.f206.4f46.8fde.458c9d27bf1e
+1579,HNSC,"TCGA-CV-5430	",1,1,6e4cd75c-e602-4845-95f2-8520d7976d56.htseq.counts.gz,61,Male,WHITE,X6e4cd75c.e602.4845.95f2.8520d7976d56
+1582,PRAD,TCGA-KC-A4BL,1,0,6f143139-d329-468d-ac0b-2552fb3362fd.htseq.counts.gz,65,Male,BLACK OR AFRICAN AMERICAN,X6f143139.d329.468d.ac0b.2552fb3362fd
+1585,PRAD,TCGA-2A-A8VX,1,0,6f421ec2-c74a-4719-b447-fab39c619d3b.htseq.counts.gz,70,Male,WHITE,X6f421ec2.c74a.4719.b447.fab39c619d3b
+1587,HNSC,"TCGA-TN-A7HI	",0,1,6f6ccd17-edd4-40fd-b046-f64dca855c9b.htseq.counts.gz,56,Male,WHITE,X6f6ccd17.edd4.40fd.b046.f64dca855c9b
+1588,COAD,"TCGA-CK-6746	",1,0,6fc8652c-24a6-49d4-8739-12cd70d947b6.htseq.counts.gz,84,Female,WHITE,X6fc8652c.24a6.49d4.8739.12cd70d947b6
+1592,PAAD,TCGA-3A-A9IC,1,1,702f6e87-99e7-47fb-a1bf-58b813489e6d.htseq.counts.gz,61,Female,WHITE,X702f6e87.99e7.47fb.a1bf.58b813489e6d
+1593,PAAD,TCGA-HV-A7OL,1,1,7051e52f-069d-48d5-966e-064a01bf2725.htseq.counts.gz,70,Male,ASIAN,X7051e52f.069d.48d5.966e.064a01bf2725
+1594,COAD,"TCGA-G4-6293	",0,0,708ac46f-4702-478e-b1ae-187e1a55b985.htseq.counts.gz,49,Female,WHITE,X708ac46f.4702.478e.b1ae.187e1a55b985
+1600,PRAD,TCGA-G9-A9S4,1,1,7165a65a-df3f-4141-adf7-a1365ad50fd6.htseq.counts.gz,62,Male,WHITE,X7165a65a.df3f.4141.adf7.a1365ad50fd6
+1602,PAAD,TCGA-FB-AAPU,0,0,7186ee30-db1a-43ad-955b-886cd5b5e771.htseq.counts.gz,41,Female,ASIAN,X7186ee30.db1a.43ad.955b.886cd5b5e771
+1608,CHOL,TCGA-3X-AAV9,1,NA,725eaa94-5221-4c22-bced-0c36c10c2c3b.htseq.counts.gz,72,Male,ASIAN,X725eaa94.5221.4c22.bced.0c36c10c2c3b
+1609,COAD,"TCGA-G4-6311	",1,1,7261b656-c79c-4581-a503-15b653e2b5d2.htseq.counts.gz,80,Male,WHITE,X7261b656.c79c.4581.a503.15b653e2b5d2
+1610,PAAD,TCGA-HZ-A4BK,1,1,72824463-7699-45ab-82d1-6bd5467e88bc.htseq.counts.gz,72,Male,WHITE,X72824463.7699.45ab.82d1.6bd5467e88bc
+1612,COAD,"TCGA-WS-AB45	",0,0,72a79a28-907d-42b8-9722-93448b87c3d2.htseq.counts.gz,52,Female,BLACK OR AFRICAN AMERICAN,X72a79a28.907d.42b8.9722.93448b87c3d2
+1615,COAD,"TCGA-CL-5917	",1,1,7318b77d-4f35-4707-903a-5f23337848be.htseq.counts.gz,71,Female,WHITE,X7318b77d.4f35.4707.903a.5f23337848be
+1618,COAD,"TCGA-CM-5344	",1,1,737a6ce7-5446-4610-bf9f-5c46b769b842.htseq.counts.gz,39,Female,WHITE,X737a6ce7.5446.4610.bf9f.5c46b769b842
+1619,HNSC,"TCGA-D6-A6EO	",0,0,740920a2-effa-4da2-98cf-bad71a9debd9.htseq.counts.gz,44,Male,WHITE,X740920a2.effa.4da2.98cf.bad71a9debd9
+1622,HNSC,"TCGA-CR-6492	",1,NA,7443d139-e791-41d1-bdd1-b376f684890a.htseq.counts.gz,78,Male,WHITE,X7443d139.e791.41d1.bdd1.b376f684890a
+1623,HNSC,"TCGA-IQ-A6SH	",0,0,7444bf59-9dfd-4037-b405-c9e45d78b445.htseq.counts.gz,55,Male,BLACK OR AFRICAN AMERICAN,X7444bf59.9dfd.4037.b405.c9e45d78b445
+1626,STAD,TCGA-HJ-7597,1,1,747eeaa9-3782-4ef3-8359-daefa8afb3c0.htseq.counts.gz,71,Female,WHITE,X747eeaa9.3782.4ef3.8359.daefa8afb3c0
+1628,LIHC,TCGA-2V-A95S,0,1,7483e7d3-3abb-427c-a001-fef17f1ff194.htseq.counts.gz,56,Male,ASIAN,X7483e7d3.3abb.427c.a001.fef17f1ff194
+1629,COAD,"TCGA-G4-6315	",1,0,74fd04b7-c554-4bae-a1ca-6b792b0521a1.htseq.counts.gz,66,Male,WHITE,X74fd04b7.c554.4bae.a1ca.6b792b0521a1
+1630,PRAD,TCGA-YL-A9WH,0,0,75140780-afad-4633-b7b8-f289abdedcf9.htseq.counts.gz,67,Male,WHITE,X75140780.afad.4633.b7b8.f289abdedcf9
+1632,HNSC,"TCGA-CX-7219	",0,1,75b0ca26-9ed9-42b1-b276-bf90ed67f3e3.htseq.counts.gz,47,Male,BLACK OR AFRICAN AMERICAN,X75b0ca26.9ed9.42b1.b276.bf90ed67f3e3
+1635,HNSC,"TCGA-BA-5152	",0,0,75eee491-5cde-4539-b247-e0aea0fe69e4.htseq.counts.gz,56,Male,WHITE,X75eee491.5cde.4539.b247.e0aea0fe69e4
+1636,HNSC,"TCGA-CV-7248	",1,1,75fc5562-132a-471c-95bd-983ea1d497b7.htseq.counts.gz,63,Female,BLACK OR AFRICAN AMERICAN,X75fc5562.132a.471c.95bd.983ea1d497b7
+1639,STAD,TCGA-VQ-A91A,1,1,763d2544-5f2f-4bbf-9e5e-70525fa1d2f5.htseq.counts.gz,67,Male,WHITE,X763d2544.5f2f.4bbf.9e5e.70525fa1d2f5
+1641,HNSC,"TCGA-CR-7398	",0,0,768336ab-12f0-4494-b280-f2137bfd2087.htseq.counts.gz,53,Female,WHITE,X768336ab.12f0.4494.b280.f2137bfd2087
+1642,PRAD,TCGA-ZG-A9M4,1,1,76882eaf-d20c-49f3-8aa2-823226a1d36f.htseq.counts.gz,65,Male,WHITE,X76882eaf.d20c.49f3.8aa2.823226a1d36f
+1643,PRAD,TCGA-VP-A87D,1,0,769ae8de-f5d0-45c1-855d-7a94ea63a716.htseq.counts.gz,54,Male,WHITE,X769ae8de.f5d0.45c1.855d.7a94ea63a716
+1646,HNSC,"TCGA-CN-4731	",1,1,77371754-9088-4587-b4d5-47b804c90a7d.htseq.counts.gz,63,Female,WHITE,X77371754.9088.4587.b4d5.47b804c90a7d
+1648,STAD,TCGA-IN-A7NU,1,1,773801e2-4938-4bf4-bccc-6e1694d2d4f5.htseq.counts.gz,69,Male,WHITE,X773801e2.4938.4bf4.bccc.6e1694d2d4f5
+1649,STAD,TCGA-VQ-A928,0,1,773a95de-b12e-4746-914d-dc6463585d05.htseq.counts.gz,49,Male,WHITE,X773a95de.b12e.4746.914d.dc6463585d05
+1655,LIHC,TCGA-2Y-A9GY,0,1,77e29a20-68d3-4881-a3ac-a564359bbc05.htseq.counts.gz,64,Female,WHITE,X77e29a20.68d3.4881.a3ac.a564359bbc05
+1656,ESCA,TCGA-ZR-A9CJ,1,1,780d954e-ea96-41ea-9eed-1891e894f45c.htseq.counts.gz,65,Male,WHITE,X780d954e.ea96.41ea.9eed.1891e894f45c
+1657,PRAD,TCGA-EJ-7312,1,0,781ec738-bee7-4732-bc4b-b432a8960103.htseq.counts.gz,58,Male,WHITE,X781ec738.bee7.4732.bc4b.b432a8960103
+1658,BLCA,TCGA-DK-AA6Q,0,1,782d0409-2385-468a-8395-beabf815ccc6.htseq.counts.gz,61,Female,WHITE,X782d0409.2385.468a.8395.beabf815ccc6
+1661,PRAD,TCGA-G9-7521,1,1,788bd344-93b6-42a8-b48a-f50bca7e9eca.htseq.counts.gz,52,Male,WHITE,X788bd344.93b6.42a8.b48a.f50bca7e9eca
+1667,PAAD,TCGA-HZ-A8P0,0,1,7989aed0-f0bc-4f0c-a8ae-f084221ed3f5.htseq.counts.gz,76,Male,WHITE,X7989aed0.f0bc.4f0c.a8ae.f084221ed3f5
+1668,PAAD,TCGA-PZ-A5RE,1,1,798e9f56-9964-4544-9d06-6a3aea20d0a6.htseq.counts.gz,44,Female,WHITE,X798e9f56.9964.4544.9d06.6a3aea20d0a6
+1671,COAD,"TCGA-G4-6588	",0,0,79f11db1-6893-410f-8fbb-8da2a54d0957.htseq.counts.gz,58,Female,WHITE,X79f11db1.6893.410f.8fbb.8da2a54d0957
+1672,COAD,"TCGA-NH-A5IV	",0,0,7a0818ac-0f38-4e44-87da-55d812e447cd.htseq.counts.gz,90,Female,BLACK OR AFRICAN AMERICAN,X7a0818ac.0f38.4e44.87da.55d812e447cd
+1676,BLCA,TCGA-BT-A20U,1,0,7abc25b7-742c-4511-b24d-3a9eeef37dbc.htseq.counts.gz,70,Female,WHITE,X7abc25b7.742c.4511.b24d.3a9eeef37dbc
+1677,HNSC,"TCGA-UF-A719	",0,0,7b04ca78-2e74-4443-a005-66fe8dadad0d.htseq.counts.gz,54,Male,,X7b04ca78.2e74.4443.a005.66fe8dadad0d
+1678,PAAD,TCGA-XN-A8T5,1,0,7b11a93d-fde2-4779-b4ab-502480a4c6ed.htseq.counts.gz,53,Female,WHITE,X7b11a93d.fde2.4779.b4ab.502480a4c6ed
+1679,LIHC,TCGA-BC-A8YO,0,1,7b77e8cb-3f1d-4af7-b609-d75f912484c4.htseq.counts.gz,66,Female,WHITE,X7b77e8cb.3f1d.4af7.b609.d75f912484c4
+1683,HNSC,"TCGA-CV-A6JU	",1,0,7c634205-6de0-48fe-800e-88a4ff43e498.htseq.counts.gz,61,Female,WHITE,X7c634205.6de0.48fe.800e.88a4ff43e498
+1684,PAAD,TCGA-OE-A75W,0,0,7cccb817-cdff-45c0-a4cd-9de57d7d8c48.htseq.counts.gz,75,Male,WHITE,X7cccb817.cdff.45c0.a4cd.9de57d7d8c48
+1685,STAD,TCGA-IN-A6RI,0,1,7cdd7a9b-bcd9-46c7-8a2a-5805a8927cd5.htseq.counts.gz,45,Male,WHITE,X7cdd7a9b.bcd9.46c7.8a2a.5805a8927cd5
+1687,ESCA,TCGA-L5-A43J,1,1,7ce58577-e828-450d-9f92-08f55add0484.htseq.counts.gz,90,Male,WHITE,X7ce58577.e828.450d.9f92.08f55add0484
+1689,BLCA,TCGA-4Z-AA83,0,0,7d74dfd7-8884-42ae-8bf8-b39dfbc2bbae.htseq.counts.gz,52,Male,WHITE,X7d74dfd7.8884.42ae.8bf8.b39dfbc2bbae
+1691,PRAD,TCGA-V1-A8MU,1,NA,7d9b81fb-d6f8-49a3-a383-a4cbecc80985.htseq.counts.gz,56,Male,BLACK OR AFRICAN AMERICAN,X7d9b81fb.d6f8.49a3.a383.a4cbecc80985
+1692,HNSC,TCGA-CN-6013,0,1,7dca2a25-5ce8-475c-a652-34be32269073.htseq.counts.gz,56,Male,WHITE,X7dca2a25.5ce8.475c.a652.34be32269073
+1693,HNSC,"TCGA-TN-A7HL	",1,1,7dec4382-b371-4a55-814d-e3d6b834af90.htseq.counts.gz,59,Male,WHITE,X7dec4382.b371.4a55.814d.e3d6b834af90
+1694,STAD,TCGA-VQ-A91X,1,1,7e3eb4a6-fc8e-4ae7-ab52-50f85390f78b.htseq.counts.gz,74,Male,WHITE,X7e3eb4a6.fc8e.4ae7.ab52.50f85390f78b
+1695,BLCA,TCGA-4Z-AA7Y,0,0,7e81acaf-fbcd-4561-8749-536ad12ba5f3.htseq.counts.gz,60,Male,WHITE,X7e81acaf.fbcd.4561.8749.536ad12ba5f3
+1699,HNSC,TCGA-CN-4738,0,1,7eae255c-2021-401e-8729-f05dcc512f69.htseq.counts.gz,53,Male,WHITE,X7eae255c.2021.401e.8729.f05dcc512f69
+1700,PRAD,TCGA-VN-A88Q,1,0,7ec11e7d-f7bf-4e70-94f3-3fb933f7bf58.htseq.counts.gz,60,Male,WHITE,X7ec11e7d.f7bf.4e70.94f3.3fb933f7bf58
+1701,STAD,TCGA-IN-A6RO,0,0,7ecf18f3-7a8c-4176-b78b-7df60d6330f3.htseq.counts.gz,70,Male,ASIAN,X7ecf18f3.7a8c.4176.b78b.7df60d6330f3
+1703,PRAD,TCGA-X4-A8KS,1,0,7efbe99a-f257-4e79-a86c-ee35315c060a.htseq.counts.gz,61,Male,BLACK OR AFRICAN AMERICAN,X7efbe99a.f257.4e79.a86c.ee35315c060a
+1707,STAD,TCGA-RD-A8N6,1,1,7f3b65a3-ad59-49f1-92fa-72793435f86e.htseq.counts.gz,78,Female,WHITE,X7f3b65a3.ad59.49f1.92fa.72793435f86e
+1716,PAAD,TCGA-HZ-A49G,1,0,8103517e-1192-4e6a-87c2-eb02010fa417.htseq.counts.gz,58,Female,WHITE,X8103517e.1192.4e6a.87c2.eb02010fa417
+1718,PRAD,TCGA-EJ-A8FU,1,0,81604026-d659-4e5e-9706-82b1ea584328.htseq.counts.gz,64,Male,WHITE,X81604026.d659.4e5e.9706.82b1ea584328
+1719,HNSC,"TCGA-CR-6493	",1,0,817d8462-672b-4373-a453-79cdd7498725.htseq.counts.gz,69,Male,BLACK OR AFRICAN AMERICAN,X817d8462.672b.4373.a453.79cdd7498725
+1721,HNSC,TCGA-BB-A5HU,1,NA,819db553-bb00-4850-a07a-e4fdef80a625.htseq.counts.gz,47,Male,WHITE,X819db553.bb00.4850.a07a.e4fdef80a625
+1722,COAD,"TCGA-CK-5913	",0,0,81a64df9-c073-4097-ba73-896396da3135.htseq.counts.gz,58,Female,WHITE,X81a64df9.c073.4097.ba73.896396da3135
+1723,PRAD,TCGA-KK-A7B4,1,1,81b46278-eaea-412d-b1f1-19f114f932c9.htseq.counts.gz,64,Male,WHITE,X81b46278.eaea.412d.b1f1.19f114f932c9
+1724,PRAD,TCGA-QU-A6IM,1,0,81e8a6a8-3577-42c1-a45b-e0143ad55fdf.htseq.counts.gz,59,Male,WHITE,X81e8a6a8.3577.42c1.a45b.e0143ad55fdf
+1726,PAAD,TCGA-IB-AAUV,1,1,82275c4f-5976-40e0-ac70-c74250de34ac.htseq.counts.gz,49,Male,WHITE,X82275c4f.5976.40e0.ac70.c74250de34ac
+1727,BLCA,TCGA-DK-A1AF,0,1,8266eaa8-ef8c-4e0a-b167-c4d301598b0e.htseq.counts.gz,84,Female,WHITE,X8266eaa8.ef8c.4e0a.b167.c4d301598b0e
+1730,STAD,TCGA-RD-A8N2,0,0,82db5c6f-81a0-4d09-b8a7-a2498874f3be.htseq.counts.gz,59,Female,WHITE,X82db5c6f.81a0.4d09.b8a7.a2498874f3be
+1731,HNSC,"TCGA-CV-A6K1	",0,0,82dcf543-77eb-416d-ae9f-2d7cce203d63.htseq.counts.gz,65,Male,WHITE,X82dcf543.77eb.416d.ae9f.2d7cce203d63
+1734,STAD,TCGA-HU-A4H4,0,0,83436e39-a06f-46f0-9450-d8667f1c7683.htseq.counts.gz,53,Female,ASIAN,X83436e39.a06f.46f0.9450.d8667f1c7683
+1735,ESCA,TCGA-IG-A4QS,1,1,834f1044-cf26-4042-b7dd-50486170b28c.htseq.counts.gz,71,Male,WHITE,X834f1044.cf26.4042.b7dd.50486170b28c
+1737,STAD,TCGA-MX-A663,1,1,836cabb0-9afc-4096-9b3e-da10bb9ea804.htseq.counts.gz,66,Male,WHITE,X836cabb0.9afc.4096.9b3e.da10bb9ea804
+1738,BLCA,TCGA-DK-A6B5,1,1,83a8e225-80e3-4d0f-8aa5-cef4828933ae.htseq.counts.gz,45,Male,WHITE,X83a8e225.80e3.4d0f.8aa5.cef4828933ae
+1740,PRAD,TCGA-EJ-A7NK,1,0,83db3c08-666e-489c-8440-9ed80770ac7b.htseq.counts.gz,58,Male,WHITE,X83db3c08.666e.489c.8440.9ed80770ac7b
+1741,BLCA,TCGA-BT-A2LA,0,0,83db4be1-0adb-49ff-826d-190b6968a82e.htseq.counts.gz,54,Male,WHITE,X83db4be1.0adb.49ff.826d.190b6968a82e
+1742,PAAD,TCGA-2J-AABK,1,1,83f33647-1b5f-4017-bb52-02cfb2478641.htseq.counts.gz,71,Male,WHITE,X83f33647.1b5f.4017.bb52.02cfb2478641
+1744,PAAD,TCGA-FB-AAQ2,1,1,844163ae-2444-4406-9873-12e8295e3e07.htseq.counts.gz,81,Female,WHITE,X844163ae.2444.4406.9873.12e8295e3e07
+1747,HNSC,TCGA-CN-6018,1,0,84742003-9470-44dd-8fbf-c1a73468b8d8.htseq.counts.gz,85,Female,WHITE,X84742003.9470.44dd.8fbf.c1a73468b8d8
+1748,PRAD,TCGA-G9-6339,1,1,84779846-32eb-4ca8-82fe-35784128409b.htseq.counts.gz,58,Male,WHITE,X84779846.32eb.4ca8.82fe.35784128409b
+1749,HNSC,"TCGA-HD-A6HZ	",0,1,8483eeab-fb92-4597-992a-20a4dabc3712.htseq.counts.gz,79,Female,WHITE,X8483eeab.fb92.4597.992a.20a4dabc3712
+1751,HNSC,"TCGA-BB-4224	",0,1,8502070e-8dde-4cd4-94e7-4eb06ec37d2f.htseq.counts.gz,52,Male,WHITE,X8502070e.8dde.4cd4.94e7.4eb06ec37d2f
+1752,PRAD,TCGA-EJ-5515,1,0,8503f1ef-14c5-4b49-aa24-e6aa6703de47.htseq.counts.gz,60,Male,WHITE,X8503f1ef.14c5.4b49.aa24.e6aa6703de47
+1753,BLCA,TCGA-DK-A6AV,0,0,8513e464-f8f9-42bf-ae6f-fe897fffa508.htseq.counts.gz,82,Female,ASIAN,X8513e464.f8f9.42bf.ae6f.fe897fffa508
+1756,PAAD,TCGA-3A-A9IZ,1,1,855d4a17-5c83-429d-919b-8c2a8e9bab0b.htseq.counts.gz,47,Male,WHITE,X855d4a17.5c83.429d.919b.8c2a8e9bab0b
+1757,PRAD,TCGA-XJ-A9DK,1,0,856ab9bf-ba30-4b04-b37a-c4273ac5ae5e.htseq.counts.gz,63,Male,WHITE,X856ab9bf.ba30.4b04.b37a.c4273ac5ae5e
+1762,PRAD,TCGA-EJ-7786,0,0,85f7e377-a186-40a2-951b-cb60fc835896.htseq.counts.gz,62,Male,WHITE,X85f7e377.a186.40a2.951b.cb60fc835896
+1764,PRAD,TCGA-EJ-A7NH,1,0,865770c6-e76c-4f55-98f6-c270715aded0.htseq.counts.gz,56,Male,WHITE,X865770c6.e76c.4f55.98f6.c270715aded0
+1766,HNSC,"TCGA-T2-A6X2	",1,0,86847710-0843-4b28-9d13-dc949ed6b9f3.htseq.counts.gz,82,Male,WHITE,X86847710.0843.4b28.9d13.dc949ed6b9f3
+1769,HNSC,"TCGA-CV-5973	",1,NA,86fee03b-f9f3-41cf-8969-6860e0b2a5e7.htseq.counts.gz,62,Female,WHITE,X86fee03b.f9f3.41cf.8969.6860e0b2a5e7
+1770,PAAD,TCGA-FB-AAQ0,1,0,87c17703-72c7-4207-8935-3391f207f4a6.htseq.counts.gz,68,Male,WHITE,X87c17703.72c7.4207.8935.3391f207f4a6
+1772,PRAD,TCGA-V1-A9OY,1,NA,87fdcc77-7a65-48a5-b60d-4904b5d159e2.htseq.counts.gz,57,Male,WHITE,X87fdcc77.7a65.48a5.b60d.4904b5d159e2
+1774,COAD,"TCGA-CM-6163	",1,1,8894d65e-71ff-4d4f-9abf-b0d3c6917a0c.htseq.counts.gz,74,Male,WHITE,X8894d65e.71ff.4d4f.9abf.b0d3c6917a0c
+1775,ESCA,TCGA-VR-A8EU,0,0,889f0b79-c45f-4381-b9a1-f95e27220e0d.htseq.counts.gz,51,Male,WHITE,X889f0b79.c45f.4381.b9a1.f95e27220e0d
+1779,PRAD,TCGA-VP-A878,1,0,890e804e-406b-4a2e-b5e0-ff06038e230f.htseq.counts.gz,58,Male,WHITE,X890e804e.406b.4a2e.b5e0.ff06038e230f
+1781,COAD,"TCGA-DC-6155	",0,1,8967671a-ef42-44f3-8fd3-78dc01e1e608.htseq.counts.gz,31,Female,WHITE,X8967671a.ef42.44f3.8fd3.78dc01e1e608
+1783,PRAD,TCGA-EJ-5509,1,0,8994192d-24da-4f55-addb-0717e56f08af.htseq.counts.gz,63,Male,WHITE,X8994192d.24da.4f55.addb.0717e56f08af
+1784,BRCA,TCGA-GM-A3XN,1,NA,899a4fae-569f-463c-8cb1-049b9d50b9f4.htseq.counts.gz,44,Female,WHITE,X899a4fae.569f.463c.8cb1.049b9d50b9f4
+1785,COAD,"TCGA-G4-6303	",0,1,8a266c03-d5ab-4047-96f2-a850cc7215b8.htseq.counts.gz,54,Female,WHITE,X8a266c03.d5ab.4047.96f2.a850cc7215b8
+1786,PRAD,TCGA-KK-A6E0,1,0,8a3ad636-402c-4a3c-922d-c3f93a1bbe1e.htseq.counts.gz,59,Male,ASIAN,X8a3ad636.402c.4a3c.922d.c3f93a1bbe1e
+1788,PRAD,TCGA-XK-AAJA,1,1,8a42c830-5632-4d7e-92bc-f8f0e774d7ff.htseq.counts.gz,62,Male,,X8a42c830.5632.4d7e.92bc.f8f0e774d7ff
+1791,PAAD,TCGA-IB-8127,0,0,8a799dfa-c1b5-4b13-9c91-6cbfe2abbc9f.htseq.counts.gz,59,Male,WHITE,X8a799dfa.c1b5.4b13.9c91.6cbfe2abbc9f
+1800,COAD,"TCGA-CK-4952	",0,0,8bc10161-4cca-46c5-985e-e07349484ec2.htseq.counts.gz,48,Female,WHITE,X8bc10161.4cca.46c5.985e.e07349484ec2
+1802,COAD,"TCGA-AZ-6607	",1,1,8c0efc8b-3e41-47bb-91b5-e55f525c0776.htseq.counts.gz,69,Male,WHITE,X8c0efc8b.3e41.47bb.91b5.e55f525c0776
+1803,STAD,TCGA-VQ-AA64,0,0,8c292c20-7f4b-4fcc-8c13-90886ab4b257.htseq.counts.gz,68,Male,WHITE,X8c292c20.7f4b.4fcc.8c13.90886ab4b257
+1804,COAD,"TCGA-G5-6572	",0,NA,8c423804-4e89-40e2-904c-5f90a410667e.htseq.counts.gz,56,Male,WHITE,X8c423804.4e89.40e2.904c.5f90a410667e
+1805,HNSC,"TCGA-CV-7414	",1,1,8c70399c-a49d-4d3f-9f4f-c2fa052693c5.htseq.counts.gz,78,Male,WHITE,X8c70399c.a49d.4d3f.9f4f.c2fa052693c5
+1807,PRAD,TCGA-YL-A9WI,0,0,8ce5e60d-88d2-45c5-bba2-b2ea4a290c46.htseq.counts.gz,63,Male,WHITE,X8ce5e60d.88d2.45c5.bba2.b2ea4a290c46
+1808,PRAD,TCGA-J4-A6M7,1,0,8cf2cdb7-500a-4f67-b796-ef14a0edfb73.htseq.counts.gz,53,Male,WHITE,X8cf2cdb7.500a.4f67.b796.ef14a0edfb73
+1809,HNSC,"TCGA-CV-7427	",1,1,8cf946a9-a7ca-4003-afea-f6afa64eb0da.htseq.counts.gz,73,Female,WHITE,X8cf946a9.a7ca.4003.afea.f6afa64eb0da
+1813,BLCA,TCGA-DK-A1A5,1,1,8d798acc-b2fe-4e02-85e1-7b8ba1ba9ed2.htseq.counts.gz,79,Male,WHITE,X8d798acc.b2fe.4e02.85e1.7b8ba1ba9ed2
+1815,STAD,TCGA-HU-8602,0,1,8dd6d0ba-4819-4c05-a89d-f259637811d3.htseq.counts.gz,58,Female,ASIAN,X8dd6d0ba.4819.4c05.a89d.f259637811d3
+1817,PRAD,TCGA-EJ-8474,1,0,8df5bde7-5a01-45db-b720-2a585476fb24.htseq.counts.gz,69,Male,WHITE,X8df5bde7.5a01.45db.b720.2a585476fb24
+1818,PRAD,TCGA-EJ-7327,1,0,8e08141b-7a0a-4a93-b9f1-0479b423c4b0.htseq.counts.gz,61,Male,WHITE,X8e08141b.7a0a.4a93.b9f1.0479b423c4b0
+1825,PRAD,TCGA-J9-A52B,1,1,8f38b3ce-c3ee-4b0c-8199-da067096206f.htseq.counts.gz,62,Male,WHITE,X8f38b3ce.c3ee.4b0c.8199.da067096206f
+1827,COAD,"TCGA-AD-A5EJ	",0,0,8f77f4f4-b184-40c7-8ab8-2f95b13620b5.htseq.counts.gz,74,Female,BLACK OR AFRICAN AMERICAN,X8f77f4f4.b184.40c7.8ab8.2f95b13620b5
+1828,STAD,TCGA-KB-A93G,0,0,8f8c0743-cab3-47a2-8fb2-b59d8ae1088f.htseq.counts.gz,68,Male,WHITE,X8f8c0743.cab3.47a2.8fb2.b59d8ae1088f
+1829,PRAD,TCGA-2A-A8VV,1,0,8f92f24b-90c7-46d0-b69d-e1d87a135a40.htseq.counts.gz,52,Male,,X8f92f24b.90c7.46d0.b69d.e1d87a135a40
+1832,PAAD,TCGA-3A-A9I7,0,1,8fc1d9e6-1247-498f-92c4-cc499dcfad45.htseq.counts.gz,45,Male,BLACK OR AFRICAN AMERICAN,X8fc1d9e6.1247.498f.92c4.cc499dcfad45
+1833,PRAD,TCGA-G9-6369,1,0,8ffe46a4-3c62-45b0-b850-75fba2b94ab1.htseq.counts.gz,55,Male,WHITE,X8ffe46a4.3c62.45b0.b850.75fba2b94ab1
+1835,COAD,"TCGA-CM-5868	",1,1,902732ab-8a29-46ae-a06d-556ab3cb6825.htseq.counts.gz,59,Female,WHITE,X902732ab.8a29.46ae.a06d.556ab3cb6825
+1836,PRAD,TCGA-G9-6366,1,0,90622959-d8ab-4996-bbd4-993ae0be4f63.htseq.counts.gz,61,Male,WHITE,X90622959.d8ab.4996.bbd4.993ae0be4f63
+1838,HNSC,TCGA-CN-5363,0,0,90ab2da7-4d60-4640-aa43-47aa1fb43390.htseq.counts.gz,48,Male,BLACK OR AFRICAN AMERICAN,X90ab2da7.4d60.4640.aa43.47aa1fb43390
+1840,HNSC,"TCGA-CV-A6JD	",0,0,90c6648f-bc76-4277-8bc6-e782f69efb90.htseq.counts.gz,82,Female,WHITE,X90c6648f.bc76.4277.8bc6.e782f69efb90
+1843,COAD,"TCGA-G4-6322	",0,1,911f6378-8a25-4570-9d3b-80f5b5bfc085.htseq.counts.gz,65,Male,WHITE,X911f6378.8a25.4570.9d3b.80f5b5bfc085
+1844,ESCA,TCGA-S8-A6BV,0,0,9150c3aa-680d-4a69-a5bb-19678b1527d6.htseq.counts.gz,76,Male,WHITE,X9150c3aa.680d.4a69.a5bb.19678b1527d6
+1845,BLCA,TCGA-DK-A1AG,1,0,91563d01-b6bf-49b3-a74c-e47f902defcb.htseq.counts.gz,65,Male,WHITE,X91563d01.b6bf.49b3.a74c.e47f902defcb
+1846,PRAD,TCGA-EJ-A8FS,1,0,918b212d-5768-4815-a031-9ac6c6bd2d2d.htseq.counts.gz,66,Male,WHITE,X918b212d.5768.4815.a031.9ac6c6bd2d2d
+1851,PRAD,TCGA-EJ-5519,1,1,924404bc-79bf-433e-b52a-614f4ef0e23d.htseq.counts.gz,64,Male,WHITE,X924404bc.79bf.433e.b52a.614f4ef0e23d
+1852,PRAD,TCGA-V1-A9ZR,1,NA,924d51ca-c40a-40be-a573-c569e7b06a2f.htseq.counts.gz,68,Male,WHITE,X924d51ca.c40a.40be.a573.c569e7b06a2f
+1853,PRAD,TCGA-XK-AAK1,0,0,925fafd4-8868-48dd-81e6-f6b6ca6de0fb.htseq.counts.gz,62,Male,WHITE,X925fafd4.8868.48dd.81e6.f6b6ca6de0fb
+1856,HNSC,"TCGA-H7-A76A	",0,1,93084e1b-a6dd-4148-a251-2bb6bae40ddc.htseq.counts.gz,57,Male,WHITE,X93084e1b.a6dd.4148.a251.2bb6bae40ddc
+1858,STAD,TCGA-VQ-AA6G,0,1,935132e7-8ba2-4794-a14e-00d60dc28451.htseq.counts.gz,68,Male,WHITE,X935132e7.8ba2.4794.a14e.00d60dc28451
+1859,BLCA,TCGA-DK-A1AC,1,1,9375f65d-23d3-4db0-b3e5-8cdd525cb3a9.htseq.counts.gz,72,Male,WHITE,X9375f65d.23d3.4db0.b3e5.8cdd525cb3a9
+1860,HNSC,"TCGA-CV-7435	",1,1,9380f2ec-ae8a-401b-a25b-ed483e9e6e1c.htseq.counts.gz,57,Female,WHITE,X9380f2ec.ae8a.401b.a25b.ed483e9e6e1c
+1862,PAAD,TCGA-IB-7893,1,NA,939eeb3c-9c0b-431f-8020-7165ee19f068.htseq.counts.gz,64,Male,WHITE,X939eeb3c.9c0b.431f.8020.7165ee19f068
+1863,PRAD,TCGA-CH-5753,1,1,93b8bdcb-02fc-4859-885d-7e95a08f55b6.htseq.counts.gz,70,Male,WHITE,X93b8bdcb.02fc.4859.885d.7e95a08f55b6
+1865,PAAD,TCGA-HZ-7919,1,1,93efda82-e564-4f15-b733-e924a049234d.htseq.counts.gz,52,Female,WHITE,X93efda82.e564.4f15.b733.e924a049234d
+1866,PRAD,TCGA-HC-A6AN,1,0,94043a2d-b9e2-426d-9e89-6213034332f6.htseq.counts.gz,67,Male,WHITE,X94043a2d.b9e2.426d.9e89.6213034332f6
+1868,PRAD,TCGA-KK-A7AV,1,0,941a4433-7ad5-4cee-b0c3-7df6db122417.htseq.counts.gz,58,Male,BLACK OR AFRICAN AMERICAN,X941a4433.7ad5.4cee.b0c3.7df6db122417
+1873,HNSC,"TCGA-DQ-7591	",1,0,9541e81d-988d-4e1f-b804-bd960c0944e7.htseq.counts.gz,62,Male,WHITE,X9541e81d.988d.4e1f.b804.bd960c0944e7
+1874,PRAD,TCGA-KK-A7AP,1,1,95452d6d-c1bd-4fbf-a95a-6f41d9add559.htseq.counts.gz,55,Male,WHITE,X95452d6d.c1bd.4fbf.a95a.6f41d9add559
+1876,PRAD,TCGA-KC-A7FD,1,0,95b387fa-9498-4a1e-b701-654786f9d0a6.htseq.counts.gz,62,Male,WHITE,X95b387fa.9498.4a1e.b701.654786f9d0a6
+1879,PRAD,TCGA-V1-A9Z7,1,1,95feab59-ffa7-4d17-a731-b41944116cce.htseq.counts.gz,54,Male,WHITE,X95feab59.ffa7.4d17.a731.b41944116cce
+1880,HNSC,TCGA-CN-4742,1,1,9616e47a-f554-445b-95af-aeb2a402d630.htseq.counts.gz,48,Female,WHITE,X9616e47a.f554.445b.95af.aeb2a402d630
+1881,PRAD,TCGA-G9-6332,1,0,963ec51f-b743-43cf-ac02-75219f08c52f.htseq.counts.gz,55,Male,WHITE,X963ec51f.b743.43cf.ac02.75219f08c52f
+1882,COAD,"TCGA-4N-A93T	",0,0,966ad64a-5a6d-4219-ac8e-adbfb9a79cad.htseq.counts.gz,67,Male,BLACK OR AFRICAN AMERICAN,X966ad64a.5a6d.4219.ac8e.adbfb9a79cad
+1884,PRAD,TCGA-G9-6378,1,0,96e790cc-5875-46c3-8374-3c1dcae9d3d0.htseq.counts.gz,54,Male,BLACK OR AFRICAN AMERICAN,X96e790cc.5875.46c3.8374.3c1dcae9d3d0
+1886,HNSC,"TCGA-DQ-5630	",1,0,9767968a-11d5-474a-900f-5a91367e7418.htseq.counts.gz,73,Male,WHITE,X9767968a.11d5.474a.900f.5a91367e7418
+1889,PAAD,TCGA-HV-A5A5,1,1,97cc2d08-c822-4cc5-aafc-d2c1fc1c9b57.htseq.counts.gz,61,Female,ASIAN,X97cc2d08.c822.4cc5.aafc.d2c1fc1c9b57
+1890,PRAD,TCGA-VP-A87J,1,0,97e8bc29-7d59-468a-8776-cfd294f05bba.htseq.counts.gz,56,Male,BLACK OR AFRICAN AMERICAN,X97e8bc29.7d59.468a.8776.cfd294f05bba
+1892,PRAD,TCGA-HC-8257,1,0,980520b6-ea79-45d8-a278-27e6277f970f.htseq.counts.gz,70,Male,BLACK OR AFRICAN AMERICAN,X980520b6.ea79.45d8.a278.27e6277f970f
+1895,LIHC,TCGA-2Y-A9GZ,0,1,98380eb7-4de1-4e3a-989c-eedf6eec2977.htseq.counts.gz,82,Female,WHITE,X98380eb7.4de1.4e3a.989c.eedf6eec2977
+1896,STAD,TCGA-F1-A72C,1,1,984ced86-0cad-4c98-8d1a-09305b1f8cc5.htseq.counts.gz,68,Male,ASIAN,X984ced86.0cad.4c98.8d1a.09305b1f8cc5
+1897,PRAD,TCGA-KK-A8I8,1,1,984e48d4-d2d0-4dee-957a-20a9d1150781.htseq.counts.gz,69,Male,WHITE,X984e48d4.d2d0.4dee.957a.20a9d1150781
+1903,PRAD,TCGA-HC-7744,1,0,98ecea60-b27e-4a2a-94cd-f3c606f462f8.htseq.counts.gz,46,Male,WHITE,X98ecea60.b27e.4a2a.94cd.f3c606f462f8
+1906,PRAD,TCGA-HC-8264,1,1,992d1bbb-5540-4082-9e08-819e0272cf89.htseq.counts.gz,60,Male,WHITE,X992d1bbb.5540.4082.9e08.819e0272cf89
+1907,PRAD,TCGA-CH-5750,1,0,99361799-62be-416d-8f9c-f7da515c596a.htseq.counts.gz,72,Male,WHITE,X99361799.62be.416d.8f9c.f7da515c596a
+1908,BLCA,TCGA-DK-A2I1,0,1,9962ac22-d790-40ae-a9bb-94d117a188cb.htseq.counts.gz,73,Female,WHITE,X9962ac22.d790.40ae.a9bb.94d117a188cb
+1911,CHOL,TCGA-W5-AA2X,0,1,99939497-52b7-4049-b221-12ff3332b634.htseq.counts.gz,67,Male,WHITE,X99939497.52b7.4049.b221.12ff3332b634
+1913,PRAD,TCGA-YL-A8SL,1,1,99d0fd68-6617-4a7a-af2b-a5f8eecc42b8.htseq.counts.gz,74,Male,WHITE,X99d0fd68.6617.4a7a.af2b.a5f8eecc42b8
+1915,STAD,TCGA-VQ-A8PO,0,0,99df0f6e-3265-4ea6-84a3-58f1559f632a.htseq.counts.gz,74,Male,WHITE,X99df0f6e.3265.4ea6.84a3.58f1559f632a
+1917,STAD,TCGA-VQ-A8PF,1,1,9a5706d7-435a-46e5-8099-5c908c9f6a72.htseq.counts.gz,76,Male,,X9a5706d7.435a.46e5.8099.5c908c9f6a72
+1920,BLCA,TCGA-4Z-AA7Q,0,0,9ae0ab75-bcb7-40e2-b987-2f14f8d254dc.htseq.counts.gz,79,Male,WHITE,X9ae0ab75.bcb7.40e2.b987.2f14f8d254dc
+1922,HNSC,"TCGA-CV-5977	",1,1,9b874579-0d12-425f-ba47-a0b52f752cb0.htseq.counts.gz,66,Male,WHITE,X9b874579.0d12.425f.ba47.a0b52f752cb0
+1924,HNSC,"TCGA-CV-6936	",1,1,9bc47c61-28e6-409e-90af-4266e6e1a6b5.htseq.counts.gz,68,Male,WHITE,X9bc47c61.28e6.409e.90af.4266e6e1a6b5
+1925,PRAD,TCGA-HC-A6AO,0,0,9bce6ce6-683c-4a35-9c23-763cdbd209a5.htseq.counts.gz,52,Male,WHITE,X9bce6ce6.683c.4a35.9c23.763cdbd209a5
+1926,STAD,TCGA-VQ-A91V,0,1,9bceb1fe-7431-41cb-9d54-eda8ec7e6edb.htseq.counts.gz,58,Male,,X9bceb1fe.7431.41cb.9d54.eda8ec7e6edb
+1927,HNSC,"TCGA-BA-A4IG	",0,0,9be687b5-8d1c-4c73-ba7b-9f9aeb3048e8.htseq.counts.gz,77,Male,WHITE,X9be687b5.8d1c.4c73.ba7b.9f9aeb3048e8
+1930,PRAD,TCGA-V1-A8MF,1,NA,9c4cca71-7cc4-4e74-b1b9-4099be5ad6d9.htseq.counts.gz,65,Male,BLACK OR AFRICAN AMERICAN,X9c4cca71.7cc4.4e74.b1b9.4099be5ad6d9
+1932,PRAD,TCGA-G9-6370,1,0,9cda6be2-572b-4208-8656-d142335f614e.htseq.counts.gz,52,Male,WHITE,X9cda6be2.572b.4208.8656.d142335f614e
+1933,PRAD,TCGA-YL-A8SC,1,0,9d305e58-9213-4652-ae2b-7ce36ea4d5ff.htseq.counts.gz,66,Male,WHITE,X9d305e58.9213.4652.ae2b.7ce36ea4d5ff
+1935,PRAD,TCGA-HC-7212,1,0,9da26efc-89af-48b2-8a9c-618b87767346.htseq.counts.gz,56,Male,WHITE,X9da26efc.89af.48b2.8a9c.618b87767346
+1937,HNSC,"TCGA-CQ-A4CE	",1,0,9dc3417f-c1d9-4935-ae0a-0686cf934615.htseq.counts.gz,76,Female,,X9dc3417f.c1d9.4935.ae0a.0686cf934615
+1938,HNSC,"TCGA-CQ-5330	",1,0,9dcc4f82-49ff-43d5-af4b-e1fd6480b863.htseq.counts.gz,69,Female,WHITE,X9dcc4f82.49ff.43d5.af4b.e1fd6480b863
+1939,LIHC,TCGA-2Y-A9H4,0,0,9dd14a4d-a863-4994-b5c6-b5bec92ff818.htseq.counts.gz,68,Male,BLACK OR AFRICAN AMERICAN,X9dd14a4d.a863.4994.b5c6.b5bec92ff818
+1943,PRAD,TCGA-FC-A8O0,1,NA,9e6193dd-1a08-4769-af3b-8570535f40c8.htseq.counts.gz,68,Male,WHITE,X9e6193dd.1a08.4769.af3b.8570535f40c8
+1946,PRAD,TCGA-XA-A8JR,1,1,9e6b50ac-cb34-45c2-b3bd-e844b0c386e2.htseq.counts.gz,68,Male,,X9e6b50ac.cb34.45c2.b3bd.e844b0c386e2
+1947,COAD,"TCGA-CM-4743	",0,NA,9e97f017-6855-4d68-bd2a-c4da3ccb1d57.htseq.counts.gz,69,Male,WHITE,X9e97f017.6855.4d68.bd2a.c4da3ccb1d57
+1951,STAD,TCGA-VQ-A927,1,1,9f33b653-6241-4d18-95d8-fe6ab4126524.htseq.counts.gz,81,Male,WHITE,X9f33b653.6241.4d18.95d8.fe6ab4126524
+1952,COAD,"TCGA-G4-6625	",0,0,9f43c5bf-0fc1-4339-81a2-1d315d6940e7.htseq.counts.gz,77,Female,WHITE,X9f43c5bf.0fc1.4339.81a2.1d315d6940e7
+1953,PRAD,TCGA-H9-A6BY,1,0,9f7d2a09-038f-4a98-85c9-652bdbcc9d33.htseq.counts.gz,63,Male,WHITE,X9f7d2a09.038f.4a98.85c9.652bdbcc9d33
+1955,PRAD,TCGA-HC-7736,1,0,9fc9128a-5cf9-4991-81b5-754092c301b1.htseq.counts.gz,59,Male,WHITE,X9fc9128a.5cf9.4991.81b5.754092c301b1
