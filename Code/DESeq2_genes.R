@@ -2,6 +2,7 @@
 # Email: hwangp@mit.edu
 # Project: Differential Gene Expression Analysis for Cancer Diagnosis
 # Date Completed: June 15, 2020
+# Date Revised: June 20, 2021
 
 library("BiocParallel")
 register(MulticoreParam(4))
